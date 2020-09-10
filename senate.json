@@ -561,7 +561,10 @@
         "state": "Montana",
         "party": "Democrat",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/jontester",
+                "https://twitter.com/SenatorTester"
+            ]
         }
     },
     {
