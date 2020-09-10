@@ -1,0 +1,1063 @@
+[
+    {
+        "name": "Richard Shelby",
+        "state": "Alabama",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenShelby"
+            ],
+            "facebook": [
+                "https://www.facebook.com/RichardShelby"
+            ]
+        }
+    },
+    {
+        "name": "Doug Jones",
+        "state": "Alabama",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DougJones",
+                "https://twitter.com/SenDougJones"
+            ]
+        }
+    },
+    {
+        "name": "Daniel S. Sullivan",
+        "state": "Alaska",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenDanSullivan"
+            ]
+        }
+    },
+    {
+        "name": "Lisa Murkowski",
+        "state": "Alaska",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/lisamurkowski"
+            ]
+        }
+    },
+    {
+        "name": "Kyrsten Sinema",
+        "state": "Arizona",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorSinema",
+                "https://twitter.com/kyrstensinema"
+            ]
+        }
+    },
+    {
+        "name": "Martha McSally",
+        "state": "Arizona",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenMcSallyAZ"
+            ]
+        }
+    },
+    {
+        "name": "Tom Cotton",
+        "state": "Arkansas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenTomCotton",
+                "https://twitter.com/TomCottonAR"
+            ]
+        }
+    },
+    {
+        "name": "John Boozman",
+        "state": "Arkansas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Boozman4AR",
+                "https://twitter.com/JohnBoozman"
+            ]
+        }
+    },
+    {
+        "name": "Dianne Feinstein",
+        "state": "California",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenFeinstein"
+            ]
+        }
+    },
+    {
+        "name": "Kamala D. Harris",
+        "state": "California",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/KamalaHarris"
+            ]
+        }
+    },
+    {
+        "name": "Michael Bennet",
+        "state": "Colorado",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorBennet",
+                "https://twitter.com/MichaelBennet"
+            ]
+        }
+    },
+    {
+        "name": "Cory Gardner",
+        "state": "Colorado",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenCoryGardner",
+                "https://twitter.com/CoryGardner"
+            ]
+        }
+    },
+    {
+        "name": "Christopher S. Murphy",
+        "state": "Connecticut",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChrisMurphyCT"
+            ]
+        }
+    },
+    {
+        "name": "Richard Blumenthal",
+        "state": "Connecticut",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenBlumenthal"
+            ]
+        }
+    },
+    {
+        "name": "Tom Carper",
+        "state": "Delaware",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TomCarperforDE",
+                "https://twitter.com/SenatorCarper"
+            ]
+        }
+    },
+    {
+        "name": "Chris Coons",
+        "state": "Delaware",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChrisCoons"
+            ]
+        }
+    },
+    {
+        "name": "Rick Scott",
+        "state": "Florida",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenRickScott",
+                "https://twitter.com/ScottforFlorida"
+            ]
+        }
+    },
+    {
+        "name": "Marco Rubio",
+        "state": "Florida",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/marcorubio",
+                "https://twitter.com/SenRubioPress"
+            ]
+        }
+    },
+    {
+        "name": "David Perdue",
+        "state": "Georgia",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Perduesenate",
+                "https://twitter.com/sendavidperdue"
+            ]
+        }
+    },
+    {
+        "name": "Kelly Loeffler",
+        "state": "Georgia",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorLoeffler",
+                "https://twitter.com/KLoeffler"
+            ]
+        }
+    },
+    {
+        "name": "Brian E. Schatz",
+        "state": "Hawaii",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/brianschatz",
+                "https://twitter.com/SenBrianSchatz"
+            ]
+        }
+    },
+    {
+        "name": "Mazie K. Hirono",
+        "state": "Hawaii",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/mazieforhawaii",
+                "https://twitter.com/maziehirono"
+            ]
+        }
+    },
+    {
+        "name": "Mike Crapo",
+        "state": "Idaho",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikeCrapo",
+                "https://twitter.com/crapoforsenate"
+            ]
+        }
+    },
+    {
+        "name": "Jim Risch",
+        "state": "Idaho",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorRisch",
+                "https://twitter.com/Risch4Idaho",
+                "https://twitter.com/SenateForeign"
+            ]
+        }
+    },
+    {
+        "name": "Tammy Duckworth",
+        "state": "Illinois",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenDuckworth",
+                "https://twitter.com/TammyforIL"
+            ]
+        }
+    },
+    {
+        "name": "Dick Durbin",
+        "state": "Illinois",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorDurbin",
+                "https://twitter.com/DickDurbin"
+            ]
+        }
+    },
+    {
+        "name": "Mike Braun",
+        "state": "Indiana",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorBraun"
+            ]
+        }
+    },
+    {
+        "name": "Todd C. Young",
+        "state": "Indiana",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenToddYoung",
+                "https://twitter.com/ToddYoungIN"
+            ]
+        }
+    },
+    {
+        "name": "Joni Ernst",
+        "state": "Iowa",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/joniernst",
+                "https://twitter.com/SenJoniErnst"
+            ]
+        }
+    },
+    {
+        "name": "Chuck Grassley",
+        "state": "Iowa",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorCharles",
+                "https://twitter.com/ChuckGrassley"
+            ]
+        }
+    },
+    {
+        "name": "Jerry Moran",
+        "state": "Kansas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JerryMoran",
+                "https://twitter.com/SenateVA"
+            ]
+        }
+    },
+    {
+        "name": "Pat Roberts",
+        "state": "Kansas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PatRoberts"
+            ]
+        }
+    },
+    {
+        "name": "Mitch McConnell",
+        "state": "Kentucky",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/senatemajldr",
+                "https://twitter.com/McConnellPress",
+                "https://twitter.com/SRCC"
+            ]
+        }
+    },
+    {
+        "name": "Rand Paul",
+        "state": "Kentucky",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RandPaul",
+                "https://twitter.com/DrRandPaul"
+            ]
+        }
+    },
+    {
+        "name": "Bill Cassidy",
+        "state": "Louisiana",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BillCassidy",
+                "https://twitter.com/SenBillCassidy"
+            ]
+        }
+    },
+    {
+        "name": "John Neely Kennedy",
+        "state": "Louisiana",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JohnKennedyLA",
+                "https://twitter.com/SenJohnKennedy"
+            ],
+            "facebook": [
+                "https://www.facebook.com/SenatorJohnKennedy/"
+            ]
+        }
+    },
+    {
+        "name": "Susan Collins",
+        "state": "Maine",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorCollins",
+                "https://twitter.com/SenSusanCollins"
+            ]
+        }
+    },
+    {
+        "name": "Angus King",
+        "state": "Maine",
+        "party": "Independent",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenAngusKing",
+                "https://twitter.com/AngusforMaine"
+            ]
+        }
+    },
+    {
+        "name": "Chris Van Hollen",
+        "state": "Maryland",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChrisVanHollen",
+                "https://twitter.com/VanHollenForMD"
+            ]
+        }
+    },
+    {
+        "name": "Ben Cardin",
+        "state": "Maryland",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorCardin",
+                "https://twitter.com/BenCardinforMD"
+            ]
+        }
+    },
+    {
+        "name": "Elizabeth Warren",
+        "state": "Massachusetts",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenWarren",
+                "https://twitter.com/ewarren",
+                "https://twitter.com/TeamWarren"
+            ]
+        }
+    },
+    {
+        "name": "Edward J. Markey",
+        "state": "Massachusetts",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/EdMarkey",
+                "https://twitter.com/SenMarkey"
+            ]
+        }
+    },
+    {
+        "name": "Gary Peters",
+        "state": "Michigan",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GaryPeters"
+            ]
+        }
+    },
+    {
+        "name": "Debbie Stabenow",
+        "state": "Michigan",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/stabenow",
+                "https://twitter.com/SenStabenow"
+            ]
+        }
+    },
+    {
+        "name": "Tina Smith",
+        "state": "Minnesota",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TinaSmithMN"
+            ]
+        }
+    },
+    {
+        "name": "Amy Klobuchar",
+        "state": "Minnesota",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/amyklobuchar",
+                "https://twitter.com/SenAmyKlobuchar"
+            ]
+        }
+    },
+    {
+        "name": "Roger Wicker",
+        "state": "Mississippi",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RogerWicker",
+                "https://twitter.com/SenatorWicker"
+            ]
+        }
+    },
+    {
+        "name": "Cindy Hyde-Smith",
+        "state": "Mississippi",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/cindyhydesmith",
+                "https://twitter.com/SenHydeSmith"
+            ]
+        }
+    },
+    {
+        "name": "Roy Blunt",
+        "state": "Missouri",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RoyBlunt",
+                "https://twitter.com/RoyBluntMO"
+            ]
+        }
+    },
+    {
+        "name": "Josh Hawley",
+        "state": "Missouri",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenHawleyPress"
+            ]
+        }
+    },
+    {
+        "name": "Steve Daines",
+        "state": "Montana",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SteveDaines",
+                "https://twitter.com/DainesforMT"
+            ]
+        }
+    },
+    {
+        "name": "Jon Tester",
+        "state": "Montana",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Ben Sasse",
+        "state": "Nebraska",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BenSasse",
+                "https://twitter.com/SenSasse"
+            ]
+        }
+    },
+    {
+        "name": "Deb Fischer",
+        "state": "Nebraska",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DebFischerNE",
+                "https://twitter.com/SenatorFischer"
+            ]
+        }
+    },
+    {
+        "name": "Catherine Cortez Masto",
+        "state": "Nevada",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenCortezMasto",
+                "https://twitter.com/CatherineForNV"
+            ]
+        }
+    },
+    {
+        "name": "Jacky Rosen",
+        "state": "Nevada",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenJackyRosen",
+                "https://twitter.com/RosenforNevada"
+            ]
+        }
+    },
+    {
+        "name": "Maggie Hassan",
+        "state": "New Hampshire",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorHassan"
+            ]
+        }
+    },
+    {
+        "name": "Jeanne Shaheen",
+        "state": "New Hampshire",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JeanneShaheen",
+                "https://twitter.com/SenatorShaheen"
+            ]
+        }
+    },
+    {
+        "name": "Bob Menendez",
+        "state": "New Jersey",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BobMenendezNJ",
+                "https://twitter.com/SenatorMenendez"
+            ]
+        }
+    },
+    {
+        "name": "Cory Booker",
+        "state": "New Jersey",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CoryBooker"
+            ]
+        }
+    },
+    {
+        "name": "Tom Udall",
+        "state": "New Mexico",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorTomUdall",
+                "https://twitter.com/tomudall"
+            ]
+        }
+    },
+    {
+        "name": "Martin Heinrich",
+        "state": "New Mexico",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MartinHeinrich",
+                "https://twitter.com/TeamHeinrich"
+            ]
+        }
+    },
+    {
+        "name": "Chuck Schumer",
+        "state": "New York",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenSchumer"
+            ]
+        }
+    },
+    {
+        "name": "Kirsten Gillibrand",
+        "state": "New York",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenGillibrand",
+                "https://twitter.com/gillibrandny"
+            ]
+        }
+    },
+    {
+        "name": "Richard Burr",
+        "state": "North Carolina",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorBurr",
+                "https://twitter.com/BurrForSenate"
+            ]
+        }
+    },
+    {
+        "name": "Thom Tillis",
+        "state": "North Carolina",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenThomTillis",
+                "https://twitter.com/ThomTillis"
+            ]
+        }
+    },
+    {
+        "name": "John Hoeven",
+        "state": "North Dakota",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenJohnHoeven"
+            ]
+        }
+    },
+    {
+        "name": "Kevin Cramer",
+        "state": "North Dakota",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/kevincramer",
+                "https://twitter.com/SenKevinCramer"
+            ]
+        }
+    },
+    {
+        "name": "Rob Portman",
+        "state": "Ohio",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/senrobportman",
+                "https://twitter.com/robportman"
+            ]
+        }
+    },
+    {
+        "name": "Sherrod Brown",
+        "state": "Ohio",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenSherrodBrown",
+                "https://twitter.com/SherrodBrown"
+            ]
+        }
+    },
+    {
+        "name": "Jim Inhofe",
+        "state": "Oklahoma",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/inhofeforsenate",
+                "https://twitter.com/JimInhofe",
+                "https://twitter.com/InhofePress"
+            ]
+        }
+    },
+    {
+        "name": "James Lankford",
+        "state": "Oklahoma",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorLankford",
+                "https://twitter.com/jameslankford"
+            ]
+        }
+    },
+    {
+        "name": "Jeff Merkley",
+        "state": "Oregon",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenJeffMerkley",
+                "https://twitter.com/JeffMerkley"
+            ]
+        }
+    },
+    {
+        "name": "Ron Wyden",
+        "state": "Oregon",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RonWyden",
+                "https://twitter.com/WydenForOregon",
+                "https://twitter.com/WydenPress"
+            ]
+        }
+    },
+    {
+        "name": "Pat Toomey",
+        "state": "Pennsylvania",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenToomey",
+                "https://twitter.com/PatToomey"
+            ]
+        }
+    },
+    {
+        "name": "Bob Casey Jr.",
+        "state": "Pennsylvania",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenBobCasey",
+                "https://twitter.com/Bob_Casey"
+            ]
+        }
+    },
+    {
+        "name": "Sheldon Whitehouse",
+        "state": "Rhode Island",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenWhitehouse",
+                "https://twitter.com/SheldonforRI"
+            ]
+        }
+    },
+    {
+        "name": "Jack Reed",
+        "state": "Rhode Island",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/jackreed2020",
+                "https://twitter.com/SenJackReed"
+            ]
+        }
+    },
+    {
+        "name": "Lindsey Graham",
+        "state": "South Carolina",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LindseyGrahamSC"
+            ]
+        }
+    },
+    {
+        "name": "Tim Scott",
+        "state": "South Carolina",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorTimScott",
+                "https://twitter.com/votetimscott"
+            ]
+        }
+    },
+    {
+        "name": "John Thune",
+        "state": "South Dakota",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/johnthune",
+                "https://twitter.com/SenJohnThune"
+            ]
+        }
+    },
+    {
+        "name": "Mike Rounds",
+        "state": "South Dakota",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RoundsforSenate",
+                "https://twitter.com/SenatorRounds"
+            ]
+        }
+    },
+    {
+        "name": "Lamar Alexander",
+        "state": "Tennessee",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenAlexander",
+                "https://twitter.com/LamarAlexander"
+            ]
+        }
+    },
+    {
+        "name": "Marsha Blackburn",
+        "state": "Tennessee",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarshaBlackburn",
+                "https://twitter.com/VoteMarsha"
+            ]
+        }
+    },
+    {
+        "name": "Ted Cruz",
+        "state": "Texas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/tedcruz",
+                "https://twitter.com/SenTedCruz"
+            ]
+        }
+    },
+    {
+        "name": "John Cornyn",
+        "state": "Texas",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JohnCornyn",
+                "https://twitter.com/TeamCornyn"
+            ]
+        }
+    },
+    {
+        "name": "Mike Lee",
+        "state": "Utah",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenMikeLee"
+            ]
+        }
+    },
+    {
+        "name": "Mitt Romney",
+        "state": "Utah",
+        "party": "Republican",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MittRomney"
+            ]
+        }
+    },
+    {
+        "name": "Bernie Sanders",
+        "state": "Vermont",
+        "party": "Independent",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenSanders",
+                "https://twitter.com/BernieSanders"
+            ]
+        }
+    },
+    {
+        "name": "Patrick Leahy",
+        "state": "Vermont",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SenatorLeahy"
+            ]
+        }
+    },
+    {
+        "name": "Tim Kaine",
+        "state": "Virginia",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/timkaine"
+            ]
+        }
+    },
+    {
+        "name": "Mark Warner",
+        "state": "Virginia",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarkWarner",
+                "https://twitter.com/MarkWarnerVA"
+            ]
+        }
+    },
+    {
+        "name": "Maria Cantwell",
+        "state": "Washington",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Patty Murray",
+        "state": "Washington",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Joe Manchin III",
+        "state": "West Virginia",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Shelley Moore Capito",
+        "state": "West Virginia",
+        "party": "Republican",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Ronald Harold Johnson",
+        "state": "Wisconsin",
+        "party": "Republican",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Tammy Baldwin",
+        "state": "Wisconsin",
+        "party": "Democrat",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "John Barrasso",
+        "state": "Wyoming",
+        "party": "Republican",
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Mike Enzi",
+        "state": "Wyoming",
+        "party": "Republican",
+        "social-media": {
+            "twitter": []
+        }
+    }
+]

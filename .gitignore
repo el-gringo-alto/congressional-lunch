@@ -1,3 +1,10 @@
+.DS_Store
+._DS_Store
+
+keys/twitter_api_keys.json
+
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
