@@ -1001,7 +1001,10 @@
         "state": "Washington",
         "party": "Democrat",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenatorCantwell",
+                "https://twitter.com/MariaCantwell"
+            ]
         }
     },
     {
@@ -1009,7 +1012,10 @@
         "state": "Washington",
         "party": "Democrat",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/PattyMurray",
+                "https://twitter.com/HELPCmteDems"
+            ]
         }
     },
     {
@@ -1017,7 +1023,9 @@
         "state": "West Virginia",
         "party": "Democrat",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/Sen_JoeManchin"
+            ]
         }
     },
     {
@@ -1025,7 +1033,11 @@
         "state": "West Virginia",
         "party": "Republican",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenCapito",
+                "https://twitter.com/paulajean2020",
+                "https://twitter.com/CapitoforWV"
+            ]
         }
     },
     {
@@ -1033,7 +1045,9 @@
         "state": "Wisconsin",
         "party": "Republican",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenRonJohnson"
+            ]
         }
     },
     {
@@ -1041,7 +1055,10 @@
         "state": "Wisconsin",
         "party": "Democrat",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenatorBaldwin",
+                "https://twitter.com/tammybaldwin"
+            ]
         }
     },
     {
@@ -1049,7 +1066,13 @@
         "state": "Wyoming",
         "party": "Republican",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenJohnBarrasso",
+                "https://twitter.com/SenateGOP"
+            ],
+            "instagram": [
+                "https://www.instagram.com/senjohnbarrasso/"
+            ]
         }
     },
     {
@@ -1057,7 +1080,9 @@
         "state": "Wyoming",
         "party": "Republican",
         "social-media": {
-            "twitter": []
+            "twitter": [
+                "https://twitter.com/SenatorEnzi"
+            ]
         }
     }
 ]
