@@ -1,0 +1,7099 @@
+[
+    {
+        "name": "Bradley Byrne",
+        "state": "Alabama",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BradleyByrne",
+                "https://twitter.com/RepByrne"
+            ]
+        }
+    },
+    {
+        "name": "Martha Roby",
+        "state": "Alabama",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TeamRoby",
+                "https://twitter.com/RepMarthaRoby"
+            ]
+        }
+    },
+    {
+        "name": "Mike Rogers",
+        "state": "Alabama",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMikeRogersAL",
+                "https://twitter.com/MikeJRogers4",
+                "https://twitter.com/RepMikeRogers",
+                "https://twitter.com/HouseIntel",
+                "https://twitter.com/MikeRogersCamp",
+                "https://twitter.com/GruvinMike"
+            ]
+        }
+    },
+    {
+        "name": "Robert Aderholt",
+        "state": "Alabama",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Robert_Aderholt"
+            ]
+        }
+    },
+    {
+        "name": "Mo Brooks",
+        "state": "Alabama",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMoBrooks",
+                "https://twitter.com/Steevie_Mo"
+            ]
+        }
+    },
+    {
+        "name": "Gary Palmer",
+        "state": "Alabama",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/USRepGaryPalmer",
+                "https://twitter.com/Palmer4Alabama"
+            ]
+        }
+    },
+    {
+        "name": "Terri A. Sewell",
+        "state": "Alabama",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Intelligence",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Sewell4Congress",
+                "https://twitter.com/RepTerriSewell"
+            ]
+        }
+    },
+    {
+        "name": "Don Young",
+        "state": "Alaska",
+        "district": "At Large",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DonYoungAK",
+                "https://twitter.com/repdonyoung",
+                "https://twitter.com/liamyoung",
+                "https://twitter.com/LaurenYoung"
+            ]
+        }
+    },
+    {
+        "name": "Amata Radewagen",
+        "state": "American Samoa",
+        "district": "Delegate",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Small Business",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAmata"
+            ]
+        }
+    },
+    {
+        "name": "Tom O'Halleran",
+        "state": "Arizona",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TomOHalleran",
+                "https://twitter.com/RepOHalleran"
+            ]
+        }
+    },
+    {
+        "name": "Ann Kirkpatrick",
+        "state": "Arizona",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Ann_Kirkpatrick",
+                "https://twitter.com/RepKirkpatrick",
+                "https://twitter.com/berkeleyjess",
+                "https://twitter.com/tjhansen",
+                "https://twitter.com/kovacs4congress"
+            ]
+        }
+    },
+    {
+        "name": "Raul Grijalva",
+        "state": "Arizona",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRaulGrijalva",
+                "https://twitter.com/standwithraul",
+                "https://twitter.com/GrijalvaStaff"
+            ]
+        }
+    },
+    {
+        "name": "Paul A. Gosar",
+        "state": "Arizona",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Andy Biggs",
+        "state": "Arizona",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Judiciary",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/andybiggs4az",
+                "https://twitter.com/RepAndyBiggsAZ",
+                "https://twitter.com/joangreeneaz"
+            ]
+        }
+    },
+    {
+        "name": "David Schweikert",
+        "state": "Arizona",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DavidSchweikert",
+                "https://twitter.com/RepDavid"
+            ]
+        }
+    },
+    {
+        "name": "Ruben Gallego",
+        "state": "Arizona",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRubenGallego",
+                "https://twitter.com/RubenGallego"
+            ]
+        }
+    },
+    {
+        "name": "Debbie Lesko",
+        "state": "Arizona",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security",
+            "Judiciary",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DebbieLesko",
+                "https://twitter.com/RepDLesko"
+            ]
+        }
+    },
+    {
+        "name": "Greg Stanton",
+        "state": "Arizona",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/gregstantonaz",
+                "https://twitter.com/RepGregStanton"
+            ]
+        }
+    },
+    {
+        "name": "Rick Crawford",
+        "state": "Arkansas",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Intelligence",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Crawford4Cong",
+                "https://twitter.com/RepRickCrawford"
+            ]
+        }
+    },
+    {
+        "name": "French Hill",
+        "state": "Arkansas",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepFrenchHill",
+                "https://twitter.com/ElectFrench"
+            ]
+        }
+    },
+    {
+        "name": "Steve Womack",
+        "state": "Arkansas",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/womack4congress",
+                "https://twitter.com/rep_stevewomack"
+            ]
+        }
+    },
+    {
+        "name": "Bruce Westerman",
+        "state": "Arkansas",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/WestermanAR",
+                "https://twitter.com/RepWesterman"
+            ]
+        }
+    },
+    {
+        "name": "Doug LaMalfa",
+        "state": "California",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DougLaMalfa",
+                "https://twitter.com/RepLaMalfa"
+            ]
+        }
+    },
+    {
+        "name": "Jared Huffman",
+        "state": "California",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHuffman",
+                "https://twitter.com/JaredHuffman"
+            ]
+        }
+    },
+    {
+        "name": "John Garamendi",
+        "state": "California",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGaramendi",
+                "https://twitter.com/JohnGaramendi"
+            ]
+        }
+    },
+    {
+        "name": "Tom McClintock",
+        "state": "California",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMcClintock",
+                "https://twitter.com/tommcclintock"
+            ]
+        }
+    },
+    {
+        "name": "Mike Thompson",
+        "state": "California",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ThompsonToons",
+                "https://twitter.com/RepThompson",
+                "https://twitter.com/news8mike",
+                "https://twitter.com/Mike_CA05"
+            ]
+        }
+    },
+    {
+        "name": "Doris O. Matsui",
+        "state": "California",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Ami Bera",
+        "state": "California",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBera",
+                "https://twitter.com/BeraForCongress"
+            ]
+        }
+    },
+    {
+        "name": "Paul Cook",
+        "state": "California",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Cook680News",
+                "https://twitter.com/RepPaulCook"
+            ]
+        }
+    },
+    {
+        "name": "Jerry McNerney",
+        "state": "California",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMcNerney",
+                "https://twitter.com/jerrymcnerney"
+            ]
+        }
+    },
+    {
+        "name": "Josh Harder",
+        "state": "California",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JoshHarder",
+                "https://twitter.com/RepJoshHarder"
+            ]
+        }
+    },
+    {
+        "name": "Mark DeSaulnier",
+        "state": "California",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDeSaulnier",
+                "https://twitter.com/MarkDeSaulnier"
+            ]
+        }
+    },
+    {
+        "name": "Nancy Pelosi",
+        "state": "California",
+        "district": "12th",
+        "party": "Democrat",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SpeakerPelosi",
+                "https://twitter.com/TeamPelosi",
+                "https://twitter.com/DeAnna4Congress",
+                "https://twitter.com/SusanPage",
+                "https://twitter.com/ShahidForChange"
+            ]
+        }
+    },
+    {
+        "name": "Barbara Lee",
+        "state": "California",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BarbaraLeeSays",
+                "https://twitter.com/BLeeForCongress",
+                "https://twitter.com/RepBarbaraLee",
+                "https://twitter.com/BarbaraNiven",
+                "https://twitter.com/BLFF_org",
+                "https://twitter.com/BarbaraLeeNews8"
+            ]
+        }
+    },
+    {
+        "name": "Jackie Speier",
+        "state": "California",
+        "district": "14th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Oversight and Reform",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSpeier",
+                "https://twitter.com/JackieSpeier"
+            ]
+        }
+    },
+    {
+        "name": "Eric Swalwell",
+        "state": "California",
+        "district": "15th",
+        "party": "Democrat",
+        "committees": [
+            "Intelligence",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ericswalwell",
+                "https://twitter.com/RepSwalwell",
+                "https://twitter.com/Alison4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Jim Costa",
+        "state": "California",
+        "district": "16th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Foreign Affairs",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJimCosta",
+                "https://twitter.com/km_squared"
+            ]
+        }
+    },
+    {
+        "name": "Ro Khanna",
+        "state": "California",
+        "district": "17th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Budget",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RoKhanna",
+                "https://twitter.com/RepRoKhanna"
+            ]
+        }
+    },
+    {
+        "name": "Anna G. Eshoo",
+        "state": "California",
+        "district": "18th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAnnaEshoo"
+            ]
+        }
+    },
+    {
+        "name": "Zoe Lofgren",
+        "state": "California",
+        "district": "19th",
+        "party": "Democrat",
+        "committees": [
+            "House Administration",
+            "Joint Committee of Congress on the Library",
+            "Judiciary",
+            "Modernization of Congress",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ZoeLofgren",
+                "https://twitter.com/RepZoeLofgren"
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Panetta",
+        "state": "California",
+        "district": "20th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Budget",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JimmyPanetta",
+                "https://twitter.com/RepJimmyPanetta"
+            ]
+        }
+    },
+    {
+        "name": "TJ Cox",
+        "state": "California",
+        "district": "21st",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TJCoxCongress",
+                "https://twitter.com/RepTjCox"
+            ]
+        }
+    },
+    {
+        "name": "Devin Nunes",
+        "state": "California",
+        "district": "22nd",
+        "party": "Republican",
+        "committees": [
+            "Intelligence",
+            "Joint Committee on Taxation",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DevinNunes",
+                "https://twitter.com/PhilArballo2020"
+            ]
+        }
+    },
+    {
+        "name": "Kevin McCarthy",
+        "state": "California",
+        "district": "23rd",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GOPLeader",
+                "https://twitter.com/kevinomccarthy",
+                "https://twitter.com/KevinMcCarthyTV",
+                "https://twitter.com/KMAC_n_cheez15",
+                "https://twitter.com/KimMangone"
+            ]
+        }
+    },
+    {
+        "name": "Salud Carbajal",
+        "state": "California",
+        "district": "24th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/carbajalsalud",
+                "https://twitter.com/RepCarbajal"
+            ]
+        }
+    },
+    {
+        "name": "Mike Garcia",
+        "state": "California",
+        "district": "25th",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security",
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikeGarcia2020",
+                "https://twitter.com/RepMikeGarcia"
+            ]
+        }
+    },
+    {
+        "name": "Julia Brownley",
+        "state": "California",
+        "district": "26th",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Transportation and Infrastructure",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JuliaBrownley",
+                "https://twitter.com/RepBrownley"
+            ]
+        }
+    },
+    {
+        "name": "Judy Chu",
+        "state": "California",
+        "district": "27th",
+        "party": "Democrat",
+        "committees": [
+            "Small Business",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJudyChu"
+            ]
+        }
+    },
+    {
+        "name": "Adam Schiff",
+        "state": "California",
+        "district": "28th",
+        "party": "Democrat",
+        "committees": [
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAdamSchiff",
+                "https://twitter.com/AdamSchiff"
+            ]
+        }
+    },
+    {
+        "name": "Tony C\u00e1rdenas",
+        "state": "California",
+        "district": "29th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepCardenas",
+                "https://twitter.com/Tcardenas"
+            ]
+        }
+    },
+    {
+        "name": "Brad Sherman",
+        "state": "California",
+        "district": "30th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BradSherman",
+                "https://twitter.com/BradSherman4SFV"
+            ]
+        }
+    },
+    {
+        "name": "Pete Aguilar",
+        "state": "California",
+        "district": "31st",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "House Administration"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepPeteAguilar",
+                "https://twitter.com/AguilarCampaign",
+                "https://twitter.com/aguilarpete"
+            ]
+        }
+    },
+    {
+        "name": "Grace Napolitano",
+        "state": "California",
+        "district": "32nd",
+        "party": "Democrat",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/gracenapolitano",
+                "https://twitter.com/grace4congress"
+            ]
+        }
+    },
+    {
+        "name": "Ted Lieu",
+        "state": "California",
+        "district": "33rd",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/tedlieu",
+                "https://twitter.com/RepTedLieu"
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Gomez",
+        "state": "California",
+        "district": "34th",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JimmyGomezCA",
+                "https://twitter.com/RepJimmyGomez",
+                "https://twitter.com/jimmygomezv"
+            ]
+        }
+    },
+    {
+        "name": "Norma Torres",
+        "state": "California",
+        "district": "35th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Norma4Congress",
+                "https://twitter.com/NormaJTorres"
+            ]
+        }
+    },
+    {
+        "name": "Raul Ruiz",
+        "state": "California",
+        "district": "36th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRaulRuizMD",
+                "https://twitter.com/Dr_RaulRuiz",
+                "https://twitter.com/RaulRuizCA36"
+            ]
+        }
+    },
+    {
+        "name": "Karen Bass",
+        "state": "California",
+        "district": "37th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/KarenBassTweets",
+                "https://twitter.com/RepKarenBass",
+                "https://twitter.com/USAmbKabul"
+            ]
+        }
+    },
+    {
+        "name": "Linda S\u00e1nchez",
+        "state": "California",
+        "district": "38th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LindaTSanchez",
+                "https://twitter.com/RepLindaSanchez"
+            ]
+        }
+    },
+    {
+        "name": "Gilbert Ray Jr. Cisneros",
+        "state": "California",
+        "district": "39th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GilCisnerosCA",
+                "https://twitter.com/RepGilCisneros"
+            ]
+        }
+    },
+    {
+        "name": "Lucille Roybal-Allard",
+        "state": "California",
+        "district": "40th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRoybalAllard"
+            ]
+        }
+    },
+    {
+        "name": "Mark Takano",
+        "state": "California",
+        "district": "41st",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMarkTakano",
+                "https://twitter.com/MarkTakano"
+            ]
+        }
+    },
+    {
+        "name": "Ken Calvert",
+        "state": "California",
+        "district": "42nd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/KenCalvert",
+                "https://twitter.com/TeamCalvert"
+            ]
+        }
+    },
+    {
+        "name": "Maxine Waters",
+        "state": "California",
+        "district": "43rd",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMaxineWaters",
+                "https://twitter.com/MaxineWaters",
+                "https://twitter.com/joecollins43rd"
+            ]
+        }
+    },
+    {
+        "name": "Nanette Barrag\u00e1n",
+        "state": "California",
+        "district": "44th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Nanette4CA",
+                "https://twitter.com/RepBarragan"
+            ]
+        }
+    },
+    {
+        "name": "Katie Porter",
+        "state": "California",
+        "district": "45th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/katieporteroc",
+                "https://twitter.com/RepKatiePorter"
+            ]
+        }
+    },
+    {
+        "name": "J. Luis Correa",
+        "state": "California",
+        "district": "46th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Alan Lowenthal",
+        "state": "California",
+        "district": "47th",
+        "party": "Democrat",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLowenthal"
+            ]
+        }
+    },
+    {
+        "name": "Harley Rouda",
+        "state": "California",
+        "district": "48th",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HarleyRouda",
+                "https://twitter.com/RepHarley"
+            ]
+        }
+    },
+    {
+        "name": "Mike Levin",
+        "state": "California",
+        "district": "49th",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Natural Resources",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikeLevin",
+                "https://twitter.com/RepMikeLevin"
+            ]
+        }
+    },
+    {
+        "name": "Duncan Hunter",
+        "state": "California",
+        "district": "50th",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Juan Vargas",
+        "state": "California",
+        "district": "51st",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJuanVargas",
+                "https://twitter.com/ildemaro_tigre",
+                "https://twitter.com/JuanVargas4CA",
+                "https://twitter.com/JuanE_Vargas"
+            ]
+        }
+    },
+    {
+        "name": "Scott Peters",
+        "state": "California",
+        "district": "52nd",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ScottPetersSD",
+                "https://twitter.com/RepScottPeters",
+                "https://twitter.com/ScottPetersCA52",
+                "https://twitter.com/8Peters"
+            ]
+        }
+    },
+    {
+        "name": "Susan Davis",
+        "state": "California",
+        "district": "53rd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Education and Labor",
+            "House Administration"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DaviSusan",
+                "https://twitter.com/IDPharmProf",
+                "https://twitter.com/RepSusanDavis",
+                "https://twitter.com/sjindavis"
+            ]
+        }
+    },
+    {
+        "name": "Diana DeGette",
+        "state": "Colorado",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DeGette5280",
+                "https://twitter.com/RepDianaDeGette"
+            ]
+        }
+    },
+    {
+        "name": "Joe Neguse",
+        "state": "Colorado",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Natural Resources",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JoeNeguse",
+                "https://twitter.com/RepJoeNeguse"
+            ]
+        }
+    },
+    {
+        "name": "Scott Tipton",
+        "state": "Colorado",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ScottRTipton",
+                "https://twitter.com/RepTipton"
+            ]
+        }
+    },
+    {
+        "name": "Ken Buck",
+        "state": "Colorado",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BuckForColorado",
+                "https://twitter.com/RepKenBuck",
+                "https://twitter.com/Ike4CO"
+            ]
+        }
+    },
+    {
+        "name": "Doug Lamborn",
+        "state": "Colorado",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDLamborn"
+            ]
+        }
+    },
+    {
+        "name": "Jason Crow",
+        "state": "Colorado",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JasonCrowCO6",
+                "https://twitter.com/RepJasonCrow"
+            ]
+        }
+    },
+    {
+        "name": "Ed Perlmutter",
+        "state": "Colorado",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Rules",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Ed4Colorado",
+                "https://twitter.com/RepPerlmutter"
+            ]
+        }
+    },
+    {
+        "name": "John B. Larson",
+        "state": "Connecticut",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJohnLarson"
+            ]
+        }
+    },
+    {
+        "name": "Joe Courtney",
+        "state": "Connecticut",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/jcourt40",
+                "https://twitter.com/RepJoeCourtney",
+                "https://twitter.com/JoeCourtneyCT"
+            ]
+        }
+    },
+    {
+        "name": "Rosa L. DeLauro",
+        "state": "Connecticut",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Jim Himes",
+        "state": "Connecticut",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/jahimes"
+            ]
+        }
+    },
+    {
+        "name": "Jahana Hayes",
+        "state": "Connecticut",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JahanaHayesCT",
+                "https://twitter.com/RepJahanaHayes"
+            ]
+        }
+    },
+    {
+        "name": "Lisa Blunt Rochester",
+        "state": "Delaware",
+        "district": "At Large",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LisaBRochester",
+                "https://twitter.com/RepLBR"
+            ]
+        }
+    },
+    {
+        "name": "Eleanor Holmes Norton",
+        "state": "District of Columbia",
+        "district": "Delegate",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/EleanorNorton"
+            ]
+        }
+    },
+    {
+        "name": "Matt Gaetz",
+        "state": "Florida",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/mattgaetz",
+                "https://twitter.com/RepMattGaetz"
+            ]
+        }
+    },
+    {
+        "name": "Neal Dunn",
+        "state": "Florida",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DrNealDunnFL2",
+                "https://twitter.com/DunnCampaign"
+            ]
+        }
+    },
+    {
+        "name": "Ted Yoho",
+        "state": "Florida",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTedYoho",
+                "https://twitter.com/TedYoho"
+            ]
+        }
+    },
+    {
+        "name": "John Rutherford",
+        "state": "Florida",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JRutherfordFL",
+                "https://twitter.com/RepRutherfordFL",
+                "https://twitter.com/CineplexMovies"
+            ]
+        }
+    },
+    {
+        "name": "Al Lawson",
+        "state": "Florida",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AlLawsonJr",
+                "https://twitter.com/RepAlLawsonJr",
+                "https://twitter.com/BrianLawson15"
+            ]
+        }
+    },
+    {
+        "name": "Michael Waltz",
+        "state": "Florida",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/michaelgwaltz",
+                "https://twitter.com/RepMichaelWaltz"
+            ]
+        }
+    },
+    {
+        "name": "Stephanie Murphy",
+        "state": "Florida",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SMurphyCongress",
+                "https://twitter.com/RepStephMurphy"
+            ]
+        }
+    },
+    {
+        "name": "Bill Posey",
+        "state": "Florida",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/congbillposey"
+            ]
+        }
+    },
+    {
+        "name": "Darren Soto",
+        "state": "Florida",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DarrenSoto",
+                "https://twitter.com/RepDarrenSoto"
+            ]
+        }
+    },
+    {
+        "name": "Val Demings",
+        "state": "Florida",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Intelligence",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/val_demings",
+                "https://twitter.com/RepValDemings"
+            ]
+        }
+    },
+    {
+        "name": "Daniel Webster",
+        "state": "Florida",
+        "district": "11th",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepWebster",
+                "https://twitter.com/WebsterCongress"
+            ]
+        }
+    },
+    {
+        "name": "Gus M. Bilirakis",
+        "state": "Florida",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGusBilirakis"
+            ]
+        }
+    },
+    {
+        "name": "Charlie Crist",
+        "state": "Florida",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CharlieCrist",
+                "https://twitter.com/RepCharlieCrist"
+            ]
+        }
+    },
+    {
+        "name": "Kathy Castor",
+        "state": "Florida",
+        "district": "14th",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/KathyCastorFL",
+                "https://twitter.com/USRepKCastor"
+            ]
+        }
+    },
+    {
+        "name": "Ross Spano",
+        "state": "Florida",
+        "district": "15th",
+        "party": "Republican",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RossSpano",
+                "https://twitter.com/RepRossSpano"
+            ]
+        }
+    },
+    {
+        "name": "Vern Buchanan",
+        "state": "Florida",
+        "district": "16th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/VernBuchanan"
+            ]
+        }
+    },
+    {
+        "name": "W. Gregory Steube",
+        "state": "Florida",
+        "district": "17th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Judiciary",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Brian Mast",
+        "state": "Florida",
+        "district": "18th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BrianMastFL",
+                "https://twitter.com/RepBrianMast"
+            ]
+        }
+    },
+    {
+        "name": "Francis Rooney",
+        "state": "Florida",
+        "district": "19th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRooney",
+                "https://twitter.com/FrancisRooney"
+            ]
+        }
+    },
+    {
+        "name": "Alcee L. Hastings",
+        "state": "Florida",
+        "district": "20th",
+        "party": "Democrat",
+        "committees": [
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHastingsFL"
+            ]
+        }
+    },
+    {
+        "name": "Lois Frankel",
+        "state": "Florida",
+        "district": "21st",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LoisFrankel",
+                "https://twitter.com/RepLoisFrankel",
+                "https://twitter.com/Guido4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Ted Deutch",
+        "state": "Florida",
+        "district": "22nd",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TedDeutch",
+                "https://twitter.com/RepTedDeutch"
+            ]
+        }
+    },
+    {
+        "name": "Debbie Wasserman Schultz",
+        "state": "Florida",
+        "district": "23rd",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DWStweets",
+                "https://twitter.com/RepDWStweets"
+            ]
+        }
+    },
+    {
+        "name": "Frederica Wilson",
+        "state": "Florida",
+        "district": "24th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepWilson"
+            ]
+        }
+    },
+    {
+        "name": "Mario Diaz-Balart",
+        "state": "Florida",
+        "district": "25th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarioDB",
+                "https://twitter.com/MarioDBCamp"
+            ]
+        }
+    },
+    {
+        "name": "Debbie Mucarsel-Powell",
+        "state": "Florida",
+        "district": "26th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DebbieforFL",
+                "https://twitter.com/RepDMP"
+            ]
+        }
+    },
+    {
+        "name": "Donna E. Shalala",
+        "state": "Florida",
+        "district": "27th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DonnaShalala",
+                "https://twitter.com/RepShalala"
+            ]
+        }
+    },
+    {
+        "name": "Buddy Carter",
+        "state": "Georgia",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBuddyCarter",
+                "https://twitter.com/Buddy_Carter"
+            ]
+        }
+    },
+    {
+        "name": "Sanford D. Bishop Jr.",
+        "state": "Georgia",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "A. Drew Ferguson",
+        "state": "Georgia",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDrewFerguson"
+            ]
+        }
+    },
+    {
+        "name": "Henry C. \"Hank\" Jr. Johnson",
+        "state": "Georgia",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "John Lewis",
+        "state": "Georgia",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repjohnlewis",
+                "https://twitter.com/johnlewis",
+                "https://twitter.com/jlandpcustserv",
+                "https://twitter.com/jlandpartners",
+                "https://twitter.com/soledadobrien",
+                "https://twitter.com/jmeacham",
+                "https://twitter.com/JoyAnnReid",
+                "https://twitter.com/EricaJoy",
+                "https://twitter.com/DionLewisRB",
+                "https://twitter.com/JohnLewisDoc",
+                "https://twitter.com/JohnWDRB",
+                "https://twitter.com/PiperPerabo",
+                "https://twitter.com/GilpinPeri",
+                "https://twitter.com/dawnporterm"
+            ]
+        }
+    },
+    {
+        "name": "Lucy McBath",
+        "state": "Georgia",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/lucymcbath",
+                "https://twitter.com/RepLucyMcBath",
+                "https://twitter.com/lucymcbath_"
+            ]
+        }
+    },
+    {
+        "name": "Robert Woodall",
+        "state": "Georgia",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Modernization of Congress",
+            "Transportation and Infrastructure",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Austin Scott",
+        "state": "Georgia",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AustinScott4GA",
+                "https://twitter.com/ScottMAustin",
+                "https://twitter.com/austinscott93",
+                "https://twitter.com/AustinScottGA08"
+            ]
+        }
+    },
+    {
+        "name": "Doug Collins",
+        "state": "Georgia",
+        "district": "9th",
+        "party": "Republican",
+        "committees": [
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CollinsforGA",
+                "https://twitter.com/RepDougCollins",
+                "https://twitter.com/inkstainedretch"
+            ]
+        }
+    },
+    {
+        "name": "Jody Hice",
+        "state": "Georgia",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JodyHice",
+                "https://twitter.com/CongressmanHice"
+            ]
+        }
+    },
+    {
+        "name": "Barry Loudermilk",
+        "state": "Georgia",
+        "district": "11th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "House Administration",
+            "Joint Committee of Congress on the Library"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/standwithbarry",
+                "https://twitter.com/RepLoudermilk"
+            ]
+        }
+    },
+    {
+        "name": "Rick Allen",
+        "state": "Georgia",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/rickallenlive",
+                "https://twitter.com/RickAllenracing",
+                "https://twitter.com/RepRickAllen",
+                "https://twitter.com/rickallen",
+                "https://twitter.com/rickklein"
+            ]
+        }
+    },
+    {
+        "name": "David Scott",
+        "state": "Georgia",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repdavidscott",
+                "https://twitter.com/Electdavidscott",
+                "https://twitter.com/davidthornhill",
+                "https://twitter.com/davidscott14",
+                "https://twitter.com/DScottWDRB",
+                "https://twitter.com/dmscott",
+                "https://twitter.com/DaveMustaine",
+                "https://twitter.com/Astro_Maker",
+                "https://twitter.com/scottzolak",
+                "https://twitter.com/scottmenville",
+                "https://twitter.com/davidclarkscott"
+            ]
+        }
+    },
+    {
+        "name": "Tom Graves",
+        "state": "Georgia",
+        "district": "14th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTomGraves",
+                "https://twitter.com/TomGravesGA14"
+            ]
+        }
+    },
+    {
+        "name": "Michael F. Q. San Nicolas",
+        "state": "Guam",
+        "district": "Delegate",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Ed Case",
+        "state": "Hawaii",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepEdCase"
+            ]
+        }
+    },
+    {
+        "name": "Tulsi Gabbard",
+        "state": "Hawaii",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TulsiGabbard",
+                "https://twitter.com/TulsiPress",
+                "https://twitter.com/abewilliamsdp",
+                "https://twitter.com/vrin_davan"
+            ]
+        }
+    },
+    {
+        "name": "Russ Fulcher",
+        "state": "Idaho",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RussFulcher",
+                "https://twitter.com/RepRussFulcher"
+            ]
+        }
+    },
+    {
+        "name": "Mike Simpson",
+        "state": "Idaho",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikeSimpson4ID",
+                "https://twitter.com/KNXSimpson",
+                "https://twitter.com/CongMikeSimpson"
+            ]
+        }
+    },
+    {
+        "name": "Bobby L. Rush",
+        "state": "Illinois",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBobbyRush",
+                "https://twitter.com/bobbyrushfor1st"
+            ]
+        }
+    },
+    {
+        "name": "Robin Kelly",
+        "state": "Illinois",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRobinKelly",
+                "https://twitter.com/RobinLynneKelly"
+            ]
+        }
+    },
+    {
+        "name": "Daniel Lipinski",
+        "state": "Illinois",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLipinski"
+            ]
+        }
+    },
+    {
+        "name": "Jes\u00fas \"Chuy\" Garc\u00eda",
+        "state": "Illinois",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChuyForCongress"
+            ]
+        }
+    },
+    {
+        "name": "Mike Quigley",
+        "state": "Illinois",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMikeQuigley"
+            ]
+        }
+    },
+    {
+        "name": "Sean Casten",
+        "state": "Illinois",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Climate Crisis",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SeanCasten",
+                "https://twitter.com/RepCasten"
+            ]
+        }
+    },
+    {
+        "name": "Danny K. Davis",
+        "state": "Illinois",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DannyKDavis7th",
+                "https://twitter.com/RepDannyDavis"
+            ]
+        }
+    },
+    {
+        "name": "Raja Krishnamoorthi",
+        "state": "Illinois",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CongressmanRaja",
+                "https://twitter.com/RajaForCongress"
+            ]
+        }
+    },
+    {
+        "name": "Jan Schakowsky",
+        "state": "Illinois",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/janschakowsky",
+                "https://twitter.com/RepSchakowsky"
+            ]
+        }
+    },
+    {
+        "name": "Bradley Schneider",
+        "state": "Illinois",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Small Business",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Bill Foster",
+        "state": "Illinois",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBillFoster",
+                "https://twitter.com/Foster4Congress",
+                "https://twitter.com/KimberleyKates"
+            ]
+        }
+    },
+    {
+        "name": "Mike Bost",
+        "state": "Illinois",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BostForCongress",
+                "https://twitter.com/RepBost"
+            ]
+        }
+    },
+    {
+        "name": "Rodney Davis",
+        "state": "Illinois",
+        "district": "13th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "House Administration",
+            "Joint Committee of Congress on the Library",
+            "Modernization of Congress",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ElectRodney",
+                "https://twitter.com/RodneyDavis"
+            ]
+        }
+    },
+    {
+        "name": "Lauren Underwood",
+        "state": "Illinois",
+        "district": "14th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Homeland Security",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LaurenUnderwood",
+                "https://twitter.com/RepUnderwood"
+            ]
+        }
+    },
+    {
+        "name": "John Shimkus",
+        "state": "Illinois",
+        "district": "15th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepShimkus",
+                "https://twitter.com/JohnMShimkus"
+            ]
+        }
+    },
+    {
+        "name": "Adam Kinzinger",
+        "state": "Illinois",
+        "district": "16th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKinzinger",
+                "https://twitter.com/AdamKinzinger"
+            ]
+        }
+    },
+    {
+        "name": "Cheri Bustos",
+        "state": "Illinois",
+        "district": "17th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CheriBustos",
+                "https://twitter.com/RepCheri"
+            ]
+        }
+    },
+    {
+        "name": "Darin LaHood",
+        "state": "Illinois",
+        "district": "18th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLaHood",
+                "https://twitter.com/ElectLaHood"
+            ]
+        }
+    },
+    {
+        "name": "Peter Visclosky",
+        "state": "Indiana",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepVisclosky"
+            ]
+        }
+    },
+    {
+        "name": "Jackie Walorski",
+        "state": "Indiana",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Ethics",
+            "Select Subcommittee on the Coronavirus Crisis",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepWalorski",
+                "https://twitter.com/jackiewalorski"
+            ]
+        }
+    },
+    {
+        "name": "Jim Banks",
+        "state": "Indiana",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Education and Labor",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJimBanks",
+                "https://twitter.com/Jim_Banks",
+                "https://twitter.com/JBanks_27"
+            ]
+        }
+    },
+    {
+        "name": "James Baird",
+        "state": "Indiana",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Susan W. Brooks",
+        "state": "Indiana",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SusanWBrooks"
+            ]
+        }
+    },
+    {
+        "name": "Greg Pence",
+        "state": "Indiana",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GregPenceIN",
+                "https://twitter.com/RepGregPence"
+            ]
+        }
+    },
+    {
+        "name": "Andr\u00e9 Carson",
+        "state": "Indiana",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Intelligence",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAndreCarson",
+                "https://twitter.com/Andre4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Larry Bucshon",
+        "state": "Indiana",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLarryBucshon",
+                "https://twitter.com/DrLarryBucshon"
+            ]
+        }
+    },
+    {
+        "name": "Trey Hollingsworth",
+        "state": "Indiana",
+        "district": "9th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTrey",
+                "https://twitter.com/VoteForTrey"
+            ]
+        }
+    },
+    {
+        "name": "Abby Finkenauer",
+        "state": "Iowa",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Abby4Iowa",
+                "https://twitter.com/RepFinkenauer"
+            ]
+        }
+    },
+    {
+        "name": "David Loebsack",
+        "state": "Iowa",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/daveloebsack",
+                "https://twitter.com/DaveForIowa"
+            ]
+        }
+    },
+    {
+        "name": "Cynthia Axne",
+        "state": "Iowa",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Steve King",
+        "state": "Iowa",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SteveKingIA",
+                "https://twitter.com/steveking_",
+                "https://twitter.com/SteveMasonKBT",
+                "https://twitter.com/KimWeaverIA",
+                "https://twitter.com/RealKingRegal",
+                "https://twitter.com/BarterKingSteve"
+            ]
+        }
+    },
+    {
+        "name": "Roger Marshall",
+        "state": "Kansas",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RogerMarshallMD",
+                "https://twitter.com/RepMarshall"
+            ]
+        }
+    },
+    {
+        "name": "Steve Watkins",
+        "state": "Kansas",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Steve4Kansas",
+                "https://twitter.com/Rep_Watkins",
+                "https://twitter.com/Fededitor"
+            ]
+        }
+    },
+    {
+        "name": "Sharice Davids",
+        "state": "Kansas",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/sharicedavids",
+                "https://twitter.com/RepDavids"
+            ]
+        }
+    },
+    {
+        "name": "Ron Estes",
+        "state": "Kansas",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RonEstesKS",
+                "https://twitter.com/RepRonEstes"
+            ]
+        }
+    },
+    {
+        "name": "James Comer",
+        "state": "Kentucky",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JamesComer",
+                "https://twitter.com/RepJamesComer"
+            ]
+        }
+    },
+    {
+        "name": "S. Brett Guthrie",
+        "state": "Kentucky",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/brettguthrie",
+                "https://twitter.com/RepGuthrie"
+            ]
+        }
+    },
+    {
+        "name": "John A. Yarmuth",
+        "state": "Kentucky",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Thomas Massie",
+        "state": "Kentucky",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepThomasMassie",
+                "https://twitter.com/MassieforKY"
+            ]
+        }
+    },
+    {
+        "name": "Harold Rogers",
+        "state": "Kentucky",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHalRogers"
+            ]
+        }
+    },
+    {
+        "name": "Andy Barr",
+        "state": "Kentucky",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/barrforcongress",
+                "https://twitter.com/RepAndyBarr",
+                "https://twitter.com/joshhicksky"
+            ]
+        }
+    },
+    {
+        "name": "Steve Scalise",
+        "state": "Louisiana",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SteveScalise",
+                "https://twitter.com/SteveScaliseGOP"
+            ]
+        }
+    },
+    {
+        "name": "Cedric Richmond",
+        "state": "Louisiana",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CedricRichmond",
+                "https://twitter.com/RepRichmond"
+            ]
+        }
+    },
+    {
+        "name": "Clay Higgins",
+        "state": "Louisiana",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CaptClayHiggins",
+                "https://twitter.com/RepClayHiggins"
+            ]
+        }
+    },
+    {
+        "name": "Mike Johnson",
+        "state": "Louisiana",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/mike_p_johnson",
+                "https://twitter.com/MikeJohnson1_",
+                "https://twitter.com/MPJohnson79",
+                "https://twitter.com/MikeJohnson",
+                "https://twitter.com/RepMikeJohnson",
+                "https://twitter.com/MikeJohnsonAU"
+            ]
+        }
+    },
+    {
+        "name": "Ralph Abraham",
+        "state": "Louisiana",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAbraham",
+                "https://twitter.com/DocAbraham"
+            ]
+        }
+    },
+    {
+        "name": "Garret Graves",
+        "state": "Louisiana",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/garretgraves",
+                "https://twitter.com/RepGarretGraves"
+            ]
+        }
+    },
+    {
+        "name": "Chellie Pingree",
+        "state": "Maine",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/chelliepingree"
+            ]
+        }
+    },
+    {
+        "name": "Jared Golden",
+        "state": "Maine",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/golden4congress",
+                "https://twitter.com/RepGolden"
+            ]
+        }
+    },
+    {
+        "name": "Andy Harris",
+        "state": "Maryland",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAndyHarrisMD",
+                "https://twitter.com/Harris4Congress",
+                "https://twitter.com/AndyHarris1994",
+                "https://twitter.com/AndyNewsNowInDC"
+            ]
+        }
+    },
+    {
+        "name": "C. A. Dutch Ruppersberger",
+        "state": "Maryland",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Call_Me_Dutch"
+            ]
+        }
+    },
+    {
+        "name": "John P. Sarbanes",
+        "state": "Maryland",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Anthony Brown",
+        "state": "Maryland",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Natural Resources",
+            "Transportation and Infrastructure",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/nino9brown",
+                "https://twitter.com/RepAnthonyBrown",
+                "https://twitter.com/TwoShotOne",
+                "https://twitter.com/AnthonyBrownMD4",
+                "https://twitter.com/DuaneBrown76"
+            ]
+        }
+    },
+    {
+        "name": "Steny H. Hoyer",
+        "state": "Maryland",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "David Trone",
+        "state": "Maryland",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/davidjtrone",
+                "https://twitter.com/RepDavidTrone"
+            ]
+        }
+    },
+    {
+        "name": "Kweisi Mfume",
+        "state": "Maryland",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Mfume4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Jamie Raskin",
+        "state": "Maryland",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "House Administration",
+            "Judiciary",
+            "Rules",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/jamie_raskin",
+                "https://twitter.com/RepRaskin"
+            ]
+        }
+    },
+    {
+        "name": "Richard E. Neal",
+        "state": "Massachusetts",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Joint Committee on Taxation",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "James McGovern",
+        "state": "Massachusetts",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMcGovern",
+                "https://twitter.com/JMcGovernDundee"
+            ]
+        }
+    },
+    {
+        "name": "Lori Trahan",
+        "state": "Massachusetts",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LoriTrahanMA",
+                "https://twitter.com/RepLoriTrahan",
+                "https://twitter.com/latrahan"
+            ]
+        }
+    },
+    {
+        "name": "Joseph P. Kennedy III",
+        "state": "Massachusetts",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJoeKennedy"
+            ]
+        }
+    },
+    {
+        "name": "Katherine Clark",
+        "state": "Massachusetts",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKClark",
+                "https://twitter.com/KatherineClark"
+            ]
+        }
+    },
+    {
+        "name": "Seth Moulton",
+        "state": "Massachusetts",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/sethmoulton",
+                "https://twitter.com/teammoulton",
+                "https://twitter.com/JohnPaul4Mass"
+            ]
+        }
+    },
+    {
+        "name": "Ayanna Pressley",
+        "state": "Massachusetts",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AyannaPressley",
+                "https://twitter.com/RepPressley"
+            ]
+        }
+    },
+    {
+        "name": "Stephen F. Lynch",
+        "state": "Massachusetts",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLynch",
+                "https://twitter.com/RepStephenLynch"
+            ]
+        }
+    },
+    {
+        "name": "William Keating",
+        "state": "Massachusetts",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/USRepKeating",
+                "https://twitter.com/WilliamKeating"
+            ]
+        }
+    },
+    {
+        "name": "Jack Bergman",
+        "state": "Michigan",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JackBergman_MI1",
+                "https://twitter.com/RepJackBergman"
+            ]
+        }
+    },
+    {
+        "name": "Bill Huizenga",
+        "state": "Michigan",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHuizenga"
+            ]
+        }
+    },
+    {
+        "name": "Justin Amash",
+        "state": "Michigan",
+        "district": "3rd",
+        "party": "Libertarian",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/justinamash",
+                "https://twitter.com/amasharchive"
+            ]
+        }
+    },
+    {
+        "name": "John Moolenaar",
+        "state": "Michigan",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JohnMoolenaar",
+                "https://twitter.com/RepMoolenaar"
+            ]
+        }
+    },
+    {
+        "name": "Daniel Kildee",
+        "state": "Michigan",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Fred Upton",
+        "state": "Michigan",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/UptonForAllOfUs",
+                "https://twitter.com/RepFredUpton"
+            ]
+        }
+    },
+    {
+        "name": "Tim Walberg",
+        "state": "Michigan",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepWalberg",
+                "https://twitter.com/TimWalberg"
+            ]
+        }
+    },
+    {
+        "name": "Elissa Slotkin",
+        "state": "Michigan",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ElissaSlotkin",
+                "https://twitter.com/RepSlotkin"
+            ]
+        }
+    },
+    {
+        "name": "Andy Levin",
+        "state": "Michigan",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Andy_Levin",
+                "https://twitter.com/RepAndyLevin"
+            ]
+        }
+    },
+    {
+        "name": "Paul Mitchell",
+        "state": "Michigan",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PaulMitchellUS",
+                "https://twitter.com/RepPaulMitchell",
+                "https://twitter.com/PaulMitchell4us",
+                "https://twitter.com/PaulMitchellEdu",
+                "https://twitter.com/profmusgrave"
+            ]
+        }
+    },
+    {
+        "name": "Haley Stevens",
+        "state": "Michigan",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HaleyLive",
+                "https://twitter.com/RepHaleyStevens"
+            ]
+        }
+    },
+    {
+        "name": "Debbie Dingell",
+        "state": "Michigan",
+        "district": "12th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DebDingell",
+                "https://twitter.com/RepDebDingell"
+            ]
+        }
+    },
+    {
+        "name": "Rashida Tlaib",
+        "state": "Michigan",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RashidaTlaib",
+                "https://twitter.com/Dude4Liberty",
+                "https://twitter.com/RepRashida"
+            ]
+        }
+    },
+    {
+        "name": "Brenda Lawrence",
+        "state": "Michigan",
+        "district": "14th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLawrence",
+                "https://twitter.com/BrendaLLawrence"
+            ]
+        }
+    },
+    {
+        "name": "Jim Hagedorn",
+        "state": "Minnesota",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHagedorn",
+                "https://twitter.com/JimHagedornMN"
+            ]
+        }
+    },
+    {
+        "name": "Angie Craig",
+        "state": "Minnesota",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAngieCraig",
+                "https://twitter.com/AngieCraigMN"
+            ]
+        }
+    },
+    {
+        "name": "Dean Phillips",
+        "state": "Minnesota",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDeanPhillips",
+                "https://twitter.com/deanbphillips",
+                "https://twitter.com/pcdguys"
+            ]
+        }
+    },
+    {
+        "name": "Betty McCollum",
+        "state": "Minnesota",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BettyMcCollum04",
+                "https://twitter.com/VoteBetty"
+            ]
+        }
+    },
+    {
+        "name": "Ilhan Omar",
+        "state": "Minnesota",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Education and Labor",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/IlhanMN",
+                "https://twitter.com/Ilhan",
+                "https://twitter.com/LacyJohnsonMN",
+                "https://twitter.com/Antone_MN",
+                "https://twitter.com/ZeshanB"
+            ]
+        }
+    },
+    {
+        "name": "Tom Emmer",
+        "state": "Minnesota",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/tomemmer",
+                "https://twitter.com/RepTomEmmer"
+            ]
+        }
+    },
+    {
+        "name": "Collin C. Peterson",
+        "state": "Minnesota",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/collinpeterson"
+            ]
+        }
+    },
+    {
+        "name": "Pete Stauber",
+        "state": "Minnesota",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepPeteStauber",
+                "https://twitter.com/PeteStauber"
+            ]
+        }
+    },
+    {
+        "name": "Trent Kelly",
+        "state": "Mississippi",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTrentKelly",
+                "https://twitter.com/KellyforMS01"
+            ]
+        }
+    },
+    {
+        "name": "Bennie G. Thompson",
+        "state": "Mississippi",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BennieGThompson",
+                "https://twitter.com/BGThompsonMS"
+            ]
+        }
+    },
+    {
+        "name": "Michael Guest",
+        "state": "Mississippi",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Homeland Security",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GuestCongress",
+                "https://twitter.com/RepMichaelGuest",
+                "https://twitter.com/phoenixlp",
+                "https://twitter.com/michaelbellvo",
+                "https://twitter.com/MickyBridges8"
+            ]
+        }
+    },
+    {
+        "name": "Steven Palazzo",
+        "state": "Mississippi",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/StevenPalazzo",
+                "https://twitter.com/CongPalazzo"
+            ]
+        }
+    },
+    {
+        "name": "William \"Lacy\" Clay Jr.",
+        "state": "Missouri",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LacyClayMO1"
+            ]
+        }
+    },
+    {
+        "name": "Ann Wagner",
+        "state": "Missouri",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAnnWagner",
+                "https://twitter.com/AnnLWagner",
+                "https://twitter.com/Cilla_Presley"
+            ]
+        }
+    },
+    {
+        "name": "Blaine Luetkemeyer",
+        "state": "Missouri",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBlaine",
+                "https://twitter.com/LuetkemeyerB"
+            ]
+        }
+    },
+    {
+        "name": "Vicky Hartzler",
+        "state": "Missouri",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/VickyH4Congress",
+                "https://twitter.com/RepHartzler"
+            ]
+        }
+    },
+    {
+        "name": "Emanuel Cleaver",
+        "state": "Missouri",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Homeland Security",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repcleaver"
+            ]
+        }
+    },
+    {
+        "name": "Sam Graves",
+        "state": "Missouri",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSamGraves"
+            ]
+        }
+    },
+    {
+        "name": "Billy Long",
+        "state": "Missouri",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/auctnr1",
+                "https://twitter.com/USRepLong",
+                "https://twitter.com/billylynnmovie"
+            ]
+        }
+    },
+    {
+        "name": "Jason Smith",
+        "state": "Missouri",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BrewsterHoops",
+                "https://twitter.com/JasonToBeOne",
+                "https://twitter.com/JasonSmith014",
+                "https://twitter.com/howaboutafresca",
+                "https://twitter.com/smittycurler",
+                "https://twitter.com/RepJasonSmith",
+                "https://twitter.com/jasonsmith84",
+                "https://twitter.com/JasonSmithMO",
+                "https://twitter.com/JasonSmith929"
+            ]
+        }
+    },
+    {
+        "name": "Greg Gianforte",
+        "state": "Montana",
+        "district": "At Large",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GregForMontana"
+            ]
+        }
+    },
+    {
+        "name": "Jeff Fortenberry",
+        "state": "Nebraska",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JeffFortenberry",
+                "https://twitter.com/supportfortNE"
+            ]
+        }
+    },
+    {
+        "name": "Don Bacon",
+        "state": "Nebraska",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DonJBacon",
+                "https://twitter.com/RepDonBacon",
+                "https://twitter.com/iammattfiedler",
+                "https://twitter.com/TibshelfSNT"
+            ]
+        }
+    },
+    {
+        "name": "Adrian Smith",
+        "state": "Nebraska",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAdrianSmith",
+                "https://twitter.com/SteveJanoski",
+                "https://twitter.com/sypped",
+                "https://twitter.com/IronMaiden"
+            ]
+        }
+    },
+    {
+        "name": "Dina Titus",
+        "state": "Nevada",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Homeland Security",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repdinatitus",
+                "https://twitter.com/dinatitus"
+            ]
+        }
+    },
+    {
+        "name": "Mark Amodei",
+        "state": "Nevada",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarkAmodeiNV2",
+                "https://twitter.com/AmodeiForNevada",
+                "https://twitter.com/PAckermanNV"
+            ]
+        }
+    },
+    {
+        "name": "Susie Lee",
+        "state": "Nevada",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SusieLeeNV",
+                "https://twitter.com/RepSusieLee"
+            ]
+        }
+    },
+    {
+        "name": "Steven Horsford",
+        "state": "Nevada",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Natural Resources",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/StevenHorsford",
+                "https://twitter.com/RepHorsford"
+            ]
+        }
+    },
+    {
+        "name": "Chris Pappas",
+        "state": "New Hampshire",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChrisPappasNH",
+                "https://twitter.com/RepChrisPappas"
+            ]
+        }
+    },
+    {
+        "name": "Ann Kuster",
+        "state": "New Hampshire",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepAnnieKuster",
+                "https://twitter.com/AnnMcLaneKuster"
+            ]
+        }
+    },
+    {
+        "name": "Donald Norcross",
+        "state": "New Jersey",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DonaldNorcross",
+                "https://twitter.com/DonNorcross4NJ"
+            ]
+        }
+    },
+    {
+        "name": "Jefferson Van Drew",
+        "state": "New Jersey",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Andy Kim",
+        "state": "New Jersey",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Small Business",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AndyKimNJ",
+                "https://twitter.com/AndyKimMusic",
+                "https://twitter.com/RepAndyKimNJ",
+                "https://twitter.com/ShinhwaCompany"
+            ]
+        }
+    },
+    {
+        "name": "Chris Smith",
+        "state": "New Jersey",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/chrissmithonair",
+                "https://twitter.com/urbanemuse",
+                "https://twitter.com/SmithChris",
+                "https://twitter.com/chrissmithnymag",
+                "https://twitter.com/PapaSmithy",
+                "https://twitter.com/TheOnlyCSmith0",
+                "https://twitter.com/itschrissmith",
+                "https://twitter.com/ChrisSmith813",
+                "https://twitter.com/Chris_Smth",
+                "https://twitter.com/smithwjhg",
+                "https://twitter.com/cssmithwrites",
+                "https://twitter.com/chrisjesmith",
+                "https://twitter.com/RepChrisSmith",
+                "https://twitter.com/98ChrisSmith",
+                "https://twitter.com/thechrisws"
+            ]
+        }
+    },
+    {
+        "name": "Josh Gottheimer",
+        "state": "New Jersey",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JoshGottheimer",
+                "https://twitter.com/RepJoshG"
+            ]
+        }
+    },
+    {
+        "name": "Frank Pallone Jr.",
+        "state": "New Jersey",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/pallonefornj",
+                "https://twitter.com/FrankPallone"
+            ]
+        }
+    },
+    {
+        "name": "Tom Malinowski",
+        "state": "New Jersey",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Malinowski",
+                "https://twitter.com/RepMalinowski"
+            ]
+        }
+    },
+    {
+        "name": "Albio Sires",
+        "state": "New Jersey",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSires"
+            ]
+        }
+    },
+    {
+        "name": "Bill Pascrell Jr.",
+        "state": "New Jersey",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BillPascrell",
+                "https://twitter.com/PascrellforNJ"
+            ]
+        }
+    },
+    {
+        "name": "Donald Payne Jr.",
+        "state": "New Jersey",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDonaldPayne"
+            ]
+        }
+    },
+    {
+        "name": "Mikie Sherrill",
+        "state": "New Jersey",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikieSherrill",
+                "https://twitter.com/RepSherrill"
+            ]
+        }
+    },
+    {
+        "name": "Bonnie Watson Coleman",
+        "state": "New Jersey",
+        "district": "12th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Bonnie4Congress",
+                "https://twitter.com/RepBonnie"
+            ]
+        }
+    },
+    {
+        "name": "Debra Haaland",
+        "state": "New Mexico",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDebHaaland",
+                "https://twitter.com/Deb4CongressNM"
+            ]
+        }
+    },
+    {
+        "name": "Xochitl Torres Small",
+        "state": "New Mexico",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Armed Services",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/XochforCongress",
+                "https://twitter.com/RepTorresSmall"
+            ]
+        }
+    },
+    {
+        "name": "Ben R. Luj\u00e1n",
+        "state": "New Mexico",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repbenraylujan",
+                "https://twitter.com/DCCCchair"
+            ]
+        }
+    },
+    {
+        "name": "Lee Zeldin",
+        "state": "New York",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLeeZeldin",
+                "https://twitter.com/leezeldin"
+            ]
+        }
+    },
+    {
+        "name": "Pete King",
+        "state": "New York",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/petekingcpg",
+                "https://twitter.com/RepPeteKing",
+                "https://twitter.com/TheKingofSI",
+                "https://twitter.com/FuriousPete"
+            ]
+        }
+    },
+    {
+        "name": "Thomas Suozzi",
+        "state": "New York",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTomSuozzi"
+            ]
+        }
+    },
+    {
+        "name": "Kathleen Rice",
+        "state": "New York",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKathleenRice",
+                "https://twitter.com/KathleenRice"
+            ]
+        }
+    },
+    {
+        "name": "Gregory W. Meeks",
+        "state": "New York",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGregoryMeeks"
+            ]
+        }
+    },
+    {
+        "name": "Grace Meng",
+        "state": "New York",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGraceMeng",
+                "https://twitter.com/Grace4NY"
+            ]
+        }
+    },
+    {
+        "name": "Nydia M. Vel\u00e1zquez",
+        "state": "New York",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Natural Resources",
+            "Small Business",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ReElectNydia",
+                "https://twitter.com/NydiaVelazquez",
+                "https://twitter.com/HouseSmallBiz"
+            ]
+        }
+    },
+    {
+        "name": "Hakeem Jeffries",
+        "state": "New York",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJeffries",
+                "https://twitter.com/hakeem_jeffries"
+            ]
+        }
+    },
+    {
+        "name": "Yvette D. Clarke",
+        "state": "New York",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepYvetteClarke",
+                "https://twitter.com/VoteYvette"
+            ]
+        }
+    },
+    {
+        "name": "Jerrold Nadler",
+        "state": "New York",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJerryNadler"
+            ]
+        }
+    },
+    {
+        "name": "Max Rose",
+        "state": "New York",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Homeland Security",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MaxRose4NY",
+                "https://twitter.com/RepMaxRose"
+            ]
+        }
+    },
+    {
+        "name": "Carolyn Maloney",
+        "state": "New York",
+        "district": "12th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMaloney",
+                "https://twitter.com/CarolynBMaloney"
+            ]
+        }
+    },
+    {
+        "name": "Adriano Espaillat",
+        "state": "New York",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepEspaillat",
+                "https://twitter.com/EspaillatNY"
+            ]
+        }
+    },
+    {
+        "name": "Alexandria Ocasio-Cortez",
+        "state": "New York",
+        "district": "14th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AOC",
+                "https://twitter.com/RepAOC"
+            ]
+        }
+    },
+    {
+        "name": "Jos\u00e9 E. Serrano",
+        "state": "New York",
+        "district": "15th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJoseSerrano",
+                "https://twitter.com/serranocongress"
+            ]
+        }
+    },
+    {
+        "name": "Eliot Engel",
+        "state": "New York",
+        "district": "16th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepEliotEngel",
+                "https://twitter.com/TeamEngel"
+            ]
+        }
+    },
+    {
+        "name": "Nita Lowey",
+        "state": "New York",
+        "district": "17th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/NitaLowey"
+            ]
+        }
+    },
+    {
+        "name": "Sean Patrick Maloney",
+        "state": "New York",
+        "district": "18th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Intelligence",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSeanMaloney",
+                "https://twitter.com/spmaloney",
+                "https://twitter.com/MaloneyforNY"
+            ]
+        }
+    },
+    {
+        "name": "Antonio Delgado",
+        "state": "New York",
+        "district": "19th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DelgadoforNY19",
+                "https://twitter.com/repdelgado",
+                "https://twitter.com/adelgado",
+                "https://twitter.com/cAntonioDelgado",
+                "https://twitter.com/JA_DelgadoRamos",
+                "https://twitter.com/DelgadoAntonioM"
+            ]
+        }
+    },
+    {
+        "name": "Paul D. Tonko",
+        "state": "New York",
+        "district": "20th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce",
+            "Natural Resources",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PaulTonko",
+                "https://twitter.com/RepPaulTonko"
+            ]
+        }
+    },
+    {
+        "name": "Elise Stefanik",
+        "state": "New York",
+        "district": "21st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Education and Labor",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/EliseStefanik",
+                "https://twitter.com/RepStefanik"
+            ]
+        }
+    },
+    {
+        "name": "Anthony Brindisi",
+        "state": "New York",
+        "district": "22nd",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Armed Services",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ABrindisiNY",
+                "https://twitter.com/RepBrindisi"
+            ]
+        }
+    },
+    {
+        "name": "Tom Reed",
+        "state": "New York",
+        "district": "23rd",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTomReed",
+                "https://twitter.com/TomReedCongress",
+                "https://twitter.com/treed1919",
+                "https://twitter.com/tomreed86"
+            ]
+        }
+    },
+    {
+        "name": "John Katko",
+        "state": "New York",
+        "district": "24th",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJohnKatko"
+            ]
+        }
+    },
+    {
+        "name": "Joseph Morelle",
+        "state": "New York",
+        "district": "25th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Education and Labor",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/votemorelle"
+            ]
+        }
+    },
+    {
+        "name": "Brian Higgins",
+        "state": "New York",
+        "district": "26th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBrianHiggins",
+                "https://twitter.com/BrianHigginsCBC"
+            ]
+        }
+    },
+    {
+        "name": "Chris Jacobs",
+        "state": "New York",
+        "district": "27th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ChrisJacobs",
+                "https://twitter.com/RepJacobs",
+                "https://twitter.com/JacobsNY27"
+            ]
+        }
+    },
+    {
+        "name": "G.K. Butterfield",
+        "state": "North Carolina",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "House Administration",
+            "Energy and Commerce",
+            "Joint Committee of Congress on the Library"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GKButterfield"
+            ]
+        }
+    },
+    {
+        "name": "George Holding",
+        "state": "North Carolina",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Ethics",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHolding",
+                "https://twitter.com/GeorgeHolding"
+            ]
+        }
+    },
+    {
+        "name": "Gregory Francis Murphy",
+        "state": "North Carolina",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "David Price",
+        "state": "North Carolina",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Budget"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DAVIDprice24",
+                "https://twitter.com/DavidPrice_1",
+                "https://twitter.com/RepDavidEPrice"
+            ]
+        }
+    },
+    {
+        "name": "Virginia Foxx",
+        "state": "North Carolina",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/virginiafoxx",
+                "https://twitter.com/foxxforcongress",
+                "https://twitter.com/DeshonFoxx"
+            ]
+        }
+    },
+    {
+        "name": "Mark Walker",
+        "state": "North Carolina",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "House Administration",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Walker4NC",
+                "https://twitter.com/markdw1966",
+                "https://twitter.com/RepMarkWalker"
+            ]
+        }
+    },
+    {
+        "name": "David Rouzer",
+        "state": "North Carolina",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DavidRouzer",
+                "https://twitter.com/RepDavidRouzer"
+            ]
+        }
+    },
+    {
+        "name": "Richard Hudson",
+        "state": "North Carolina",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRichHudson",
+                "https://twitter.com/RichHudson"
+            ]
+        }
+    },
+    {
+        "name": "Dan Bishop",
+        "state": "North Carolina",
+        "district": "9th",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/jdanbishop",
+                "https://twitter.com/RepDanBishop",
+                "https://twitter.com/BishopDNulty"
+            ]
+        }
+    },
+    {
+        "name": "Patrick T. McHenry",
+        "state": "North Carolina",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PatrickMcHenry"
+            ]
+        }
+    },
+    {
+        "name": "Mark Meadows",
+        "state": "North Carolina",
+        "district": "11th",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMarkMeadows",
+                "https://twitter.com/MarkMeadows"
+            ]
+        }
+    },
+    {
+        "name": "Alma Adams",
+        "state": "North Carolina",
+        "district": "12th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Financial Services",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AlmaforCongress",
+                "https://twitter.com/RepAdams"
+            ]
+        }
+    },
+    {
+        "name": "Ted Budd",
+        "state": "North Carolina",
+        "district": "13th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTedBudd",
+                "https://twitter.com/buddforcongress"
+            ]
+        }
+    },
+    {
+        "name": "Kelly Armstrong",
+        "state": "North Dakota",
+        "district": "At Large",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Oversight and Reform",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Armstrong_ND",
+                "https://twitter.com/RepArmstrongND",
+                "https://twitter.com/KelleyArmstrong"
+            ]
+        }
+    },
+    {
+        "name": "Gregorio Sablan",
+        "state": "Northern Mariana Islands",
+        "district": "Delegate",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Natural Resources",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Kilili_Sablan"
+            ]
+        }
+    },
+    {
+        "name": "Steve Chabot",
+        "state": "Ohio",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SteveChabot",
+                "https://twitter.com/RepSteveChabot"
+            ]
+        }
+    },
+    {
+        "name": "Brad Wenstrup",
+        "state": "Ohio",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Intelligence",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/bradwenstrup",
+                "https://twitter.com/RepBradWenstrup"
+            ]
+        }
+    },
+    {
+        "name": "Joyce Beatty",
+        "state": "Ohio",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBeatty",
+                "https://twitter.com/JoyceBeatty",
+                "https://twitter.com/FinLitCaucus"
+            ]
+        }
+    },
+    {
+        "name": "Jim Jordan",
+        "state": "Ohio",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Judiciary",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Jim_Jordan",
+                "https://twitter.com/Votejimjordan",
+                "https://twitter.com/ShannonFreshour",
+                "https://twitter.com/JudiciaryGOP"
+            ]
+        }
+    },
+    {
+        "name": "Robert E. Latta",
+        "state": "Ohio",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/boblatta"
+            ]
+        }
+    },
+    {
+        "name": "Bill Johnson",
+        "state": "Ohio",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBillJohnson",
+                "https://twitter.com/JohnsonLeads",
+                "https://twitter.com/whiteshoes082"
+            ]
+        }
+    },
+    {
+        "name": "Bob Gibbs",
+        "state": "Ohio",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBobGibbs"
+            ]
+        }
+    },
+    {
+        "name": "Warren Davidson",
+        "state": "Ohio",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/WarrenDavidson",
+                "https://twitter.com/Vote_Davidson"
+            ]
+        }
+    },
+    {
+        "name": "Marcy Kaptur",
+        "state": "Ohio",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMarcyKaptur",
+                "https://twitter.com/Marcy_Kaptur"
+            ]
+        }
+    },
+    {
+        "name": "Michael Turner",
+        "state": "Ohio",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMikeTurner",
+                "https://twitter.com/ScottTurner",
+                "https://twitter.com/TimTurnerMusic"
+            ]
+        }
+    },
+    {
+        "name": "Marcia L. Fudge",
+        "state": "Ohio",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Education and Labor",
+            "House Administration"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/mlfudge",
+                "https://twitter.com/RepMarciaFudge"
+            ]
+        }
+    },
+    {
+        "name": "Troy Balderson",
+        "state": "Ohio",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Transportation and Infrastructure",
+            "Small Business",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Troy_Balderson",
+                "https://twitter.com/RepBalderson"
+            ]
+        }
+    },
+    {
+        "name": "Tim Ryan",
+        "state": "Ohio",
+        "district": "13th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Joint Committee of Congress on the Library"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TimRyan",
+                "https://twitter.com/Timothy_F_Ryan",
+                "https://twitter.com/AManInRecovery",
+                "https://twitter.com/RepTimRyan",
+                "https://twitter.com/TimRyan99",
+                "https://twitter.com/TimWCBD",
+                "https://twitter.com/Tim_Parker26"
+            ]
+        }
+    },
+    {
+        "name": "David Joyce",
+        "state": "Ohio",
+        "district": "14th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDaveJoyce"
+            ]
+        }
+    },
+    {
+        "name": "Steve Stivers",
+        "state": "Ohio",
+        "district": "15th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSteveStivers",
+                "https://twitter.com/stevestivers",
+                "https://twitter.com/FinLitCaucus"
+            ]
+        }
+    },
+    {
+        "name": "Anthony Gonzalez",
+        "state": "Ohio",
+        "district": "16th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AnthonyBGonzal",
+                "https://twitter.com/anthonygonzalez",
+                "https://twitter.com/RepAGonzalez",
+                "https://twitter.com/TonyGonzalez88",
+                "https://twitter.com/M83"
+            ]
+        }
+    },
+    {
+        "name": "Kevin Hern",
+        "state": "Oklahoma",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Natural Resources",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repkevinhern",
+                "https://twitter.com/krhern"
+            ]
+        }
+    },
+    {
+        "name": "Markwayne Mullin",
+        "state": "Oklahoma",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMullin",
+                "https://twitter.com/MarkwayneMullin"
+            ]
+        }
+    },
+    {
+        "name": "Frank Lucas",
+        "state": "Oklahoma",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepFrankLucas",
+                "https://twitter.com/housesciencegop",
+                "https://twitter.com/FrankDLucas"
+            ]
+        }
+    },
+    {
+        "name": "Tom Cole",
+        "state": "Oklahoma",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TomColeOK04",
+                "https://twitter.com/tomonslowcole",
+                "https://twitter.com/ElectBrannon"
+            ]
+        }
+    },
+    {
+        "name": "Kendra Horn",
+        "state": "Oklahoma",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HornForCongress",
+                "https://twitter.com/RepKendraHorn"
+            ]
+        }
+    },
+    {
+        "name": "Suzanne Bonamici",
+        "state": "Oregon",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Education and Labor",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBonamici"
+            ]
+        }
+    },
+    {
+        "name": "Greg Walden",
+        "state": "Oregon",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/votegregwalden",
+                "https://twitter.com/repgregwalden"
+            ]
+        }
+    },
+    {
+        "name": "Earl Blumenauer",
+        "state": "Oregon",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repblumenauer",
+                "https://twitter.com/BlumenauerMedia"
+            ]
+        }
+    },
+    {
+        "name": "Peter DeFazio",
+        "state": "Oregon",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DeFazio4Oregon",
+                "https://twitter.com/RepPeterDeFazio"
+            ]
+        }
+    },
+    {
+        "name": "Kurt Schrader",
+        "state": "Oregon",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSchrader"
+            ]
+        }
+    },
+    {
+        "name": "Brian Fitzpatrick",
+        "state": "Pennsylvania",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/therealfitz",
+                "https://twitter.com/BrianFitzUSA",
+                "https://twitter.com/RepBrianFitz",
+                "https://twitter.com/MeehanCampaign"
+            ]
+        }
+    },
+    {
+        "name": "Brendan Boyle",
+        "state": "Pennsylvania",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBrendanBoyle",
+                "https://twitter.com/CongBoyle",
+                "https://twitter.com/BrenOBoyle"
+            ]
+        }
+    },
+    {
+        "name": "Dwight Evans",
+        "state": "Pennsylvania",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Small Business",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDwightEvans",
+                "https://twitter.com/DwightEvansPA"
+            ]
+        }
+    },
+    {
+        "name": "Madeleine Dean",
+        "state": "Pennsylvania",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MadeleineDean",
+                "https://twitter.com/RepDean"
+            ]
+        }
+    },
+    {
+        "name": "Mary Gay Scanlon",
+        "state": "Pennsylvania",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary",
+            "Modernization of Congress",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/marygayscanlon",
+                "https://twitter.com/RepMGS"
+            ]
+        }
+    },
+    {
+        "name": "Chrissy Houlahan",
+        "state": "Pennsylvania",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Foreign Affairs",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepHoulahan",
+                "https://twitter.com/HoulahanForPa"
+            ]
+        }
+    },
+    {
+        "name": "Susan Wild",
+        "state": "Pennsylvania",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Foreign Affairs",
+            "Ethics"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/wildforcongress",
+                "https://twitter.com/RepSusanWild"
+            ]
+        }
+    },
+    {
+        "name": "Matt Cartwright",
+        "state": "Pennsylvania",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepCartwright",
+                "https://twitter.com/CartwrightPA"
+            ]
+        }
+    },
+    {
+        "name": "Daniel Meuser",
+        "state": "Pennsylvania",
+        "district": "9th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Education and Labor",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMeuser",
+                "https://twitter.com/Meuser4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Scott Perry",
+        "state": "Pennsylvania",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepScottPerry"
+            ]
+        }
+    },
+    {
+        "name": "Lloyd Smucker",
+        "state": "Pennsylvania",
+        "district": "11th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/LloydSmuckerPA",
+                "https://twitter.com/RepSmucker"
+            ]
+        }
+    },
+    {
+        "name": "Fred Keller",
+        "state": "Pennsylvania",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/VoteFredKeller",
+                "https://twitter.com/RepFredKeller"
+            ]
+        }
+    },
+    {
+        "name": "John Joyce",
+        "state": "Pennsylvania",
+        "district": "13th",
+        "party": "Republican",
+        "committees": [
+            "Homeland Security",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJohnJoyce",
+                "https://twitter.com/JohnJoyceForPA"
+            ]
+        }
+    },
+    {
+        "name": "Guy Reschenthaler",
+        "state": "Pennsylvania",
+        "district": "14th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/reschenthaler",
+                "https://twitter.com/GReschenthaler"
+            ]
+        }
+    },
+    {
+        "name": "Glenn Thompson",
+        "state": "Pennsylvania",
+        "district": "15th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/CongressmanGT",
+                "https://twitter.com/GT_TeamGT"
+            ]
+        }
+    },
+    {
+        "name": "Mike Kelly",
+        "state": "Pennsylvania",
+        "district": "16th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MikeKellyofEM",
+                "https://twitter.com/MikeKellyColumn",
+                "https://twitter.com/MikeKellyNHL",
+                "https://twitter.com/MikeKellyPA",
+                "https://twitter.com/MikeJKelly1962",
+                "https://twitter.com/mikeavenaim"
+            ]
+        }
+    },
+    {
+        "name": "Conor Lamb",
+        "state": "Pennsylvania",
+        "district": "17th",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ConorLambPA",
+                "https://twitter.com/RepConorLamb"
+            ]
+        }
+    },
+    {
+        "name": "Michael Doyle",
+        "state": "Pennsylvania",
+        "district": "18th",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MichaelDoyle10",
+                "https://twitter.com/USRepMikeDoyle"
+            ]
+        }
+    },
+    {
+        "name": "Jenniffer Gonz\u00e1lez-Col\u00f3n",
+        "state": "Puerto Rico",
+        "district": "Resident Commissioner",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJenniffer",
+                "https://twitter.com/Jenniffer2012"
+            ]
+        }
+    },
+    {
+        "name": "David Cicilline",
+        "state": "Rhode Island",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/davidcicilline",
+                "https://twitter.com/RepCicilline"
+            ]
+        }
+    },
+    {
+        "name": "Jim Langevin",
+        "state": "Rhode Island",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JimLangevin"
+            ]
+        }
+    },
+    {
+        "name": "Joe Cunningham",
+        "state": "South Carolina",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Natural Resources",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JoeCunninghamSC",
+                "https://twitter.com/RepCunningham"
+            ]
+        }
+    },
+    {
+        "name": "Joe Wilson",
+        "state": "South Carolina",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJoeWilson",
+                "https://twitter.com/TeamJoeWilson"
+            ]
+        }
+    },
+    {
+        "name": "Jeff Duncan",
+        "state": "South Carolina",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Duncan4Congress",
+                "https://twitter.com/JeffDuncan_",
+                "https://twitter.com/RepJeffDuncan",
+                "https://twitter.com/ClevelandHosea"
+            ]
+        }
+    },
+    {
+        "name": "William Timmons",
+        "state": "South Carolina",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/VoteTimmons",
+                "https://twitter.com/RepTimmons"
+            ]
+        }
+    },
+    {
+        "name": "Ralph Norman",
+        "state": "South Carolina",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Oversight and Reform",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RalphNorman",
+                "https://twitter.com/RepRalphNorman"
+            ]
+        }
+    },
+    {
+        "name": "James E. Clyburn",
+        "state": "South Carolina",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/WhipClyburn"
+            ]
+        }
+    },
+    {
+        "name": "Tom Rice",
+        "state": "South Carolina",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepTomRice",
+                "https://twitter.com/TomRiceSC7"
+            ]
+        }
+    },
+    {
+        "name": "Dusty Johnson",
+        "state": "South Dakota",
+        "district": "At Large",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DustyJohnson",
+                "https://twitter.com/RepDustyJohnson"
+            ]
+        }
+    },
+    {
+        "name": "Phil Roe",
+        "state": "Tennessee",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DrPhilRoe"
+            ]
+        }
+    },
+    {
+        "name": "Tim Burchett",
+        "state": "Tennessee",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Foreign Affairs",
+            "Small Business"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/timburchett",
+                "https://twitter.com/RepTimBurchett"
+            ]
+        }
+    },
+    {
+        "name": "Chuck Fleischmann",
+        "state": "Tennessee",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepChuck",
+                "https://twitter.com/chuck4congress"
+            ]
+        }
+    },
+    {
+        "name": "Scott DesJarlais",
+        "state": "Tennessee",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DesJarlaisTN04",
+                "https://twitter.com/tndesjarlais"
+            ]
+        }
+    },
+    {
+        "name": "Jim Cooper",
+        "state": "Tennessee",
+        "district": "5th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Budget",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/repjimcooper",
+                "https://twitter.com/AsmJimCooper",
+                "https://twitter.com/CoopForCongress"
+            ]
+        }
+    },
+    {
+        "name": "John W. Rose",
+        "state": "Tennessee",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJohnRose"
+            ]
+        }
+    },
+    {
+        "name": "Mark Green",
+        "state": "Tennessee",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Oversight and Reform",
+            "Homeland Security",
+            "Select Subcommittee on the Coronavirus Crisis"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/USAIDMarkGreen",
+                "https://twitter.com/RepMarkGreen",
+                "https://twitter.com/DrMarkGreen4TN",
+                "https://twitter.com/Noble16Mark",
+                "https://twitter.com/Mark_A_Green",
+                "https://twitter.com/markjgreen"
+            ]
+        }
+    },
+    {
+        "name": "David Kustoff",
+        "state": "Tennessee",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DavidKustoff",
+                "https://twitter.com/RepDavidKustoff"
+            ]
+        }
+    },
+    {
+        "name": "Steve Cohen",
+        "state": "Tennessee",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Judiciary",
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepCohen",
+                "https://twitter.com/sschreiber13",
+                "https://twitter.com/ReElectCohen"
+            ]
+        }
+    },
+    {
+        "name": "Louie Gohmert",
+        "state": "Texas",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Natural Resources",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/replouiegohmert",
+                "https://twitter.com/LouieGohmertTX1",
+                "https://twitter.com/GOHConservative"
+            ]
+        }
+    },
+    {
+        "name": "Dan Crenshaw",
+        "state": "Texas",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DanCrenshawTX",
+                "https://twitter.com/RepDanCrenshaw",
+                "https://twitter.com/SimaforTX"
+            ]
+        }
+    },
+    {
+        "name": "Van Taylor",
+        "state": "Texas",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/VanTaylorTX",
+                "https://twitter.com/RepVanTaylor",
+                "https://twitter.com/emilyvdw",
+                "https://twitter.com/RealGeorgiaT"
+            ]
+        }
+    },
+    {
+        "name": "John Ratcliffe",
+        "state": "Texas",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DNI_Ratcliffe"
+            ]
+        }
+    },
+    {
+        "name": "Lance Gooden",
+        "state": "Texas",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Lancegooden"
+            ]
+        }
+    },
+    {
+        "name": "Ron Wright",
+        "state": "Texas",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRonWright",
+                "https://twitter.com/ron4congress"
+            ]
+        }
+    },
+    {
+        "name": "Lizzie Fletcher",
+        "state": "Texas",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepFletcher",
+                "https://twitter.com/Lizzie4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Kevin Brady",
+        "state": "Texas",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Joint Committee on Taxation",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKevinBrady",
+                "https://twitter.com/bradyfortexas"
+            ]
+        }
+    },
+    {
+        "name": "Al Green",
+        "state": "Texas",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/algreen",
+                "https://twitter.com/RepAlGreen",
+                "https://twitter.com/GreenDay",
+                "https://twitter.com/Green_Footballs",
+                "https://twitter.com/RepAlGreenTX",
+                "https://twitter.com/cabq"
+            ]
+        }
+    },
+    {
+        "name": "Michael T. McCaul",
+        "state": "Texas",
+        "district": "10th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Homeland Security"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "K. Michael Conaway",
+        "state": "Texas",
+        "district": "11th",
+        "party": "Republican",
+        "committees": [
+            "Agriculture",
+            "Armed Services",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HouseAgGOP"
+            ]
+        }
+    },
+    {
+        "name": "Kay Granger",
+        "state": "Texas",
+        "district": "12th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKayGranger",
+                "https://twitter.com/GrangerCampaign"
+            ]
+        }
+    },
+    {
+        "name": "Mac Thornberry",
+        "state": "Texas",
+        "district": "13th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MacTXPress",
+                "https://twitter.com/MacThornberry"
+            ]
+        }
+    },
+    {
+        "name": "Randy Weber",
+        "state": "Texas",
+        "district": "14th",
+        "party": "Republican",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TXRandy14",
+                "https://twitter.com/WeberforTexas"
+            ]
+        }
+    },
+    {
+        "name": "Vicente Gonzalez",
+        "state": "Texas",
+        "district": "15th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGonzalez",
+                "https://twitter.com/VoteVicente"
+            ]
+        }
+    },
+    {
+        "name": "Veronica Escobar",
+        "state": "Texas",
+        "district": "16th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/vgescobar",
+                "https://twitter.com/RepEscobar"
+            ]
+        }
+    },
+    {
+        "name": "Bill Flores",
+        "state": "Texas",
+        "district": "17th",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Flores4Congress",
+                "https://twitter.com/RepBillFlores"
+            ]
+        }
+    },
+    {
+        "name": "Sheila Jackson Lee",
+        "state": "Texas",
+        "district": "18th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Homeland Security",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JacksonLeeTX18",
+                "https://twitter.com/sjl4hrc"
+            ]
+        }
+    },
+    {
+        "name": "Jodey Arrington",
+        "state": "Texas",
+        "district": "19th",
+        "party": "Republican",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JodeyArrington",
+                "https://twitter.com/RepArrington"
+            ]
+        }
+    },
+    {
+        "name": "Joaquin Castro",
+        "state": "Texas",
+        "district": "20th",
+        "party": "Democrat",
+        "committees": [
+            "Education and Labor",
+            "Foreign Affairs",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JoaquinCastrotx",
+                "https://twitter.com/Castro4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Chip Roy",
+        "state": "Texas",
+        "district": "21st",
+        "party": "Republican",
+        "committees": [
+            "Budget",
+            "Oversight and Reform",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/chiproytx",
+                "https://twitter.com/RepChipRoy"
+            ]
+        }
+    },
+    {
+        "name": "Pete Olson",
+        "state": "Texas",
+        "district": "22nd",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PeteOlson",
+                "https://twitter.com/RepPeteOlson"
+            ]
+        }
+    },
+    {
+        "name": "Will Hurd",
+        "state": "Texas",
+        "district": "23rd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HurdOnTheHill",
+                "https://twitter.com/WillHurd"
+            ]
+        }
+    },
+    {
+        "name": "Kenny Marchant",
+        "state": "Texas",
+        "district": "24th",
+        "party": "Republican",
+        "committees": [
+            "Ethics",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKenMarchant"
+            ]
+        }
+    },
+    {
+        "name": "Roger Williams",
+        "state": "Texas",
+        "district": "25th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepRWilliams",
+                "https://twitter.com/RogerRossWill",
+                "https://twitter.com/RogerWilliamsLD",
+                "https://twitter.com/RyloRodriguez"
+            ]
+        }
+    },
+    {
+        "name": "Michael Burgess",
+        "state": "Texas",
+        "district": "26th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce",
+            "Rules"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/michaelcburgess",
+                "https://twitter.com/DrBurgessTX",
+                "https://twitter.com/MikePBurgess"
+            ]
+        }
+    },
+    {
+        "name": "Michael Cloud",
+        "state": "Texas",
+        "district": "27th",
+        "party": "Republican",
+        "committees": [
+            "Oversight and Reform",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MichaelJCloud",
+                "https://twitter.com/RepCloudTX"
+            ]
+        }
+    },
+    {
+        "name": "Henry Cuellar",
+        "state": "Texas",
+        "district": "28th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepCuellar",
+                "https://twitter.com/CuellarCampaign"
+            ]
+        }
+    },
+    {
+        "name": "Sylvia Garcia",
+        "state": "Texas",
+        "district": "29th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepSylviaGarcia",
+                "https://twitter.com/LaCongresista"
+            ]
+        }
+    },
+    {
+        "name": "Eddie Bernice Johnson",
+        "state": "Texas",
+        "district": "30th",
+        "party": "Democrat",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepEBJ"
+            ]
+        }
+    },
+    {
+        "name": "John Carter",
+        "state": "Texas",
+        "district": "31st",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JudgeJohnCarter",
+                "https://twitter.com/JudgeCarter",
+                "https://twitter.com/johnfcarter",
+                "https://twitter.com/JohnCarter",
+                "https://twitter.com/JohnCarterWBTV",
+                "https://twitter.com/zachdcarter"
+            ]
+        }
+    },
+    {
+        "name": "Colin Allred",
+        "state": "Texas",
+        "district": "32nd",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Transportation and Infrastructure",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ColinAllredTX",
+                "https://twitter.com/RepColinAllred"
+            ]
+        }
+    },
+    {
+        "name": "Marc Veasey",
+        "state": "Texas",
+        "district": "33rd",
+        "party": "Democrat",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarcVeasey",
+                "https://twitter.com/RepVeasey"
+            ]
+        }
+    },
+    {
+        "name": "Filemon Vela",
+        "state": "Texas",
+        "district": "34th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/FilemonVela",
+                "https://twitter.com/RepFilemonVela"
+            ]
+        }
+    },
+    {
+        "name": "Lloyd Doggett",
+        "state": "Texas",
+        "district": "35th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Joint Committee on Taxation",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepLloydDoggett",
+                "https://twitter.com/LloydDoggettTX"
+            ]
+        }
+    },
+    {
+        "name": "Brian Babin",
+        "state": "Texas",
+        "district": "36th",
+        "party": "Republican",
+        "committees": [
+            "Transportation and Infrastructure",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBrianBabin",
+                "https://twitter.com/Babin4Congress"
+            ]
+        }
+    },
+    {
+        "name": "Rob Bishop",
+        "state": "Utah",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Rob_Bishop",
+                "https://twitter.com/NatResources",
+                "https://twitter.com/RobBishopUT"
+            ]
+        }
+    },
+    {
+        "name": "Chris Stewart",
+        "state": "Utah",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Budget",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/StewartforUtah",
+                "https://twitter.com/CStewartNews",
+                "https://twitter.com/RepChrisStewart"
+            ]
+        }
+    },
+    {
+        "name": "John R. Curtis",
+        "state": "Utah",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepJohnCurtis"
+            ]
+        }
+    },
+    {
+        "name": "Ben McAdams",
+        "state": "Utah",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BenMcAdams",
+                "https://twitter.com/RepBenMcAdams"
+            ]
+        }
+    },
+    {
+        "name": "Peter Welch",
+        "state": "Vermont",
+        "district": "At Large",
+        "party": "Democrat",
+        "committees": [
+            "Oversight and Reform",
+            "Energy and Commerce",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PeterWelch",
+                "https://twitter.com/WelchForVT",
+                "https://twitter.com/fleetwoodmac"
+            ]
+        }
+    },
+    {
+        "name": "Stacey Plaskett",
+        "state": "Virgin Islands",
+        "district": "Delegate",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/StaceyPlaskett"
+            ]
+        }
+    },
+    {
+        "name": "Robert J. Wittman",
+        "state": "Virginia",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Elaine Luria",
+        "state": "Virginia",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Veterans' Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/ElaineLuriaVA",
+                "https://twitter.com/RepElaineLuria"
+            ]
+        }
+    },
+    {
+        "name": "Robert C. Scott",
+        "state": "Virginia",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/BobbyScott"
+            ]
+        }
+    },
+    {
+        "name": "A. Donald McEachin",
+        "state": "Virginia",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Climate Crisis",
+            "Energy and Commerce",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMcEachin"
+            ]
+        }
+    },
+    {
+        "name": "Denver Riggleman",
+        "state": "Virginia",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Denver4VA",
+                "https://twitter.com/RepRiggleman"
+            ]
+        }
+    },
+    {
+        "name": "Ben Cline",
+        "state": "Virginia",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Cline4Virginia",
+                "https://twitter.com/RepBenCline"
+            ]
+        }
+    },
+    {
+        "name": "Abigail Spanberger",
+        "state": "Virginia",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Foreign Affairs"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SpanbergerVA07",
+                "https://twitter.com/RepSpanberger"
+            ]
+        }
+    },
+    {
+        "name": "Don Beyer",
+        "state": "Virginia",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Science, Space, and Technology",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DonBeyerVA",
+                "https://twitter.com/RepDonBeyer"
+            ]
+        }
+    },
+    {
+        "name": "Morgan Griffith",
+        "state": "Virginia",
+        "district": "9th",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMGriffith",
+                "https://twitter.com/MorganGriffith"
+            ]
+        }
+    },
+    {
+        "name": "Jennifer Wexton",
+        "state": "Virginia",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JenniferWexton",
+                "https://twitter.com/RepWexton"
+            ]
+        }
+    },
+    {
+        "name": "Gerald E. \"Gerry\" Connolly",
+        "state": "Virginia",
+        "district": "11th",
+        "party": "Democrat",
+        "committees": [
+            "Foreign Affairs",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Suzan DelBene",
+        "state": "Washington",
+        "district": "1st",
+        "party": "Democrat",
+        "committees": [
+            "Modernization of Congress",
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/SuzanDelBene",
+                "https://twitter.com/RepDelBene"
+            ]
+        }
+    },
+    {
+        "name": "Rick Larsen",
+        "state": "Washington",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/larsenrick",
+                "https://twitter.com/RepRickLarsen"
+            ]
+        }
+    },
+    {
+        "name": "Jaime Herrera Beutler",
+        "state": "Washington",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Appropriations"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/HerreraBeutler",
+                "https://twitter.com/JaimeForUSRep"
+            ]
+        }
+    },
+    {
+        "name": "Dan Newhouse",
+        "state": "Washington",
+        "district": "4th",
+        "party": "Republican",
+        "committees": [
+            "Appropriations",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Newhouse4Rep",
+                "https://twitter.com/RepNewhouse"
+            ]
+        }
+    },
+    {
+        "name": "Cathy McMorris Rodgers",
+        "state": "Washington",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/TeamCMR",
+                "https://twitter.com/cathymcmorris"
+            ]
+        }
+    },
+    {
+        "name": "Derek Kilmer",
+        "state": "Washington",
+        "district": "6th",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/DerekKilmer",
+                "https://twitter.com/RepDerekKilmer"
+            ]
+        }
+    },
+    {
+        "name": "Pramila Jayapal",
+        "state": "Washington",
+        "district": "7th",
+        "party": "Democrat",
+        "committees": [
+            "Budget",
+            "Education and Labor",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/PramilaJayapal",
+                "https://twitter.com/RepJayapal"
+            ]
+        }
+    },
+    {
+        "name": "Kim Schrier",
+        "state": "Washington",
+        "district": "8th",
+        "party": "Democrat",
+        "committees": [
+            "Agriculture",
+            "Education and Labor"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepKimSchrier",
+                "https://twitter.com/DrKimSchrier"
+            ]
+        }
+    },
+    {
+        "name": "Adam Smith",
+        "state": "Washington",
+        "district": "9th",
+        "party": "Democrat",
+        "committees": [
+            "Armed Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/AdamSmith912",
+                "https://twitter.com/electadamsmith",
+                "https://twitter.com/adamsmithtimes",
+                "https://twitter.com/asmith83",
+                "https://twitter.com/SkyAdamSmith",
+                "https://twitter.com/adamndsmith",
+                "https://twitter.com/AdamDatasmith",
+                "https://twitter.com/ajsmiddy",
+                "https://twitter.com/RepAdamSmith",
+                "https://twitter.com/ASI",
+                "https://twitter.com/AdamSmithInt",
+                "https://twitter.com/PeterAdamSmith"
+            ]
+        }
+    },
+    {
+        "name": "Denny Heck",
+        "state": "Washington",
+        "district": "10th",
+        "party": "Democrat",
+        "committees": [
+            "Financial Services",
+            "Intelligence"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepDennyHeck",
+                "https://twitter.com/DennyHeck"
+            ]
+        }
+    },
+    {
+        "name": "David McKinley",
+        "state": "West Virginia",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Energy and Commerce"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepMcKinley"
+            ]
+        }
+    },
+    {
+        "name": "Alex Mooney",
+        "state": "West Virginia",
+        "district": "2nd",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MooneyforWV",
+                "https://twitter.com/RepAlexMooney"
+            ]
+        }
+    },
+    {
+        "name": "Carol Miller",
+        "state": "West Virginia",
+        "district": "3rd",
+        "party": "Republican",
+        "committees": [
+            "Climate Crisis",
+            "Oversight and Reform",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepCarolMiller",
+                "https://twitter.com/CarolMillerWV",
+                "https://twitter.com/MarbinMiller"
+            ]
+        }
+    },
+    {
+        "name": "Bryan Steil",
+        "state": "Wisconsin",
+        "district": "1st",
+        "party": "Republican",
+        "committees": [
+            "Financial Services"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepBryanSteil",
+                "https://twitter.com/BryanSteil"
+            ]
+        }
+    },
+    {
+        "name": "Mark Pocan",
+        "state": "Wisconsin",
+        "district": "2nd",
+        "party": "Democrat",
+        "committees": [
+            "Appropriations",
+            "Modernization of Congress"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/MarkPocan",
+                "https://twitter.com/repmarkpocan"
+            ]
+        }
+    },
+    {
+        "name": "Ron Kind",
+        "state": "Wisconsin",
+        "district": "3rd",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/KindforCongress",
+                "https://twitter.com/RepRonKind"
+            ]
+        }
+    },
+    {
+        "name": "Gwen Moore",
+        "state": "Wisconsin",
+        "district": "4th",
+        "party": "Democrat",
+        "committees": [
+            "Ways and Means"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/RepGwenMoore",
+                "https://twitter.com/Gwen4Congress"
+            ]
+        }
+    },
+    {
+        "name": "F. James Sensenbrenner",
+        "state": "Wisconsin",
+        "district": "5th",
+        "party": "Republican",
+        "committees": [
+            "Foreign Affairs",
+            "Judiciary"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/JimPressOffice"
+            ]
+        }
+    },
+    {
+        "name": "Glenn Grothman",
+        "state": "Wisconsin",
+        "district": "6th",
+        "party": "Republican",
+        "committees": [
+            "Education and Labor",
+            "Oversight and Reform"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/GrothmanforWI",
+                "https://twitter.com/RepGrothman"
+            ]
+        }
+    },
+    {
+        "name": "Thomas P. Tiffany",
+        "state": "Wisconsin",
+        "district": "7th",
+        "party": "Republican",
+        "committees": [
+            "Judiciary",
+            "Science, Space, and Technology"
+        ],
+        "social-media": {
+            "twitter": []
+        }
+    },
+    {
+        "name": "Mike Gallagher",
+        "state": "Wisconsin",
+        "district": "8th",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Transportation and Infrastructure"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/radiotalkermike",
+                "https://twitter.com/MikeforWI",
+                "https://twitter.com/RepGallagher",
+                "https://twitter.com/MikeSGallagher"
+            ]
+        }
+    },
+    {
+        "name": "Liz Cheney",
+        "state": "Wyoming",
+        "district": "At Large",
+        "party": "Republican",
+        "committees": [
+            "Armed Services",
+            "Natural Resources"
+        ],
+        "social-media": {
+            "twitter": [
+                "https://twitter.com/Liz_Cheney",
+                "https://twitter.com/RepLizCheney"
+            ]
+        }
+    }
+]
