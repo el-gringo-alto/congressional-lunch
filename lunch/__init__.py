@@ -63,7 +63,7 @@ def get_tweets(party=None):
     twitter_keys = config['twitter']
     auth = tweepy.OAuthHandler(twitter_keys['consumer_key'], twitter_keys['consumer_secret'])
     auth.set_access_token(twitter_keys['access_token'], twitter_keys['access_token_secret'])
-    api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+    api = tweepy.API(auth, wait_on_rate_limit=True)
 
     # get all the twitter urls into a list
     with congress_file.open() as f:
@@ -93,8 +93,8 @@ def get_tweets(party=None):
     for url in twitter_urls:
         username = url.split('https://www.twitter.com/', 1)[1]
         try:
-            page = api.user_timeline(username, tweet_mode='extended')
-        except tweepy.TweepError as e:
+            page = api.user_timeline(screen_name=username, tweet_mode='extended')
+        except tweepy.TweepyException as e:
             print(f"Skipping @{username} - {e}")
             logging.info(f"@{username} - {e}")
             continue
