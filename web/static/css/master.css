@@ -1,0 +1,287 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+a {
+    color: #415F81;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.header-visible {
+    display: flex;
+    flex-flow: column;
+}
+
+@media screen and (min-width: 768px) {
+    .header-visible {
+        flex-flow: row;
+        align-items: flex-start;
+    }
+    .header-visible .header-container {
+        flex: 35%;
+        padding: 2em 1em 2em 2em;
+        min-height: 100vh;
+        display: flex;
+        flex-flow: column;
+    }
+
+    .header-visible main {
+        flex: 65%;
+    }
+
+
+    .header-visible main .tweet {
+        width: 100%;
+    }
+
+    .header-visible #main-content {
+        padding-left: 1em;
+        padding-right: 2em;
+    }
+
+    .header-visible .single-tweet {
+        padding: 2em 0 2em 0;
+    }
+
+}
+
+
+.logo {
+    width: 100%;
+}
+
+
+.header-container {
+    background-color: #fff;
+
+    padding: 2em 1em;
+
+    box-sizing: border-box;
+}
+
+
+.main-nav {
+    margin: 1em 0;
+    width: 100%;
+}
+
+.main-nav a {
+    padding: 1em;
+    border: 2px solid #1da1f2;
+    border-radius: 2em;
+    width: max-content;
+    margin: 1.5em 0;
+    display: block;
+    color: #000;
+    transition: background-color .25s;
+}
+
+.main-nav a:hover, .main-nav a:focus {
+    background-color: #1da1f2;
+    text-decoration: none;
+    outline: none;
+}
+
+
+.disclaimer {
+    margin-top: auto;
+}
+.disclaimer p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+#party-select {
+    border: 2px solid #ccd6dd;
+    width: 100%;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+
+#party-select label {
+    display: block;
+    margin-bottom: .5em;
+}
+
+
+#main-content {
+    box-sizing: border-box;
+}
+
+
+.tweet-feed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.header-visible .tweet-feed a, .tweet-tiles a, .header-visible .single-tweet .tweet {
+    width: 100%;
+}
+
+.header-invisible .tweet-feed a, .tweet-tiles a, .header-invisible .single-tweet .tweet {
+    max-width: 768px;
+}
+
+.tweet.democratic:hover {
+    border-color: #1da1f2;
+}
+.tweet.republican:hover {
+    border-color: #B22234;
+}
+
+.tweet-tiles {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-auto-flow: row;
+}
+
+
+.tweet-feed .tweet, .single-tweet .tweet {
+    width: 100%;
+
+}
+
+.tweet-tiles .tweet {
+    font-size: .5em;
+    height: 100%;
+}
+
+.tweet {
+    border: 2px solid #ccd6dd;
+
+    height: max-content;
+
+    line-height: 1.3125;
+
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+
+    position: static;
+    visibility: visible;
+
+    display: flex;
+
+    flex-direction: column;
+
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.tweet-header {
+    display: flex;
+}
+
+.profile-img {
+    /* width: 47px; */
+    margin-right: 10px;
+}
+
+.profile-img img {
+    border-radius: 50%;
+}
+
+.tweet-tiles .profile-img img, .tweet-tiles .profile-img {
+    width: 25px;
+}
+
+.tweet header {
+    margin-bottom: .1em;
+}
+
+.tweet .link-container {
+    margin-left: auto;
+}
+
+.tweet .link-container a {
+    font-size: 1.5em;
+    border-radius: 2em;
+    box-sizing: border-box;
+    transition: color .25s;
+    color: #657786;
+}
+
+.tweet.democratic .link-container a:hover {
+    color: #1da1f2;
+}
+
+.tweet.republican .link-container a:hover {
+    color: #B22234;
+}
+
+.tweet .content {
+    width: 100%;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.handle {
+    color: #657786;
+    display: block;
+}
+
+.text {
+    font-size: 1.5em;
+    margin: .5em 0;
+}
+
+.text p:first-of-type {
+    margin-top: 0;
+}
+
+.text p:last-of-type {
+    margin-bottom: 0;
+}
+
+time {
+    margin: .5em 0;
+    color: #657786;
+}
+
+.tweet-tiles time {
+    margin-top: auto;
+}
+
+.time::after {
+    content: '\00b7';
+    padding: 0 .25em;
+}
+
+.tweet footer {
+    border-top: 1px solid #ccd6dd;
+    padding: .5em 0;
+    margin: .5em 0 0 0;
+    color: #657786;
+}
+
+.tweet .retweets {
+    margin-right: 1em;
+}
+
+.tweet .retweets span, .tweet .likes span  {
+    margin-right: .5em;
+}
+
+
+.header-invisible {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header-invisible .tweet-feed .tweet {
+    max-width: 60vw;
+}

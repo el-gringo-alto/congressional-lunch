@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #b22234;
+      }
+
+      .cls-3 {
+        fill: #1da1f2;
+      }
+    </style>
+  </defs>
+  <g id="background">
+    <rect class="cls-1" width="1900" height="1000"/>
+  </g>
+  <g id="stripes">
+    <rect class="cls-2" y="923" width="1900" height="77"/>
+    <rect class="cls-2" y="769" width="1900" height="77"/>
+    <rect class="cls-2" y="615" width="1900" height="77"/>
+    <rect class="cls-2" y="461" width="1900" height="77"/>
+    <rect class="cls-2" y="307" width="1900" height="77"/>
+    <rect class="cls-2" y="153" width="1900" height="77"/>
+    <rect class="cls-2" width="1900" height="77"/>
+  </g>
+  <g id="twitter-logo">
+    <g id="blue">
+      <rect class="cls-3" width="760" height="538"/>
+    </g>
+    <path id="twitter_logo" data-name="twitter logo" class="cls-1" d="M291.5,463c179.6,0,277.9-148.9,277.9-277.9,0-4.2,0-8.4-.2-12.5A201.1,201.1,0,0,0,618,121.9a199.9,199.9,0,0,1-56.2,15.4,97.9,97.9,0,0,0,43-54.1,192.8,192.8,0,0,1-62.1,23.7,97.6,97.6,0,0,0-168.9,66.8,110.4,110.4,0,0,0,2.5,22.3C295.2,192,223.2,152.9,175,93.9a97.9,97.9,0,0,0,30.3,130.5,99.6,99.6,0,0,1-44.2-12.2v1.3a97.8,97.8,0,0,0,78.3,95.8,95.1,95.1,0,0,1-25.8,3.4,91.3,91.3,0,0,1-18.2-1.7,97.4,97.4,0,0,0,91.2,67.8,195.7,195.7,0,0,1-121.3,41.9,199.7,199.7,0,0,1-23.3-1.3A278.2,278.2,0,0,0,291.5,463"/>
+  </g>
+</svg>

@@ -1,0 +1,4189 @@
+[
+    {
+        "name": "Richard Shelby",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenShelby"
+        ]
+    },
+    {
+        "name": "Tommy Tuberville",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenTuberville",
+            "https://www.twitter.com/TTuberville"
+        ]
+    },
+    {
+        "name": "Daniel S. Sullivan",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenDanSullivan",
+            "https://www.twitter.com/DanSullivan_AK"
+        ]
+    },
+    {
+        "name": "Lisa Murkowski",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/lisamurkowski"
+        ]
+    },
+    {
+        "name": "Kyrsten Sinema",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senatorsinema",
+            "https://www.twitter.com/kyrstensinema"
+        ]
+    },
+    {
+        "name": "Mark Kelly",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenMarkKelly",
+            "https://www.twitter.com/CaptMarkKelly"
+        ]
+    },
+    {
+        "name": "John Boozman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JohnBoozman"
+        ]
+    },
+    {
+        "name": "Tom Cotton",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenTomCotton",
+            "https://www.twitter.com/TomCottonAR"
+        ]
+    },
+    {
+        "name": "Alex Padilla",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenAlexPadilla"
+        ]
+    },
+    {
+        "name": "Dianne Feinstein",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senfeinstein"
+        ]
+    },
+    {
+        "name": "John Hickenlooper",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorHick",
+            "https://www.twitter.com/Hickenlooper"
+        ]
+    },
+    {
+        "name": "Michael Bennet",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorBennet",
+            "https://www.twitter.com/michaelbennet"
+        ]
+    },
+    {
+        "name": "Christopher S. Murphy",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/ChrisMurphyCT"
+        ]
+    },
+    {
+        "name": "Richard Blumenthal",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senblumenthal"
+        ]
+    },
+    {
+        "name": "Chris Coons",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/ChrisCoons",
+            "https://www.twitter.com/ChrisCoonsforDE"
+        ]
+    },
+    {
+        "name": "Tom Carper",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senatorcarper"
+        ]
+    },
+    {
+        "name": "Marco Rubio",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenRubioPress",
+            "https://www.twitter.com/marcorubio"
+        ]
+    },
+    {
+        "name": "Rick Scott",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenRickScott",
+            "https://www.twitter.com/scottforflorida"
+        ]
+    },
+    {
+        "name": "Jon Ossoff",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/ossoff",
+            "https://www.twitter.com/ossoff"
+        ]
+    },
+    {
+        "name": "Raphael Warnock",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorWarnock",
+            "https://www.twitter.com/ReverendWarnock",
+            "https://www.twitter.com/RaphaelWarnock"
+        ]
+    },
+    {
+        "name": "Brian E. Schatz",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenBrianSchatz"
+        ]
+    },
+    {
+        "name": "Mazie K. Hirono",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/maziehirono"
+        ]
+    },
+    {
+        "name": "Jim Risch",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorRisch",
+            "https://www.twitter.com/Risch4Idaho"
+        ]
+    },
+    {
+        "name": "Mike Crapo",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/mikecrapo"
+        ]
+    },
+    {
+        "name": "Dick Durbin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorDurbin",
+            "https://www.twitter.com/DickDurbin"
+        ]
+    },
+    {
+        "name": "Tammy Duckworth",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenDuckworth"
+        ]
+    },
+    {
+        "name": "Mike Braun",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorBraun",
+            "https://www.twitter.com/braun4indiana"
+        ]
+    },
+    {
+        "name": "Todd C. Young",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/sentoddyoung",
+            "https://www.twitter.com/ToddYoungIN"
+        ]
+    },
+    {
+        "name": "Chuck Grassley",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/chuckgrassley"
+        ]
+    },
+    {
+        "name": "Joni Ernst",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenJoniErnst",
+            "https://www.twitter.com/joniernst"
+        ]
+    },
+    {
+        "name": "Jerry Moran",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/jerrymoran",
+            "https://www.twitter.com/moranforkansas"
+        ]
+    },
+    {
+        "name": "Roger Marshall",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMarshall",
+            "https://www.twitter.com/RogerMarshallMD"
+        ]
+    },
+    {
+        "name": "Mitch McConnell",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/LeaderMcConnell",
+            "https://www.twitter.com/Team_Mitch"
+        ]
+    },
+    {
+        "name": "Rand Paul",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RandPaul"
+        ]
+    },
+    {
+        "name": "Bill Cassidy",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenBillCassidy",
+            "https://www.twitter.com/billcassidy"
+        ]
+    },
+    {
+        "name": "John Neely Kennedy",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenJohnKennedy"
+        ]
+    },
+    {
+        "name": "Angus King",
+        "party": "Independent",
+        "twitter": [
+            "https://www.twitter.com/SenAngusKing"
+        ]
+    },
+    {
+        "name": "Susan Collins",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorCollins",
+            "https://www.twitter.com/SenSusanCollins"
+        ]
+    },
+    {
+        "name": "Ben Cardin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorCardin"
+        ]
+    },
+    {
+        "name": "Chris Van Hollen",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/ChrisVanHollen"
+        ]
+    },
+    {
+        "name": "Edward J. Markey",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenMarkey",
+            "https://www.twitter.com/EdMarkey"
+        ]
+    },
+    {
+        "name": "Elizabeth Warren",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenWarren",
+            "https://www.twitter.com/ewarren"
+        ]
+    },
+    {
+        "name": "Debbie Stabenow",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenStabenow"
+        ]
+    },
+    {
+        "name": "Gary Peters",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenGaryPeters",
+            "https://www.twitter.com/GaryPeters"
+        ]
+    },
+    {
+        "name": "Amy Klobuchar",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenAmyKlobuchar",
+            "https://www.twitter.com/amyklobuchar"
+        ]
+    },
+    {
+        "name": "Tina Smith",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenTinaSmith",
+            "https://www.twitter.com/TinaSmithMN"
+        ]
+    },
+    {
+        "name": "Cindy Hyde-Smith",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenHydeSmith",
+            "https://www.twitter.com/cindyhydesmith"
+        ]
+    },
+    {
+        "name": "Roger Wicker",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorWicker",
+            "https://www.twitter.com/RogerWicker"
+        ]
+    },
+    {
+        "name": "Josh Hawley",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenHawleyPress"
+        ]
+    },
+    {
+        "name": "Roy Blunt",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RoyBlunt"
+        ]
+    },
+    {
+        "name": "Jon Tester",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorTester"
+        ]
+    },
+    {
+        "name": "Steve Daines",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SteveDaines",
+            "https://www.twitter.com/DainesForMT"
+        ]
+    },
+    {
+        "name": "Ben Sasse",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenSasse",
+            "https://www.twitter.com/teamsasse",
+            "https://www.twitter.com/BenSasse"
+        ]
+    },
+    {
+        "name": "Deb Fischer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorFischer"
+        ]
+    },
+    {
+        "name": "Catherine Cortez Masto",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/sencortezmasto"
+        ]
+    },
+    {
+        "name": "Jacky Rosen",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenJackyRosen"
+        ]
+    },
+    {
+        "name": "Jeanne Shaheen",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorShaheen",
+            "https://www.twitter.com/jeanneshaheen"
+        ]
+    },
+    {
+        "name": "Maggie Hassan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/Senatorhassan",
+            "https://www.twitter.com/Maggie_Hassan"
+        ]
+    },
+    {
+        "name": "Bob Menendez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorMenendez"
+        ]
+    },
+    {
+        "name": "Cory Booker",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senbooker",
+            "https://www.twitter.com/CoryBooker"
+        ]
+    },
+    {
+        "name": "Ben Ray Luj\u00e1n",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorLujan",
+            "https://www.twitter.com/benraylujan"
+        ]
+    },
+    {
+        "name": "Martin Heinrich",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/martinheinrich",
+            "https://www.twitter.com/TeamHeinrich"
+        ]
+    },
+    {
+        "name": "Chuck Schumer",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenSchumer"
+        ]
+    },
+    {
+        "name": "Kirsten Gillibrand",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/gillibrandny",
+            "https://www.twitter.com/SenGillibrand"
+        ]
+    },
+    {
+        "name": "Richard Burr",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorBurr"
+        ]
+    },
+    {
+        "name": "Thom Tillis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenThomTillis",
+            "https://www.twitter.com/ThomTillis"
+        ]
+    },
+    {
+        "name": "John Hoeven",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenJohnHoeven"
+        ]
+    },
+    {
+        "name": "Kevin Cramer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenKevinCramer"
+        ]
+    },
+    {
+        "name": "Rob Portman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/senrobportman"
+        ]
+    },
+    {
+        "name": "Sherrod Brown",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenSherrodBrown"
+        ]
+    },
+    {
+        "name": "James Lankford",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorLankford"
+        ]
+    },
+    {
+        "name": "Jim Inhofe",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JimInhofe",
+            "https://www.twitter.com/inhofeforsenate"
+        ]
+    },
+    {
+        "name": "Jeff Merkley",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenJeffMerkley",
+            "https://www.twitter.com/JeffMerkley"
+        ]
+    },
+    {
+        "name": "Ron Wyden",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RonWyden",
+            "https://www.twitter.com/wydenfororegon"
+        ]
+    },
+    {
+        "name": "Bob Casey Jr.",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenBobCasey"
+        ]
+    },
+    {
+        "name": "Pat Toomey",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/sentoomey"
+        ]
+    },
+    {
+        "name": "Jack Reed",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/senjackreed",
+            "https://www.twitter.com/jackreed2020"
+        ]
+    },
+    {
+        "name": "Sheldon Whitehouse",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenWhitehouse"
+        ]
+    },
+    {
+        "name": "Lindsey Graham",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/LindseyGrahamSC"
+        ]
+    },
+    {
+        "name": "Tim Scott",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorTimScott"
+        ]
+    },
+    {
+        "name": "John Thune",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/senjohnthune"
+        ]
+    },
+    {
+        "name": "Mike Rounds",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/senatorrounds",
+            "https://www.twitter.com/RoundsforSenate"
+        ]
+    },
+    {
+        "name": "Bill Hagerty",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorHagerty",
+            "https://www.twitter.com/BillHagertyTN"
+        ]
+    },
+    {
+        "name": "Marsha Blackburn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/MarshaBlackburn"
+        ]
+    },
+    {
+        "name": "John Cornyn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JohnCornyn",
+            "https://www.twitter.com/TeamCornyn"
+        ]
+    },
+    {
+        "name": "Ted Cruz",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenTedCruz",
+            "https://www.twitter.com/tedcruz"
+        ]
+    },
+    {
+        "name": "Mike Lee",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenMikeLee"
+        ]
+    },
+    {
+        "name": "Mitt Romney",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenatorRomney",
+            "https://www.twitter.com/mittromney"
+        ]
+    },
+    {
+        "name": "Bernie Sanders",
+        "party": "Independent",
+        "twitter": [
+            "https://www.twitter.com/SenSanders",
+            "https://www.twitter.com/berniesanders"
+        ]
+    },
+    {
+        "name": "Patrick Leahy",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorLeahy"
+        ]
+    },
+    {
+        "name": "Mark Warner",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/MarkWarner",
+            "https://www.twitter.com/MarkWarnerVa"
+        ]
+    },
+    {
+        "name": "Tim Kaine",
+        "party": "Democratic",
+        "twitter": []
+    },
+    {
+        "name": "Maria Cantwell",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorCantwell"
+        ]
+    },
+    {
+        "name": "Patty Murray",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/pattymurray"
+        ]
+    },
+    {
+        "name": "Joe Manchin III",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/Sen_JoeManchin"
+        ]
+    },
+    {
+        "name": "Shelley Moore Capito",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenCapito",
+            "https://www.twitter.com/CapitoforWV"
+        ]
+    },
+    {
+        "name": "Ronald Harold Johnson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenRonJohnson"
+        ]
+    },
+    {
+        "name": "Tammy Baldwin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SenatorBaldwin"
+        ]
+    },
+    {
+        "name": "Cynthia Lummis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SenLummis",
+            "https://www.twitter.com/CynthiaMLummis"
+        ]
+    },
+    {
+        "name": "John Barrasso",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/senjohnbarrasso"
+        ]
+    },
+    {
+        "name": "Jerry Carl",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJerryCarl",
+            "https://www.twitter.com/CarlForAlabama"
+        ]
+    },
+    {
+        "name": "Barry Moore",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBarryMoore",
+            "https://www.twitter.com/RepBarryMoore"
+        ]
+    },
+    {
+        "name": "Mike Rogers",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMikeRogersAL",
+            "https://www.twitter.com/MikeRogersCamp"
+        ]
+    },
+    {
+        "name": "Robert Aderholt",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/Robert_Aderholt"
+        ]
+    },
+    {
+        "name": "Mo Brooks",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMoBrooks"
+        ]
+    },
+    {
+        "name": "Gary Palmer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/USRepGaryPalmer",
+            "https://www.twitter.com/Palmer4Alabama"
+        ]
+    },
+    {
+        "name": "Terri Sewell",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTerriSewell",
+            "https://www.twitter.com/Sewell4Congress"
+        ]
+    },
+    {
+        "name": "Don Young",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repdonyoung",
+            "https://www.twitter.com/DonYoungAK"
+        ]
+    },
+    {
+        "name": "Aumua Amata Radewagen",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repamata"
+        ]
+    },
+    {
+        "name": "Tom O'Halleran",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repohalleran",
+            "https://www.twitter.com/TomOHalleran"
+        ]
+    },
+    {
+        "name": "Ann Kirkpatrick",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKirkpatrick",
+            "https://www.twitter.com/Ann_Kirkpatrick"
+        ]
+    },
+    {
+        "name": "Raul Grijalva",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repraulgrijalva",
+            "https://www.twitter.com/standwithraul"
+        ]
+    },
+    {
+        "name": "Paul Gosar",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGosar",
+            "https://www.twitter.com/DrPaulGosar"
+        ]
+    },
+    {
+        "name": "Andy Biggs",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAndyBiggsAZ",
+            "https://www.twitter.com/andybiggs4az"
+        ]
+    },
+    {
+        "name": "David Schweikert",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDavid",
+            "https://www.twitter.com/DavidSchweikert"
+        ]
+    },
+    {
+        "name": "Ruben Gallego",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRubenGallego",
+            "https://www.twitter.com/RubenGallego"
+        ]
+    },
+    {
+        "name": "Debbie Lesko",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDLesko",
+            "https://www.twitter.com/DebbieLesko"
+        ]
+    },
+    {
+        "name": "Greg Stanton",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repgregstanton",
+            "https://www.twitter.com/gregstantonaz"
+        ]
+    },
+    {
+        "name": "Rick Crawford",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRickCrawford",
+            "https://www.twitter.com/Crawford4Cong"
+        ]
+    },
+    {
+        "name": "French Hill",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFrenchHill",
+            "https://www.twitter.com/ElectFrench"
+        ]
+    },
+    {
+        "name": "Steve Womack",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/rep_stevewomack",
+            "https://www.twitter.com/womack4congress"
+        ]
+    },
+    {
+        "name": "Bruce Westerman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepWesterman",
+            "https://www.twitter.com/WestermanAR",
+            "https://www.twitter.com/bruce_westerman"
+        ]
+    },
+    {
+        "name": "Doug LaMalfa",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLaMalfa"
+        ]
+    },
+    {
+        "name": "Josh Harder",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJoshHarder",
+            "https://www.twitter.com/JoshHarder"
+        ]
+    },
+    {
+        "name": "Mark DeSaulnier",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDeSaulnier",
+            "https://www.twitter.com/MarkDeSaulnier"
+        ]
+    },
+    {
+        "name": "Nancy Pelosi",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SpeakerPelosi",
+            "https://www.twitter.com/TeamPelosi"
+        ]
+    },
+    {
+        "name": "Barbara Lee",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBarbaraLee",
+            "https://www.twitter.com/BLeeForCongress"
+        ]
+    },
+    {
+        "name": "Jackie Speier",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSpeier",
+            "https://www.twitter.com/JackieSpeier"
+        ]
+    },
+    {
+        "name": "Eric Swalwell",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSwalwell",
+            "https://www.twitter.com/ericswalwell"
+        ]
+    },
+    {
+        "name": "Jim Costa",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJimCosta"
+        ]
+    },
+    {
+        "name": "Ro Khanna",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRoKhanna",
+            "https://www.twitter.com/RoKhanna"
+        ]
+    },
+    {
+        "name": "Anna Eshoo",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAnnaEshoo",
+            "https://www.twitter.com/Eshoo4Congress"
+        ]
+    },
+    {
+        "name": "Zoe Lofgren",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepZoeLofgren"
+        ]
+    },
+    {
+        "name": "Jared Huffman",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepHuffman",
+            "https://www.twitter.com/JaredHuffman"
+        ]
+    },
+    {
+        "name": "Jimmy Panetta",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJimmyPanetta",
+            "https://www.twitter.com/JimmyPanetta"
+        ]
+    },
+    {
+        "name": "David G. Valadao",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDavidValadao",
+            "https://www.twitter.com/dgvaladao"
+        ]
+    },
+    {
+        "name": "Devin Nunes",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDevinNunes",
+            "https://www.twitter.com/Team_Nunes",
+            "https://www.twitter.com/DevinNunes"
+        ]
+    },
+    {
+        "name": "Kevin McCarthy",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/GOPLeader",
+            "https://www.twitter.com/kevinomccarthy"
+        ]
+    },
+    {
+        "name": "Salud Carbajal",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCarbajal",
+            "https://www.twitter.com/carbajalsalud"
+        ]
+    },
+    {
+        "name": "Mike Garcia",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMikeGarcia"
+        ]
+    },
+    {
+        "name": "Julia Brownley",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBrownley",
+            "https://www.twitter.com/JuliaBrownley"
+        ]
+    },
+    {
+        "name": "Judy Chu",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJudyChu",
+            "https://www.twitter.com/JudyChuCampaign"
+        ]
+    },
+    {
+        "name": "Adam Schiff",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAdamSchiff",
+            "https://www.twitter.com/AdamSchiff"
+        ]
+    },
+    {
+        "name": "Tony C\u00e1rdenas",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCardenas",
+            "https://www.twitter.com/Tcardenas"
+        ]
+    },
+    {
+        "name": "John Garamendi",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepGaramendi",
+            "https://www.twitter.com/JohnGaramendi"
+        ]
+    },
+    {
+        "name": "Brad Sherman",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/BradSherman"
+        ]
+    },
+    {
+        "name": "Pete Aguilar",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepPeteAguilar",
+            "https://www.twitter.com/aguilarpete"
+        ]
+    },
+    {
+        "name": "Grace Napolitano",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/gracenapolitano"
+        ]
+    },
+    {
+        "name": "Ted Lieu",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTedLieu",
+            "https://www.twitter.com/tedlieu"
+        ]
+    },
+    {
+        "name": "Jimmy Gomez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJimmyGomez",
+            "https://www.twitter.com/JimmyGomezCA"
+        ]
+    },
+    {
+        "name": "Norma Torres",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/NormaJTorres",
+            "https://www.twitter.com/Norma4Congress"
+        ]
+    },
+    {
+        "name": "Raul Ruiz",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRaulRuizMD",
+            "https://www.twitter.com/Dr_RaulRuiz"
+        ]
+    },
+    {
+        "name": "Karen Bass",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKarenBass"
+        ]
+    },
+    {
+        "name": "Linda S\u00e1nchez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLindaSanchez",
+            "https://www.twitter.com/LindaTSanchez"
+        ]
+    },
+    {
+        "name": "Young Kim",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepYoungKim",
+            "https://www.twitter.com/YoungKimCA"
+        ]
+    },
+    {
+        "name": "Tom McClintock",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMcClintock",
+            "https://www.twitter.com/tommcclintock"
+        ]
+    },
+    {
+        "name": "Lucille Roybal-Allard",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRoybalAllard"
+        ]
+    },
+    {
+        "name": "Mark Takano",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMarkTakano",
+            "https://www.twitter.com/MarkTakano"
+        ]
+    },
+    {
+        "name": "Ken Calvert",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/KenCalvert",
+            "https://www.twitter.com/TeamCalvert"
+        ]
+    },
+    {
+        "name": "Maxine Waters",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMaxineWaters"
+        ]
+    },
+    {
+        "name": "Nanette Barrag\u00e1n",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBarragan",
+            "https://www.twitter.com/Nanette4CA"
+        ]
+    },
+    {
+        "name": "Katie Porter",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKatiePorter",
+            "https://www.twitter.com/katieporteroc"
+        ]
+    },
+    {
+        "name": "Lou Correa",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLouCorrea"
+        ]
+    },
+    {
+        "name": "Alan Lowenthal",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLowenthal",
+            "https://www.twitter.com/alanlowenthal"
+        ]
+    },
+    {
+        "name": "Michelle Steel",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepSteel",
+            "https://www.twitter.com/MichelleSteelCA"
+        ]
+    },
+    {
+        "name": "Mike Levin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMikeLevin",
+            "https://www.twitter.com/MikeLevin"
+        ]
+    },
+    {
+        "name": "Mike Thompson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepThompson",
+            "https://www.twitter.com/Mike_CA05"
+        ]
+    },
+    {
+        "name": "Darrell Issa",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repdarrellissa"
+        ]
+    },
+    {
+        "name": "Juan Vargas",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJuanVargas"
+        ]
+    },
+    {
+        "name": "Scott Peters",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepScottPeters",
+            "https://www.twitter.com/ScottPetersSD"
+        ]
+    },
+    {
+        "name": "Sara Jacobs",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSaraJacobs",
+            "https://www.twitter.com/SaraJacobsCA"
+        ]
+    },
+    {
+        "name": "Doris Matsui",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/DorisMatsui",
+            "https://www.twitter.com/Matsui4Congress"
+        ]
+    },
+    {
+        "name": "Ami Bera",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBera",
+            "https://www.twitter.com/BeraForCongress"
+        ]
+    },
+    {
+        "name": "Jay Obernolte",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JayObernolte",
+            "https://www.twitter.com/TeamObernolte"
+        ]
+    },
+    {
+        "name": "Jerry McNerney",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMcNerney",
+            "https://www.twitter.com/jerrymcnerney"
+        ]
+    },
+    {
+        "name": "Diana DeGette",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDianaDeGette",
+            "https://www.twitter.com/DeGette5280"
+        ]
+    },
+    {
+        "name": "Joe Neguse",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJoeNeguse",
+            "https://www.twitter.com/JoeNeguse"
+        ]
+    },
+    {
+        "name": "Lauren Boebert",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBoebert",
+            "https://www.twitter.com/laurenboebert"
+        ]
+    },
+    {
+        "name": "Ken Buck",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepKenBuck",
+            "https://www.twitter.com/BuckForColorado"
+        ]
+    },
+    {
+        "name": "Doug Lamborn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDLamborn"
+        ]
+    },
+    {
+        "name": "Jason Crow",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repjasoncrow"
+        ]
+    },
+    {
+        "name": "Ed Perlmutter",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repperlmutter",
+            "https://www.twitter.com/Ed4Colorado"
+        ]
+    },
+    {
+        "name": "John Larson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJohnLarson",
+            "https://www.twitter.com/JohnLarsonCT"
+        ]
+    },
+    {
+        "name": "Joe Courtney",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repjoecourtney",
+            "https://www.twitter.com/joecourtneyct"
+        ]
+    },
+    {
+        "name": "Rosa L. DeLauro",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/rosadelauro",
+            "https://www.twitter.com/Rosa_DeLauro"
+        ]
+    },
+    {
+        "name": "Jim Himes",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/jahimes"
+        ]
+    },
+    {
+        "name": "Jahana Hayes",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJahanaHayes",
+            "https://www.twitter.com/JahanaHayesCT"
+        ]
+    },
+    {
+        "name": "Lisa Blunt Rochester",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLBR",
+            "https://www.twitter.com/LisaBRochester"
+        ]
+    },
+    {
+        "name": "Matt Gaetz",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMattGaetz",
+            "https://www.twitter.com/mattgaetz"
+        ]
+    },
+    {
+        "name": "Val Demings",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepValDemings"
+        ]
+    },
+    {
+        "name": "Daniel Webster",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepWebster",
+            "https://www.twitter.com/WebsterCongress"
+        ]
+    },
+    {
+        "name": "Gus M. Bilirakis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGusBilirakis"
+        ]
+    },
+    {
+        "name": "Charlie Crist",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCharlieCrist",
+            "https://www.twitter.com/CharlieCrist"
+        ]
+    },
+    {
+        "name": "Kathy Castor",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/USRepKCastor",
+            "https://www.twitter.com/KathyCastorFL"
+        ]
+    },
+    {
+        "name": "Scott Franklin",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFranklin",
+            "https://www.twitter.com/ScottFranklinFL"
+        ]
+    },
+    {
+        "name": "Vern Buchanan",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/VernBuchanan"
+        ]
+    },
+    {
+        "name": "Greg Steube",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGregSteube",
+            "https://www.twitter.com/gregsteube"
+        ]
+    },
+    {
+        "name": "Brian Mast",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBrianMast",
+            "https://www.twitter.com/BrianMastFL"
+        ]
+    },
+    {
+        "name": "Byron Donalds",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDonaldsPress",
+            "https://www.twitter.com/ByronDonalds"
+        ]
+    },
+    {
+        "name": "Neal Dunn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/DrNealDunnFL2",
+            "https://www.twitter.com/DunnCampaign"
+        ]
+    },
+    {
+        "name": "Alcee Hastings",
+        "party": "Democratic",
+        "twitter": []
+    },
+    {
+        "name": "Lois Frankel",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLoisFrankel",
+            "https://www.twitter.com/LoisFrankel"
+        ]
+    },
+    {
+        "name": "Theodore E. Deutch",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTedDeutch",
+            "https://www.twitter.com/TedDeutch"
+        ]
+    },
+    {
+        "name": "Debbie Wasserman Schultz",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDWStweets",
+            "https://www.twitter.com/DWStweets"
+        ]
+    },
+    {
+        "name": "Frederica S. Wilson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepWilson",
+            "https://www.twitter.com/FSWInTheHouse"
+        ]
+    },
+    {
+        "name": "Mario Diaz-Balart",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/MarioDB",
+            "https://www.twitter.com/MarioDBCamp"
+        ]
+    },
+    {
+        "name": "Carlos Gimenez",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepCarlos",
+            "https://www.twitter.com/CarlosGimenezFL"
+        ]
+    },
+    {
+        "name": "Maria Elvira Salazar",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMariaSalazar",
+            "https://www.twitter.com/MaElviraSalazar"
+        ]
+    },
+    {
+        "name": "Kat Cammack",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepKatCammack",
+            "https://www.twitter.com/Kat_Cammack",
+            "https://www.twitter.com/KatCammack"
+        ]
+    },
+    {
+        "name": "John Rutherford",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRutherfordFL",
+            "https://www.twitter.com/JRutherfordFL"
+        ]
+    },
+    {
+        "name": "Alfred Lawson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAlLawsonJr",
+            "https://www.twitter.com/AlLawsonJR"
+        ]
+    },
+    {
+        "name": "Michael Waltz",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/michaelgwaltz"
+        ]
+    },
+    {
+        "name": "Stephanie Murphy",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepStephMurphy"
+        ]
+    },
+    {
+        "name": "Bill Posey",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/congbillposey",
+            "https://www.twitter.com/PoseyCampaign"
+        ]
+    },
+    {
+        "name": "Darren Soto",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDarrenSoto",
+            "https://www.twitter.com/DarrenSoto"
+        ]
+    },
+    {
+        "name": "Earl Carter",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repBuddyCarter",
+            "https://www.twitter.com/Buddy_Carter"
+        ]
+    },
+    {
+        "name": "Jody Hice",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/congressmanhice",
+            "https://www.twitter.com/JodyHice"
+        ]
+    },
+    {
+        "name": "Barry Loudermilk",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/reploudermilk",
+            "https://www.twitter.com/standwithbarry"
+        ]
+    },
+    {
+        "name": "Rick Allen",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRickAllen",
+            "https://www.twitter.com/rickallen"
+        ]
+    },
+    {
+        "name": "David Scott",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repdavidscott",
+            "https://www.twitter.com/Electdavidscott"
+        ]
+    },
+    {
+        "name": "Marjorie Taylor Greene",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMTG"
+        ]
+    },
+    {
+        "name": "Sanford Bishop Jr.",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/SanfordBishop"
+        ]
+    },
+    {
+        "name": "Drew Ferguson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDrewFerguson",
+            "https://www.twitter.com/DrewFergusonGA"
+        ]
+    },
+    {
+        "name": "Hank Johnson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepHankJohnson",
+            "https://www.twitter.com/ReElectHank"
+        ]
+    },
+    {
+        "name": "Nikema Williams",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepNikema",
+            "https://www.twitter.com/NikemaWilliams"
+        ]
+    },
+    {
+        "name": "Lucy McBath",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLucyMcBath",
+            "https://www.twitter.com/lucymcbath"
+        ]
+    },
+    {
+        "name": "Carolyn Bourdeaux",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBourdeaux",
+            "https://www.twitter.com/Carolyn4GA7"
+        ]
+    },
+    {
+        "name": "Austin Scott",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/AustinScottGA08",
+            "https://www.twitter.com/ScottForGA"
+        ]
+    },
+    {
+        "name": "Andrew Clyde",
+        "party": "Republican",
+        "twitter": []
+    },
+    {
+        "name": "Michael F.Q. San Nicolas",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/guamcongressman"
+        ]
+    },
+    {
+        "name": "Ed Case",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repedcase",
+            "https://www.twitter.com/EdCaseHawaii"
+        ]
+    },
+    {
+        "name": "Kaiali'i Kahele",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/kaikahele"
+        ]
+    },
+    {
+        "name": "Russ Fulcher",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRussFulcher",
+            "https://www.twitter.com/RussFulcher"
+        ]
+    },
+    {
+        "name": "Michael K. Simpson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/CongMikeSimpson",
+            "https://www.twitter.com/mikesimpson4id"
+        ]
+    },
+    {
+        "name": "Bobby Rush",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repbobbyrush",
+            "https://www.twitter.com/bobbyrushfor1st"
+        ]
+    },
+    {
+        "name": "Brad Schneider",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repschneider",
+            "https://www.twitter.com/Schneider4IL10"
+        ]
+    },
+    {
+        "name": "Bill Foster",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBillFoster",
+            "https://www.twitter.com/Foster4Congress"
+        ]
+    },
+    {
+        "name": "Mike Bost",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBost",
+            "https://www.twitter.com/BostForCongress"
+        ]
+    },
+    {
+        "name": "Rodney Davis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RodneyDavis",
+            "https://www.twitter.com/electrodney"
+        ]
+    },
+    {
+        "name": "Lauren Underwood",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepUnderwood",
+            "https://www.twitter.com/LaurenUnderwood"
+        ]
+    },
+    {
+        "name": "Mary Miller",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMaryMiller",
+            "https://www.twitter.com/Miller_Congress"
+        ]
+    },
+    {
+        "name": "Adam Kinzinger",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repkinzinger",
+            "https://www.twitter.com/AdamKinzinger"
+        ]
+    },
+    {
+        "name": "Cheri Bustos",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCheri",
+            "https://www.twitter.com/cheribustos"
+        ]
+    },
+    {
+        "name": "Darin LaHood",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLaHood",
+            "https://www.twitter.com/ElectLaHood"
+        ]
+    },
+    {
+        "name": "Robin Kelly",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRobinKelly",
+            "https://www.twitter.com/RobinLynneKelly"
+        ]
+    },
+    {
+        "name": "Marie Newman",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMarieNewman",
+            "https://www.twitter.com/Marie4Congress"
+        ]
+    },
+    {
+        "name": "Jesus Garcia",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepChuyGarcia",
+            "https://www.twitter.com/ChuyForCongress"
+        ]
+    },
+    {
+        "name": "Mike Quigley",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMikeQuigley",
+            "https://www.twitter.com/QuigleyCampaign"
+        ]
+    },
+    {
+        "name": "Sean Casten",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCasten",
+            "https://www.twitter.com/VoteCasten",
+            "https://www.twitter.com/SeanCasten"
+        ]
+    },
+    {
+        "name": "Danny K. Davis",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDannyDavis",
+            "https://www.twitter.com/DannyKDavis7th"
+        ]
+    },
+    {
+        "name": "Raja Krishnamoorthi",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/CongressmanRaja",
+            "https://www.twitter.com/RajaForCongress"
+        ]
+    },
+    {
+        "name": "Jan Schakowsky",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSchakowsky",
+            "https://www.twitter.com/janschakowsky"
+        ]
+    },
+    {
+        "name": "Frank Mrvan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMrvan",
+            "https://www.twitter.com/mrvan4congress",
+            "https://www.twitter.com/Fjmrvan"
+        ]
+    },
+    {
+        "name": "Jackie Walorski",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepWalorski",
+            "https://www.twitter.com/jackiewalorski"
+        ]
+    },
+    {
+        "name": "Jim Banks",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJimBanks",
+            "https://www.twitter.com/Jim_Banks"
+        ]
+    },
+    {
+        "name": "Jim Baird",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJimBaird",
+            "https://www.twitter.com/ElectJimBaird"
+        ]
+    },
+    {
+        "name": "Victoria Spartz",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepSpartz",
+            "https://www.twitter.com/Victoria_Spartz"
+        ]
+    },
+    {
+        "name": "Greg Pence",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGregPence",
+            "https://www.twitter.com/GregPenceIN"
+        ]
+    },
+    {
+        "name": "Andr\u00e9 Carson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAndreCarson",
+            "https://www.twitter.com/Andre4Congress"
+        ]
+    },
+    {
+        "name": "Larry Bucshon",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLarryBucshon",
+            "https://www.twitter.com/DrLarryBucshon"
+        ]
+    },
+    {
+        "name": "Trey Hollingsworth",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTrey",
+            "https://www.twitter.com/VoteForTrey"
+        ]
+    },
+    {
+        "name": "Ashley Hinson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAshleyHinson",
+            "https://www.twitter.com/hinsonashley"
+        ]
+    },
+    {
+        "name": "Mariannette Miller-Meeks",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMMM",
+            "https://www.twitter.com/millermeeks"
+        ]
+    },
+    {
+        "name": "Cindy Axne",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCindyAxne",
+            "https://www.twitter.com/Axne4Congress"
+        ]
+    },
+    {
+        "name": "Randy Feenstra",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFeenstra",
+            "https://www.twitter.com/RandyFeenstra"
+        ]
+    },
+    {
+        "name": "Tracey Mann",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMann",
+            "https://www.twitter.com/TraceyMannKS"
+        ]
+    },
+    {
+        "name": "Jacob LaTurner",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLaTurner",
+            "https://www.twitter.com/JakeLaTurner"
+        ]
+    },
+    {
+        "name": "Sharice Davids",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDavids",
+            "https://www.twitter.com/ShariceDavids"
+        ]
+    },
+    {
+        "name": "Ron Estes",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRonEstes",
+            "https://www.twitter.com/RonEstesKS"
+        ]
+    },
+    {
+        "name": "James Comer Jr.",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJamesComer",
+            "https://www.twitter.com/JamesComer"
+        ]
+    },
+    {
+        "name": "Brett Guthrie",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGuthrie",
+            "https://www.twitter.com/brettguthrie"
+        ]
+    },
+    {
+        "name": "John A. Yarmuth",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJohnYarmuth"
+        ]
+    },
+    {
+        "name": "Thomas Massie",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepThomasMassie",
+            "https://www.twitter.com/massieforky"
+        ]
+    },
+    {
+        "name": "Hal Rogers",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepHalRogers",
+            "https://www.twitter.com/HalRogersKY5"
+        ]
+    },
+    {
+        "name": "Andy Barr",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAndyBarr",
+            "https://www.twitter.com/barrforcongress"
+        ]
+    },
+    {
+        "name": "Steve Scalise",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/SteveScalise",
+            "https://www.twitter.com/SteveScaliseGOP"
+        ]
+    },
+    {
+        "name": "Clay Higgins",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepClayHiggins",
+            "https://www.twitter.com/CaptClayHiggins"
+        ]
+    },
+    {
+        "name": "Mike Johnson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMikeJohnson",
+            "https://www.twitter.com/MikeJohnson"
+        ]
+    },
+    {
+        "name": "Garret Graves",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGarretGraves",
+            "https://www.twitter.com/garretgraves"
+        ]
+    },
+    {
+        "name": "Chellie Pingree",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/chelliepingree"
+        ]
+    },
+    {
+        "name": "Jared Golden",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepGolden",
+            "https://www.twitter.com/golden4congress"
+        ]
+    },
+    {
+        "name": "Andrew Harris",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAndyHarrisMD",
+            "https://www.twitter.com/Harris4Congress"
+        ]
+    },
+    {
+        "name": "Dutch Ruppersberger",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/Call_Me_Dutch",
+            "https://www.twitter.com/GoDutchForMD"
+        ]
+    },
+    {
+        "name": "John Sarbanes",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSarbanes",
+            "https://www.twitter.com/JohnSarbanes"
+        ]
+    },
+    {
+        "name": "Anthony G. Brown",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAnthonyBrown"
+        ]
+    },
+    {
+        "name": "Steny Hoyer",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/LeaderHoyer",
+            "https://www.twitter.com/StenyHoyer"
+        ]
+    },
+    {
+        "name": "David Trone",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repdavidtrone",
+            "https://www.twitter.com/davidjtrone"
+        ]
+    },
+    {
+        "name": "Kweisi Mfume",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKweisiMfume",
+            "https://www.twitter.com/Mfume4Congress"
+        ]
+    },
+    {
+        "name": "Jamie Raskin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repraskin",
+            "https://www.twitter.com/jamie_raskin"
+        ]
+    },
+    {
+        "name": "Richard Neal",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRichardNeal",
+            "https://www.twitter.com/NealForCongress"
+        ]
+    },
+    {
+        "name": "Jim McGovern",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMcGovern",
+            "https://www.twitter.com/McGovernMA"
+        ]
+    },
+    {
+        "name": "Lori Trahan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLoriTrahan"
+        ]
+    },
+    {
+        "name": "Jake Auchincloss",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAuchincloss",
+            "https://www.twitter.com/JakeAuch"
+        ]
+    },
+    {
+        "name": "Katherine Clark",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKClark"
+        ]
+    },
+    {
+        "name": "Seth Moulton",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/sethmoulton"
+        ]
+    },
+    {
+        "name": "Ayanna Pressley",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepPressley",
+            "https://www.twitter.com/AyannaPressley"
+        ]
+    },
+    {
+        "name": "Stephen Lynch",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepStephenLynch",
+            "https://www.twitter.com/RepLynch"
+        ]
+    },
+    {
+        "name": "Bill Keating",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/USRepKeating",
+            "https://www.twitter.com/WilliamKeating"
+        ]
+    },
+    {
+        "name": "Jack Bergman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJackBergman",
+            "https://www.twitter.com/JackBergman_MI1"
+        ]
+    },
+    {
+        "name": "Lisa McClain",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLisaMcClain",
+            "https://www.twitter.com/LisaForCongress"
+        ]
+    },
+    {
+        "name": "Haley Stevens",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepHaleyStevens",
+            "https://www.twitter.com/haleylive"
+        ]
+    },
+    {
+        "name": "Debbie Dingell",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDebDingell",
+            "https://www.twitter.com/debdingell"
+        ]
+    },
+    {
+        "name": "Rashida Tlaib",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRashida",
+            "https://www.twitter.com/RashidaTlaib"
+        ]
+    },
+    {
+        "name": "Brenda Lawrence",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLawrence",
+            "https://www.twitter.com/BrendaLLawrence"
+        ]
+    },
+    {
+        "name": "Bill Huizenga",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepHuizenga",
+            "https://www.twitter.com/billhuizenga"
+        ]
+    },
+    {
+        "name": "Peter Meijer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMeijer",
+            "https://www.twitter.com/VoteMeijer",
+            "https://www.twitter.com/pjfm"
+        ]
+    },
+    {
+        "name": "John Moolenaar",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMoolenaar",
+            "https://www.twitter.com/JohnMoolenaar"
+        ]
+    },
+    {
+        "name": "Dan Kildee",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDanKildee",
+            "https://www.twitter.com/dankildee"
+        ]
+    },
+    {
+        "name": "Fred Upton",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFredUpton",
+            "https://www.twitter.com/UptonForAllOfUs"
+        ]
+    },
+    {
+        "name": "Tim Walberg",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepWalberg",
+            "https://www.twitter.com/TimWalberg"
+        ]
+    },
+    {
+        "name": "Elissa Slotkin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSlotkin",
+            "https://www.twitter.com/ElissaSlotkin"
+        ]
+    },
+    {
+        "name": "Andy Levin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repandylevin",
+            "https://www.twitter.com/Andy_Levin"
+        ]
+    },
+    {
+        "name": "Jim Hagedorn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepHagedorn",
+            "https://www.twitter.com/JimHagedornMN"
+        ]
+    },
+    {
+        "name": "Angie Craig",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAngieCraig",
+            "https://www.twitter.com/AngieCraigMN"
+        ]
+    },
+    {
+        "name": "Dean Phillips",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDeanPhillips",
+            "https://www.twitter.com/deanbphillips"
+        ]
+    },
+    {
+        "name": "Betty McCollum",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/BettyMcCollum04",
+            "https://www.twitter.com/VoteBetty"
+        ]
+    },
+    {
+        "name": "Ilhan Omar",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/Ilhan",
+            "https://www.twitter.com/IlhanMN"
+        ]
+    },
+    {
+        "name": "Tom Emmer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTomEmmer",
+            "https://www.twitter.com/tomemmer"
+        ]
+    },
+    {
+        "name": "Michelle Fischbach",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFischbach",
+            "https://www.twitter.com/FischbachMN7"
+        ]
+    },
+    {
+        "name": "Pete Stauber",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepPeteStauber",
+            "https://www.twitter.com/PeteStauber"
+        ]
+    },
+    {
+        "name": "Trent Kelly",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/reptrentkelly"
+        ]
+    },
+    {
+        "name": "Bennie Thompson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/BennieGThompson",
+            "https://www.twitter.com/BGThompsonMS"
+        ]
+    },
+    {
+        "name": "Michael Guest",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMichaelGuest",
+            "https://www.twitter.com/GuestCongress"
+        ]
+    },
+    {
+        "name": "Steven Palazzo",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/CongPalazzo",
+            "https://www.twitter.com/StevenPalazzo"
+        ]
+    },
+    {
+        "name": "Cori Bush",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCori",
+            "https://www.twitter.com/CoriBush"
+        ]
+    },
+    {
+        "name": "Ann Wagner",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAnnWagner",
+            "https://www.twitter.com/AnnLWagner"
+        ]
+    },
+    {
+        "name": "Blaine Luetkemeyer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBlaine",
+            "https://www.twitter.com/luetkemeyerb"
+        ]
+    },
+    {
+        "name": "Vicky Hartzler",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/rephartzler"
+        ]
+    },
+    {
+        "name": "Emanuel Cleaver",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repcleaver",
+            "https://www.twitter.com/Vote4Cleaver"
+        ]
+    },
+    {
+        "name": "Sam Graves",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepSamGraves"
+        ]
+    },
+    {
+        "name": "Billy Long",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/USRepLong",
+            "https://www.twitter.com/auctnr1",
+            "https://www.twitter.com/auctnr1"
+        ]
+    },
+    {
+        "name": "Jason Smith",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJasonSmith",
+            "https://www.twitter.com/JasonSmithMO"
+        ]
+    },
+    {
+        "name": "Matt Rosendale",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRosendale",
+            "https://www.twitter.com/MattForMontana"
+        ]
+    },
+    {
+        "name": "Jeffrey Fortenberry",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JeffFortenberry",
+            "https://www.twitter.com/supportfortNE"
+        ]
+    },
+    {
+        "name": "Don Bacon",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repdonbacon",
+            "https://www.twitter.com/DonJBacon"
+        ]
+    },
+    {
+        "name": "Adrian Smith",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAdrianSmith"
+        ]
+    },
+    {
+        "name": "Dina Titus",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repdinatitus",
+            "https://www.twitter.com/dinatitus"
+        ]
+    },
+    {
+        "name": "Mark Amodei",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/markamodeinv2",
+            "https://www.twitter.com/amodeifornevada"
+        ]
+    },
+    {
+        "name": "Susie Lee",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSusieLee",
+            "https://www.twitter.com/SusieLeeNV"
+        ]
+    },
+    {
+        "name": "Steven Horsford",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepHorsford",
+            "https://www.twitter.com/StevenHorsford"
+        ]
+    },
+    {
+        "name": "Chris Pappas",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepChrisPappas",
+            "https://www.twitter.com/ChrisPappasNH"
+        ]
+    },
+    {
+        "name": "Annie Kuster",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAnnieKuster",
+            "https://www.twitter.com/AnnMcLaneKuster"
+        ]
+    },
+    {
+        "name": "Donald Norcross",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/DonaldNorcross",
+            "https://www.twitter.com/DonNorcross4NJ"
+        ]
+    },
+    {
+        "name": "Donald Payne Jr.",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDonaldPayne"
+        ]
+    },
+    {
+        "name": "Mikie Sherrill",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSherrill",
+            "https://www.twitter.com/mikiesherrill"
+        ]
+    },
+    {
+        "name": "Bonnie Watson Coleman",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBonnie",
+            "https://www.twitter.com/Bonnie4Congress"
+        ]
+    },
+    {
+        "name": "Jeff Van Drew",
+        "party": "Republican",
+        "twitter": []
+    },
+    {
+        "name": "Andrew Kim",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAndyKimNJ",
+            "https://www.twitter.com/AndyKimNJ"
+        ]
+    },
+    {
+        "name": "Chris Smith",
+        "party": "Republican",
+        "twitter": []
+    },
+    {
+        "name": "Josh Gottheimer",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJoshG",
+            "https://www.twitter.com/JoshGottheimer"
+        ]
+    },
+    {
+        "name": "Frank Pallone",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/frankpallone",
+            "https://www.twitter.com/pallonefornj"
+        ]
+    },
+    {
+        "name": "Tom Malinowski",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMalinowski",
+            "https://www.twitter.com/Malinowski"
+        ]
+    },
+    {
+        "name": "Albio Sires",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSires",
+            "https://www.twitter.com/AlbioSiresNJ"
+        ]
+    },
+    {
+        "name": "Bill Pascrell",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/BillPascrell",
+            "https://www.twitter.com/pascrellfornj"
+        ]
+    },
+    {
+        "name": "Yvette Herrell",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepHerrell",
+            "https://www.twitter.com/Yvette4congress"
+        ]
+    },
+    {
+        "name": "Teresa Leger Fernandez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTeresaLF",
+            "https://www.twitter.com/TeresaForNM"
+        ]
+    },
+    {
+        "name": "Lee Zeldin",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLeeZeldin",
+            "https://www.twitter.com/leezeldin"
+        ]
+    },
+    {
+        "name": "Jerrold Nadler",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJerryNadler",
+            "https://www.twitter.com/JerryNadler"
+        ]
+    },
+    {
+        "name": "Nicole Malliotakis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMalliotakis",
+            "https://www.twitter.com/NMalliotakis"
+        ]
+    },
+    {
+        "name": "Carolyn B. Maloney",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMaloney",
+            "https://www.twitter.com/CarolynBMaloney"
+        ]
+    },
+    {
+        "name": "Adriano Espaillat",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepEspaillat",
+            "https://www.twitter.com/EspaillatNY"
+        ]
+    },
+    {
+        "name": "Alexandria Ocasio-Cortez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAOC",
+            "https://www.twitter.com/AOC"
+        ]
+    },
+    {
+        "name": "Ritchie Torres",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRitchie",
+            "https://www.twitter.com/RitchieTorres",
+            "https://www.twitter.com/RitchieTorres"
+        ]
+    },
+    {
+        "name": "Jamaal Bowman",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBowman",
+            "https://www.twitter.com/JamaalBowmanNY",
+            "https://www.twitter.com/JamaalBowmanNY"
+        ]
+    },
+    {
+        "name": "Mondaire Jones",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMondaire",
+            "https://www.twitter.com/MondaireJones"
+        ]
+    },
+    {
+        "name": "Sean Maloney",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repseanmaloney",
+            "https://www.twitter.com/spmaloney"
+        ]
+    },
+    {
+        "name": "Antonio Delgado",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repdelgado",
+            "https://www.twitter.com/DelgadoforNY19"
+        ]
+    },
+    {
+        "name": "Andrew Garbarino",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGarbarino",
+            "https://www.twitter.com/GarbarinoforNY"
+        ]
+    },
+    {
+        "name": "Paul Tonko",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/reppaultonko",
+            "https://www.twitter.com/PaulTonko"
+        ]
+    },
+    {
+        "name": "Elise Stefanik",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepStefanik",
+            "https://www.twitter.com/EliseStefanik"
+        ]
+    },
+    {
+        "name": "Claudia Tenney",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTenney",
+            "https://www.twitter.com/claudiatenney"
+        ]
+    },
+    {
+        "name": "Tom Reed",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/TomReedCongress"
+        ]
+    },
+    {
+        "name": "John Katko",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJohnKatko"
+        ]
+    },
+    {
+        "name": "Joseph Morelle",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repjoemorelle",
+            "https://www.twitter.com/votemorelle"
+        ]
+    },
+    {
+        "name": "Brian Higgins",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repbrianhiggins",
+            "https://www.twitter.com/Higgins4WNY"
+        ]
+    },
+    {
+        "name": "Christopher Jacobs",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJacobs",
+            "https://www.twitter.com/JacobsNY27"
+        ]
+    },
+    {
+        "name": "Tom Suozzi",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTomSuozzi",
+            "https://www.twitter.com/Tom_Suozzi"
+        ]
+    },
+    {
+        "name": "Kathleen Rice",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repkathleenrice",
+            "https://www.twitter.com/KathleenRice"
+        ]
+    },
+    {
+        "name": "Gregory W. Meeks",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repgregorymeeks",
+            "https://www.twitter.com/GregMeeksNYC"
+        ]
+    },
+    {
+        "name": "Grace Meng",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepGraceMeng",
+            "https://www.twitter.com/grace4ny"
+        ]
+    },
+    {
+        "name": "Nydia Velazquez",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/NydiaVelazquez",
+            "https://www.twitter.com/ReElectNydia"
+        ]
+    },
+    {
+        "name": "Hakeem Jeffries",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJeffries"
+        ]
+    },
+    {
+        "name": "Yvette D. Clarke",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepYvetteClarke",
+            "https://www.twitter.com/VoteYvette"
+        ]
+    },
+    {
+        "name": "Eleanor Holmes Norton",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/EleanorNorton"
+        ]
+    },
+    {
+        "name": "G.K. Butterfield",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/GKButterfield"
+        ]
+    },
+    {
+        "name": "Patrick T. McHenry",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/PatrickMcHenry",
+            "https://www.twitter.com/McHenryCampaign"
+        ]
+    },
+    {
+        "name": "Madison Cawthorn",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepCawthorn",
+            "https://www.twitter.com/CawthornforNC"
+        ]
+    },
+    {
+        "name": "Alma Adams",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAdams",
+            "https://www.twitter.com/AlmaforCongress"
+        ]
+    },
+    {
+        "name": "Ted Budd",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTedBudd",
+            "https://www.twitter.com/buddforcongress"
+        ]
+    },
+    {
+        "name": "Deborah Ross",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDeborahRoss",
+            "https://www.twitter.com/DeborahRossNC"
+        ]
+    },
+    {
+        "name": "Gregory Murphy",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGregMurphy",
+            "https://www.twitter.com/GregMurphyMD",
+            "https://www.twitter.com/GMMD4Greenville"
+        ]
+    },
+    {
+        "name": "David Price",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDavidEPrice"
+        ]
+    },
+    {
+        "name": "Virginia Foxx",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/virginiafoxx",
+            "https://www.twitter.com/foxxforcongress"
+        ]
+    },
+    {
+        "name": "Kathy Manning",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepKManning",
+            "https://www.twitter.com/KathyManningNC"
+        ]
+    },
+    {
+        "name": "David Rouzer",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDavidRouzer",
+            "https://www.twitter.com/DavidRouzer"
+        ]
+    },
+    {
+        "name": "Richard Hudson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRichHudson",
+            "https://www.twitter.com/RichHudson"
+        ]
+    },
+    {
+        "name": "Dan Bishop",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDanBishop",
+            "https://www.twitter.com/jdanbishop"
+        ]
+    },
+    {
+        "name": "Kelly Armstrong",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepArmstrongND",
+            "https://www.twitter.com/Armstrong_ND",
+            "https://www.twitter.com/armstrong_km"
+        ]
+    },
+    {
+        "name": "Gregorio Kilili Camacho Sablan",
+        "party": "Independent",
+        "twitter": [
+            "https://www.twitter.com/Kilili_Sablan"
+        ]
+    },
+    {
+        "name": "Steve Chabot",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repstevechabot",
+            "https://www.twitter.com/SteveChabot"
+        ]
+    },
+    {
+        "name": "Michael Turner",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMikeTurner",
+            "https://www.twitter.com/MikeTurnerOH"
+        ]
+    },
+    {
+        "name": "Troy Balderson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBalderson",
+            "https://www.twitter.com/Troy_Balderson"
+        ]
+    },
+    {
+        "name": "Tim Ryan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepTimRyan",
+            "https://www.twitter.com/timryan"
+        ]
+    },
+    {
+        "name": "David Joyce",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDaveJoyce",
+            "https://www.twitter.com/DaveJoyceOH14"
+        ]
+    },
+    {
+        "name": "Steve Stivers",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepSteveStivers",
+            "https://www.twitter.com/stevestivers"
+        ]
+    },
+    {
+        "name": "Anthony Gonzalez",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAGonzalez"
+        ]
+    },
+    {
+        "name": "Brad Wenstrup",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBradWenstrup",
+            "https://www.twitter.com/BradWenstrup"
+        ]
+    },
+    {
+        "name": "Joyce Beatty",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepBeatty",
+            "https://www.twitter.com/JoyceBeatty"
+        ]
+    },
+    {
+        "name": "Jim Jordan",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/Jim_Jordan",
+            "https://www.twitter.com/Votejimjordan"
+        ]
+    },
+    {
+        "name": "Bob Latta",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/boblatta",
+            "https://www.twitter.com/latta4congress"
+        ]
+    },
+    {
+        "name": "Bill Johnson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBillJohnson",
+            "https://www.twitter.com/JohnsonLeads"
+        ]
+    },
+    {
+        "name": "Bob Gibbs",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repbobgibbs",
+            "https://www.twitter.com/Bob_Gibbs"
+        ]
+    },
+    {
+        "name": "Warren Davidson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/warrendavidson",
+            "https://www.twitter.com/Vote_Davidson"
+        ]
+    },
+    {
+        "name": "Marcy Kaptur",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMarcyKaptur",
+            "https://www.twitter.com/marcy_kaptur"
+        ]
+    },
+    {
+        "name": "Kevin Hern",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repkevinhern",
+            "https://www.twitter.com/krhern"
+        ]
+    },
+    {
+        "name": "Markwayne Mullin",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMullin",
+            "https://www.twitter.com/MarkwayneMullin"
+        ]
+    },
+    {
+        "name": "Frank Lucas",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFrankLucas",
+            "https://www.twitter.com/FrankDLucas"
+        ]
+    },
+    {
+        "name": "Tom Cole",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/TomColeOK04"
+        ]
+    },
+    {
+        "name": "Stephanie Bice",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBice",
+            "https://www.twitter.com/stephaniebice"
+        ]
+    },
+    {
+        "name": "Suzanne Bonamici",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repbonamici"
+        ]
+    },
+    {
+        "name": "Cliff Bentz",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBentz",
+            "https://www.twitter.com/CliffBentz"
+        ]
+    },
+    {
+        "name": "Earl Blumenauer",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repblumenauer"
+        ]
+    },
+    {
+        "name": "Peter DeFazio",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepPeterDeFazio",
+            "https://www.twitter.com/defazio4oregon"
+        ]
+    },
+    {
+        "name": "Kurt Schrader",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repschrader",
+            "https://www.twitter.com/VoteSchrader"
+        ]
+    },
+    {
+        "name": "Brian Fitzpatrick",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBrianFitz",
+            "https://www.twitter.com/BrianFitzUSA"
+        ]
+    },
+    {
+        "name": "Scott Perry",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepScottPerry",
+            "https://www.twitter.com/PatriotsPerry"
+        ]
+    },
+    {
+        "name": "Lloyd Smucker",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepSmucker",
+            "https://www.twitter.com/LloydSmuckerPA"
+        ]
+    },
+    {
+        "name": "Fred Keller",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFredKeller",
+            "https://www.twitter.com/VoteFredKeller"
+        ]
+    },
+    {
+        "name": "John Joyce",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJohnJoyce",
+            "https://www.twitter.com/JohnJoyceForPA"
+        ]
+    },
+    {
+        "name": "Guy Reschenthaler",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/GReschenthaler",
+            "https://www.twitter.com/reschenthaler"
+        ]
+    },
+    {
+        "name": "Glenn Thompson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/CongressmanGT",
+            "https://www.twitter.com/GT_TeamGT"
+        ]
+    },
+    {
+        "name": "Mike Kelly",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/MikeKellyPA",
+            "https://www.twitter.com/MikeKellyforPA"
+        ]
+    },
+    {
+        "name": "Conor Lamb",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepConorLamb",
+            "https://www.twitter.com/conorlambpa"
+        ]
+    },
+    {
+        "name": "Michael Doyle",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/USRepMikeDoyle",
+            "https://www.twitter.com/rep_doyle"
+        ]
+    },
+    {
+        "name": "Brendan Boyle",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/CongBoyle",
+            "https://www.twitter.com/RepBrendanBoyle"
+        ]
+    },
+    {
+        "name": "Dwight Evans",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDwightEvans",
+            "https://www.twitter.com/DwightEvansPA"
+        ]
+    },
+    {
+        "name": "Madeleine Dean",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDean",
+            "https://www.twitter.com/MadeleineDean"
+        ]
+    },
+    {
+        "name": "Mary Gay Scanlon",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repmgs",
+            "https://www.twitter.com/marygayscanlon"
+        ]
+    },
+    {
+        "name": "Chrissy Houlahan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/rephoulahan",
+            "https://www.twitter.com/houlahanforpa"
+        ]
+    },
+    {
+        "name": "Susan Wild",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSusanWild",
+            "https://www.twitter.com/wildforcongress"
+        ]
+    },
+    {
+        "name": "Matt Cartwright",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCartwright",
+            "https://www.twitter.com/CartwrightPA"
+        ]
+    },
+    {
+        "name": "Dan Meuser",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMeuser",
+            "https://www.twitter.com/Meuser4Congress"
+        ]
+    },
+    {
+        "name": "Jenniffer Gonz\u00e1lez-Col\u00f3n",
+        "party": "New Progressive",
+        "twitter": [
+            "https://www.twitter.com/RepJenniffer",
+            "https://www.twitter.com/JGO_2020"
+        ]
+    },
+    {
+        "name": "David N. Cicilline",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCicilline",
+            "https://www.twitter.com/davidcicilline"
+        ]
+    },
+    {
+        "name": "Jim Langevin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/JimLangevin",
+            "https://www.twitter.com/LangevinForRI"
+        ]
+    },
+    {
+        "name": "Nancy Mace",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepNancyMace",
+            "https://www.twitter.com/NancyMace"
+        ]
+    },
+    {
+        "name": "Joe Wilson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJoeWilson",
+            "https://www.twitter.com/TeamJoeWilson"
+        ]
+    },
+    {
+        "name": "Jeff Duncan",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJeffDuncan",
+            "https://www.twitter.com/Duncan4Congress"
+        ]
+    },
+    {
+        "name": "William Timmons",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTimmons",
+            "https://www.twitter.com/VoteTimmons"
+        ]
+    },
+    {
+        "name": "Ralph Norman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRalphNorman",
+            "https://www.twitter.com/RalphNorman"
+        ]
+    },
+    {
+        "name": "James Clyburn",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/WhipClyburn",
+            "https://www.twitter.com/ClyburnSC06"
+        ]
+    },
+    {
+        "name": "Tom Rice",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTomRice",
+            "https://www.twitter.com/TomRiceSC7"
+        ]
+    },
+    {
+        "name": "Dusty Johnson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDustyJohnson",
+            "https://www.twitter.com/DustyJohnson"
+        ]
+    },
+    {
+        "name": "Diana Harshbarger",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepHarshbarger",
+            "https://www.twitter.com/DHarshbargerTN1"
+        ]
+    },
+    {
+        "name": "Tim Burchett",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTimBurchett",
+            "https://www.twitter.com/timburchett",
+            "https://www.twitter.com/timburchett"
+        ]
+    },
+    {
+        "name": "Charles J. Fleischmann",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepChuck",
+            "https://www.twitter.com/chuck4congress"
+        ]
+    },
+    {
+        "name": "Scott DesJarlais",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/DesJarlaisTN04",
+            "https://www.twitter.com/tndesjarlais"
+        ]
+    },
+    {
+        "name": "Jim Cooper",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repjimcooper",
+            "https://www.twitter.com/CoopForCongress"
+        ]
+    },
+    {
+        "name": "John Rose",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repjohnrose",
+            "https://www.twitter.com/JohnRoseforTN"
+        ]
+    },
+    {
+        "name": "Mark Green",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMarkGreen",
+            "https://www.twitter.com/DrMarkGreen4TN"
+        ]
+    },
+    {
+        "name": "David Kustoff",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDavidKustoff",
+            "https://www.twitter.com/DavidKustoff"
+        ]
+    },
+    {
+        "name": "Steve Cohen",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCohen",
+            "https://www.twitter.com/ReElectCohen"
+        ]
+    },
+    {
+        "name": "Louis B. Gohmert Jr.",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/replouiegohmert",
+            "https://www.twitter.com/LouieGohmertTX1"
+        ]
+    },
+    {
+        "name": "Michael McCaul",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMcCaul",
+            "https://www.twitter.com/McCaulforTexas"
+        ]
+    },
+    {
+        "name": "August Pfluger",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepPfluger",
+            "https://www.twitter.com/AugustPfluger"
+        ]
+    },
+    {
+        "name": "Kay Granger",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepKayGranger",
+            "https://www.twitter.com/GrangerCampaign"
+        ]
+    },
+    {
+        "name": "Ronny L. Jackson",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRonnyJackson"
+        ]
+    },
+    {
+        "name": "Randy Weber",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/TXRandy14",
+            "https://www.twitter.com/WeberforTexas"
+        ]
+    },
+    {
+        "name": "Vicente Gonzalez Jr.",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepGonzalez",
+            "https://www.twitter.com/VoteVicente"
+        ]
+    },
+    {
+        "name": "Veronica Escobar",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepEscobar",
+            "https://www.twitter.com/vgescobar"
+        ]
+    },
+    {
+        "name": "Pete Sessions",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/PeteSessions",
+            "https://www.twitter.com/SessionsTX17"
+        ]
+    },
+    {
+        "name": "Sheila Jackson Lee",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/JacksonLeeTX18",
+            "https://www.twitter.com/sjl4hrc"
+        ]
+    },
+    {
+        "name": "Jodey Arrington",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepArrington",
+            "https://www.twitter.com/JodeyArrington"
+        ]
+    },
+    {
+        "name": "Daniel Crenshaw",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepDanCrenshaw",
+            "https://www.twitter.com/DanCrenshawTX"
+        ]
+    },
+    {
+        "name": "Joaquin Castro",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/JoaquinCastrotx",
+            "https://www.twitter.com/Castro4Congress"
+        ]
+    },
+    {
+        "name": "Chip Roy",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepChipRoy",
+            "https://www.twitter.com/chiproytx"
+        ]
+    },
+    {
+        "name": "Troy Nehls",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTroyNehls",
+            "https://www.twitter.com/SheriffTNehls",
+            "https://www.twitter.com/SheriffTNehls"
+        ]
+    },
+    {
+        "name": "Tony Gonzales",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTonyGonzales",
+            "https://www.twitter.com/TonyGonzales4TX"
+        ]
+    },
+    {
+        "name": "Beth Van Duyne",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBethVanDuyne",
+            "https://www.twitter.com/Bethvanduyne"
+        ]
+    },
+    {
+        "name": "Roger Williams",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepRWilliams",
+            "https://www.twitter.com/RogerWilliamsTX"
+        ]
+    },
+    {
+        "name": "Michael C. Burgess",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/michaelcburgess",
+            "https://www.twitter.com/DrBurgessTX"
+        ]
+    },
+    {
+        "name": "Michael Cloud",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepCloudTX",
+            "https://www.twitter.com/MichaelJCloud"
+        ]
+    },
+    {
+        "name": "Henry Cuellar",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepCuellar",
+            "https://www.twitter.com/CuellarCampaign"
+        ]
+    },
+    {
+        "name": "Sylvia Garcia",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSylviaGarcia",
+            "https://www.twitter.com/LaCongresista"
+        ]
+    },
+    {
+        "name": "Van Taylor",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepVanTaylor",
+            "https://www.twitter.com/VanTaylorTX"
+        ]
+    },
+    {
+        "name": "Eddie Bernice Johnson",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepEBJ"
+        ]
+    },
+    {
+        "name": "John Carter",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/JudgeCarter",
+            "https://www.twitter.com/JudgeJohnCarter"
+        ]
+    },
+    {
+        "name": "Colin Allred",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepColinAllred",
+            "https://www.twitter.com/ColinAllredTX"
+        ]
+    },
+    {
+        "name": "Marc Veasey",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepVeasey",
+            "https://www.twitter.com/MarcVeasey"
+        ]
+    },
+    {
+        "name": "Filemon Vela",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepFilemonVela",
+            "https://www.twitter.com/FilemonVela"
+        ]
+    },
+    {
+        "name": "Lloyd Doggett",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepLloydDoggett",
+            "https://www.twitter.com/LloydDoggettTX"
+        ]
+    },
+    {
+        "name": "Brian Babin",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBrianBabin",
+            "https://www.twitter.com/Babin4Congress",
+            "https://www.twitter.com/Brian_Babin"
+        ]
+    },
+    {
+        "name": "Pat Fallon",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepPatFallon",
+            "https://www.twitter.com/FallonForTexas"
+        ]
+    },
+    {
+        "name": "Lance Gooden",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/Lancegooden"
+        ]
+    },
+    {
+        "name": "Lizzie Pannill Fletcher",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepFletcher",
+            "https://www.twitter.com/Lizzie4Congress"
+        ]
+    },
+    {
+        "name": "Kevin Brady",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepKevinBrady",
+            "https://www.twitter.com/bradyfortexas"
+        ]
+    },
+    {
+        "name": "Al Green",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAlGreen",
+            "https://www.twitter.com/RepAlGreenTX"
+        ]
+    },
+    {
+        "name": "Blake Moore",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBlakeMoore",
+            "https://www.twitter.com/ElectBlakeMoore"
+        ]
+    },
+    {
+        "name": "Chris Stewart",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repchrisstewart",
+            "https://www.twitter.com/stewartforutah"
+        ]
+    },
+    {
+        "name": "John Curtis",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepJohnCurtis",
+            "https://www.twitter.com/CurtisUT"
+        ]
+    },
+    {
+        "name": "Burgess Owens",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBurgessOwens",
+            "https://www.twitter.com/BurgessOwens"
+        ]
+    },
+    {
+        "name": "Peter Welch",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/PeterWelch",
+            "https://www.twitter.com/WelchForVT"
+        ]
+    },
+    {
+        "name": "Stacey Plaskett",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/StaceyPlaskett"
+        ]
+    },
+    {
+        "name": "Robert J. Wittman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RobWittman",
+            "https://www.twitter.com/reelectWittman"
+        ]
+    },
+    {
+        "name": "Jennifer Wexton",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepWexton",
+            "https://www.twitter.com/JenniferWexton"
+        ]
+    },
+    {
+        "name": "Gerald Edward Connolly",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/GerryConnolly",
+            "https://www.twitter.com/electconnolly"
+        ]
+    },
+    {
+        "name": "Elaine Luria",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepElaineLuria",
+            "https://www.twitter.com/ElaineLuriaVA"
+        ]
+    },
+    {
+        "name": "Robert C. Scott",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/bobbyscott",
+            "https://www.twitter.com/bobbyscott4va3"
+        ]
+    },
+    {
+        "name": "Aston Donald McEachin",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepMcEachin",
+            "https://www.twitter.com/Donald_McEachin"
+        ]
+    },
+    {
+        "name": "Bob Good",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBobGood",
+            "https://www.twitter.com/GoodForCongress"
+        ]
+    },
+    {
+        "name": "Benjamin Lee Cline",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepBenCline",
+            "https://www.twitter.com/Cline4Virginia"
+        ]
+    },
+    {
+        "name": "Abigail Spanberger",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepSpanberger",
+            "https://www.twitter.com/SpanbergerVA07"
+        ]
+    },
+    {
+        "name": "Donald Sternoff Beyer Jr.",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDonBeyer",
+            "https://www.twitter.com/DonBeyerVA"
+        ]
+    },
+    {
+        "name": "H. Morgan Griffith",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMGriffith",
+            "https://www.twitter.com/morgangriffith"
+        ]
+    },
+    {
+        "name": "Suzan DelBene",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDelBene",
+            "https://www.twitter.com/SuzanDelBene"
+        ]
+    },
+    {
+        "name": "Marilyn Strickland",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepStricklandWA",
+            "https://www.twitter.com/StricklandforWA"
+        ]
+    },
+    {
+        "name": "Rick Larsen",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRickLarsen",
+            "https://www.twitter.com/larsenrick"
+        ]
+    },
+    {
+        "name": "Jaime Herrera Beutler",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/herrerabeutler",
+            "https://www.twitter.com/JaimeForUSRep"
+        ]
+    },
+    {
+        "name": "Dan Newhouse",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repnewhouse",
+            "https://www.twitter.com/Newhouse4Rep"
+        ]
+    },
+    {
+        "name": "Cathy McMorris Rodgers",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/cathymcmorris",
+            "https://www.twitter.com/teamcmr"
+        ]
+    },
+    {
+        "name": "Derek Kilmer",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepDerekKilmer",
+            "https://www.twitter.com/DerekKilmer"
+        ]
+    },
+    {
+        "name": "Pramila Jayapal",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepJayapal",
+            "https://www.twitter.com/PramilaJayapal"
+        ]
+    },
+    {
+        "name": "Kim Schrier",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repkimschrier",
+            "https://www.twitter.com/DrKimSchrier"
+        ]
+    },
+    {
+        "name": "D. Adam Smith",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepAdamSmith",
+            "https://www.twitter.com/electadamsmith"
+        ]
+    },
+    {
+        "name": "David McKinley",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepMcKinley",
+            "https://www.twitter.com/McKinleyforWV"
+        ]
+    },
+    {
+        "name": "Alexander Mooney",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepAlexMooney",
+            "https://www.twitter.com/MooneyforWV"
+        ]
+    },
+    {
+        "name": "Carol Miller",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepCarolMiller",
+            "https://www.twitter.com/CarolMillerWV"
+        ]
+    },
+    {
+        "name": "Bryan Steil",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/repbryansteil"
+        ]
+    },
+    {
+        "name": "Mark Pocan",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/repmarkpocan",
+            "https://www.twitter.com/MarkPocan"
+        ]
+    },
+    {
+        "name": "Ronald James Kind",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepRonKind",
+            "https://www.twitter.com/KindforCongress"
+        ]
+    },
+    {
+        "name": "Gwen Moore",
+        "party": "Democratic",
+        "twitter": [
+            "https://www.twitter.com/RepGwenMoore",
+            "https://www.twitter.com/Gwen4Congress"
+        ]
+    },
+    {
+        "name": "Scott Fitzgerald",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepFitzgerald",
+            "https://www.twitter.com/FitzgeraldForWI"
+        ]
+    },
+    {
+        "name": "Glenn Grothman",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGrothman",
+            "https://www.twitter.com/GrothmanforWI"
+        ]
+    },
+    {
+        "name": "Tom Tiffany",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepTiffany",
+            "https://www.twitter.com/TomTiffanyWI"
+        ]
+    },
+    {
+        "name": "Mike Gallagher",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepGallagher",
+            "https://www.twitter.com/MikeforWI"
+        ]
+    },
+    {
+        "name": "Liz Cheney",
+        "party": "Republican",
+        "twitter": [
+            "https://www.twitter.com/RepLizCheney",
+            "https://www.twitter.com/Liz_Cheney"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {#}<?php if ($description == null) {
+        $description = "A Twitter feed generated through machine learning using tweets from a congressman's own party.";
+    } ?>#}
+    {% if description %}
+        {% set description = 'A Twitter feed generated through machine learning using tweets from a congressman\'s own party.' %}
+    {% endif %}
+    <meta name="description" content="{{ description }}">
+    <meta name="author" content="Sam Schultheis">
+
+    {% if title %}
+        {% set title = title + ' | Congressional Lunch' %}
+    {% else %}
+        {% set title = 'Congressional Lunch' %}
+    {% endif %}
+    <title>{{ title }}</title>
+    <!-- facebook and twitter card meta tags -->
+    <meta name="twitter:card" content="summary">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="http://congressional-lunch.com/static/imgs/congressional-lunch-logo-card.png">
+    {#
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JHEPND2F62"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JHEPND2F62');
+    </script>
+    #}
+    <link rel="stylesheet" href="static/css/master.css">
+    <script src="static/js/script.js"></script>
+    <script src="https://kit.fontawesome.com/0fd958d790.js" crossorigin="anonymous"></script>
+</head>
+<body class="header-visible">
+        <header class="header-container">
+            <a class="logo" href="/"><img src="static/imgs/congressional-lunch-logo.svg" alt="Congressional Lunch logo"></a>
+            <div id="main-nav" class="main-nav">
+                <a class="btn-nav" href="/about">About</a>
+                <a class="btn-nav" href="/random">Random Tweet</a>
+            </div>
+            <div class="disclaimer">
+                <p>Congressional Lunch is a parody social media website that attributes fake posts to real people in a fictitious manner. All posts within congressional-lunch.com are fake and do not represent the opinions of those that they are attributed to.</p>
+                <p>&copy; <?=date('Y')?> Sam Schultheis</p>
+            </div>
+        </header>
+    <main id="main-content">
+        {% block noscript %}
+            <noscript>
+                <section class="single-tweet">
+                    <article class="tweet" aria-labelledby="name" aria-describedby="description">
+                        <header class="tweet-header">
+                            <div class="profile-img">
+                                <img src="assets/imgs/samschultheis.jpg" alt="Personal image" width="48">
+                            </div>
+                            <div class="tweet-info">
+                                <span class="name" id="name">Sam Schultheis</span>
+                                <span class="handle" style="text-decoration: line-through;">@Sam_Schultheis</span>
+                            </div>
+                        </header>
+                        <div class="text" id="description">
+                            <p>Javascript must be enabled in order to properly view this site.</p>
+                        </div>
+                        <time><span class="time"><?php echo date('h:i A'); ?></span><?php echo date('M j, Y'); ?></time>
+                        <footer class="tweet-footer">
+                            <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span><?php echo rand(0, 999); ?></span>
+                            <span class="likes"><span class="far fa-heart" aria-label="Likes"></span><?php echo rand(0, 999); ?></span>
+                        </footer>
+                    </article>
+                </section>
+            </noscript>
+        {% endblock %}
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

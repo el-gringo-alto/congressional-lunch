@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <section class="single-tweet">
+        <article class="tweet" aria-labelledby="name" aria-describedby="description">
+            <header class="tweet-header">
+                <div class="profile-img">
+                    <img src="static/imgs/samschultheis.jpg" alt="Personal image" width="48">
+                </div>
+                <div class="tweet-info">
+                    <span class="name" id="name">{{ name }}</span>
+                    <span class="handle" style="text-decoration: line-through;">{{ handle }}</span>
+                </div>
+            </header>
+            <div class="text" id="description">
+                {{ tweet }}
+            </div>
+            <time><span class="time">{{ time }}</span>{{ date }}</time>
+            <footer class="tweet-footer">
+                <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span>{{ retweets }}</span>
+                <span class="likes"><span class="far fa-heart" aria-label="Likes"></span>{{ likes }}</span>
+            </footer>
+        </article>
+    </section>
+{% endblock %}
