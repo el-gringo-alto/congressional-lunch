@@ -15,24 +15,16 @@ import tweepy
 
 
 
-# Change the base directory based on if this is the production server or not.
-# Since the production and development database keys use different files, make sure to specify them in the if statement
-prod = False
-base_dir = pathlib.Path.cwd()
-
-if prod:
-    keys_file = base_dir / 'keys.ini'
-else:
-    keys_file = base_dir / 'keys_dev.ini'
-
-congress_file = base_dir / 'congress.json'
-data_dir = base_dir / 'data'
+keys_file = pathlib.Path('keys.ini')
+congress_file = pathlib.Path('congress.json')
+data_dir = pathlib.Path('data')
+log_file = pathlib.Path('congressional-lunch.log')
 
 config = configparser.ConfigParser()
 config.read(keys_file)
 
 # setup logging for when we scrape tweets
-logging.basicConfig(filename=base_dir / 'congressional-lunch.log',
+logging.basicConfig(filename=log_file,
                     format='%(asctime)s %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S %p',
                     level=logging.INFO)
