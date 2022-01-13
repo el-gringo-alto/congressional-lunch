@@ -2,10 +2,14 @@ keys.ini
 keys_dev.ini
 keys/
 
+.flaskenv
+
 data/
 
 .DS_Store
 ._DS_Store
+
+php/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

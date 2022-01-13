@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {{ tweet('Sam Schultheis',
+             '@Sam_Schultheis',
+             '404 Page Not Found',
+             url_for('static', filename= 'imgs/samschultheis.jpg'),
+             'Sam Schultheis profile picture',
+             current_time,
+             currrent_date,
+             retweets,
+             likes) }}
+{% endblock %}

@@ -1,27 +1,21 @@
 {% extends "base.html" %}
 
+{% set tweet_text %}
+    Tweets generated through machine learning using tweets from a congressman&apos;s own party.
+    <br><br>
+    These tweets are fake and do not represent the views nor beliefs of the person they are credited to.
+    <br><br>
+    <a href="http://samschultheis.com">#PersonalWebsite</a>
+{% endset %}
+
 {% block content %}
-    <section class="single-tweet">
-        <article class="tweet" aria-labelledby="name" aria-describedby="description">
-            <header class="tweet-header">
-                <div class="profile-img">
-                    <img src="static/imgs/samschultheis.jpg" alt="Personal image" width="48">
-                </div>
-                <div class="tweet-info">
-                    <span class="name" id="name">Sam Schultheis</span>
-                    <span class="handle" style="text-decoration: line-through;">@Sam_Schultheis</span>
-                </div>
-            </header>
-            <div class="text" id="description">
-                <p>Tweets generated through machine learning using tweets from a congressman&apos;s own party.</p>
-                <p>These tweets are <strong>fake</strong> and do <strong>not</strong> represent the views nor beliefs of the person they are credited to.</p>
-                <p><a href="http://samschultheis.com">#PersonalWebsite</a></p>
-            </div>
-            <time><span class="time">{{ current_time }}</span>{{ currrent_date }}</time>
-            <footer class="tweet-footer">
-                <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span>{{ retweets }}</span>
-                <span class="likes"><span class="far fa-heart" aria-label="Likes"></span>{{ likes }}</span>
-            </footer>
-        </article>
-    </section>
+    {{ tweet('Sam Schultheis',
+             '@Sam_Schultheis',
+             tweet_text,
+             url_for('static', filename= 'imgs/samschultheis.jpg'),
+             'Sam Schultheis profile picture',
+             current_time,
+             currrent_date,
+             retweets,
+             likes) }}
 {% endblock %}

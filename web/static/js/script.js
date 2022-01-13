@@ -39,7 +39,7 @@ function buildTweet(tweet, link=true) {
         <article class="tweet ${tweet.party.toLowerCase()}" aria-labelledby="${tweet.id}">
             <header class="tweet-header">
                 <div class="profile-img">
-                    <img src="/assets/imgs/thumbs/${tweet.handle}.jpg" alt="@${tweet.handle} twitter profile picture" width="48">
+                    <img src="/static/imgs/thumbs/${tweet.handle}.jpg" alt="@${tweet.handle} twitter profile picture" width="48">
                 </div>
                 <div class="tweet-info">
                     <span class="name">${tweet.name}</span>
