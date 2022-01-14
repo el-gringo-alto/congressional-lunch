@@ -15,13 +15,16 @@ def inject_variables():
                 rand_retweets = random.randint(0, 999),
                 rand_likes = random.randint(0, 999))
 
+
 @app.route('/')
 def index():
     party = request.args.get('party')
+    header = request.args.get('header')
     try:
         return render_template('index.html')
     except IndexError:
         abort(404)
+
 
 @app.route('/stream')
 def stream():
@@ -44,6 +47,7 @@ def stream():
     except IndexError:
         abort(404)
 
+
 @app.route('/<int:tweet_id>')
 def single_tweet(tweet_id):
     tweet_content = sql_query('SELECT * FROM tweets WHERE id = %s', (tweet_id,))
@@ -52,13 +56,6 @@ def single_tweet(tweet_id):
     except IndexError:
         abort(404)
 
-@app.route('/about')
-def about():
-    personal_content[0]['tweet'] = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are <strong>fake</strong> and do <strong>not</strong> represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com">#PersonalWebsite</a>'
-    try:
-        return render_template('single.html', title='About', tweet_content=personal_content)
-    except IndexError:
-        abort(404)
 
 @app.route('/random')
 def random_tweet():
@@ -68,13 +65,25 @@ def random_tweet():
     except IndexError:
         abort(404)
 
+
+@app.route('/about')
+def about():
+    about_txt = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are fake and do not represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com">#PersonalWebsite</a>'
+    try:
+        return render_template('message.html', title='About', msg=about_txt)
+    except IndexError:
+        abort(404)
+
+
 @app.route('/error/404')
 def error404():
     abort(404)
 
 @app.errorhandler(404)
 def page_not_found(error):
-    return render_template('error/404.html'), 404
+    error_msg = '404 Page Not Found'
+    return render_template('message.html', title=error_msg, msg=error_msg), 404
+
 
 @app.route('/error/500')
 def error500():
@@ -82,7 +91,8 @@ def error500():
 
 @app.errorhandler(500)
 def internal_error(error):
-    return render_template('error/500.html'), 500
+    error_msg = '500 Internal Server Error'
+    return render_template('message.html', title=error_msg, msg=error_msg), 500
 
 
 if __name__ == '__main__':
