@@ -36,6 +36,10 @@ def random_tweet():
 def page_not_found(error):
     return render_template('404.html'), 404
 
+@app.errorhandler(500)
+def internal_error(error):
+    return render_template('500.html'), 500
+
 # @app.route('/stream')
 # def stream():
 #     if request.method == 'POST':
@@ -44,9 +48,10 @@ def page_not_found(error):
 #     else:
 #         abort(400)
 #
-# @app.route('/test')
-# def test():
-#     return render_template('test.html')
+# @app.route('/500')
+# def error500():
+# '''test 500 errors'''
+#     abort(500)
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
