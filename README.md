@@ -1,12 +1,10 @@
 # Congressional Lunch
 
-![Congressional Lunch](logo/congressional-lunch-logo.svg)
+![American flag with the Twitter logo instead of stars](logo/flag.svg)
 
 > "Artists to my mind are the real architects of change, and not the political legislators who implement change after the fact." - William S Burroughs
 
-
-[Congressional Lunch](http://www.congressional-lunch.com/) is a website that generates fake tweets from congressmen based on their party.
-
+[Congressional Lunch](http://www.congressional-lunch.com/) is a website that generates fake tweets from real politicians using a Markov chain, a process where random variables are transitioned from one state to another based-on assumptions and probability. All the most recent tweets from each politician's Twitter pages are put into a pool of their own party. From there, tweets are generated and published periodically according to the party they are accredited to. With three screens, the Republican tweets are shifted to the right, the Democratic tweets shifted to the left, and the middle acts as a feed for all of them. Although the tweets are affected by their party, they all utilize the same platform that brings them both together while still being separated.
 
 ## Gallery Instructions
 
