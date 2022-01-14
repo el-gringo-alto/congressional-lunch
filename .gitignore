@@ -10,6 +10,7 @@ data/
 ._DS_Store
 
 php/
+*.php
 
 *.sql
 
