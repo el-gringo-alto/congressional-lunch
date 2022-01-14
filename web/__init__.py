@@ -9,7 +9,11 @@ app = Flask(__name__)
 
 @app.context_processor
 def inject_variables():
-    return dict(copyright_year = datetime.now().year)
+    return dict(copyright_year = datetime.now().year,
+                current_time = datetime.now().strftime('%I:%M %p'),
+                current_date = datetime.now().strftime('%b %d, %Y'),
+                rand_retweets = random.randint(0, 999),
+                rand_likes = random.randint(0, 999))
 
 @app.route('/')
 def index():
@@ -22,11 +26,10 @@ def index():
 @app.route('/stream')
 def stream():
     party = request.args.get('party')
-    if party != None:
-        if party.lower() == 'republican':
-            sql = 'SELECT * FROM tweets WHERE party="Republican" OR party="Libertarian" ORDER BY id DESC LIMIT 50'
-        elif party.lower() == 'democratic':
-            'SELECT * FROM tweets WHERE party="Democratic" OR party="Independent" ORDER BY id DESC LIMIT 50'
+    if party and party.lower() == 'republican':
+        sql = 'SELECT * FROM tweets WHERE party="Republican" OR party="Libertarian" ORDER BY id DESC LIMIT 50'
+    elif party and party.lower() == 'democratic':
+        sql = 'SELECT * FROM tweets WHERE party="Democratic" OR party="Independent" ORDER BY id DESC LIMIT 50'
     else:
         sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 50'
 
@@ -51,7 +54,7 @@ def single_tweet(tweet_id):
 
 @app.route('/about')
 def about():
-    personal_content[0]['tweet'] = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are fake and do not represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com">#PersonalWebsite</a>'
+    personal_content[0]['tweet'] = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are <strong>fake</strong> and do <strong>not</strong> represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com">#PersonalWebsite</a>'
     try:
         return render_template('single.html', title='About', tweet_content=personal_content)
     except IndexError:
@@ -65,30 +68,21 @@ def random_tweet():
     except IndexError:
         abort(404)
 
+@app.route('/error/404')
+def error404():
+    abort(404)
+
 @app.errorhandler(404)
 def page_not_found(error):
-    personal_content[0]['tweet'] = '404 Page Not Found'
-    return render_template('404.html'), 404
+    return render_template('error/404.html'), 404
+
+@app.route('/error/500')
+def error500():
+    abort(500)
 
 @app.errorhandler(500)
 def internal_error(error):
-    return render_template('500.html'), 500
-
-@app.route('/500')
-def error500():
-    '''test 500 errors'''
-    content = [{
-        'id': None,
-        'tweet': '500 Internal Server Error',
-        'name': 'Sam Schultheis',
-        'handle': 'SamSchultheis',
-        'party': 'Democratic',
-        'retweets': random.randint(0, 999),
-        'likes': random.randint(0, 999),
-        'time': datetime.now().strftime('%I:%M %p'),
-        'date': datetime.now().strftime('%b %d, %Y')}]
-    abort(500)
-
+    return render_template('error/500.html'), 500
 
 
 if __name__ == '__main__':

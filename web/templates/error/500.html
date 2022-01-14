@@ -1,13 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-    {{ tweet('Sam Schultheis',
-             '@Sam_Schultheis',
-             '500 Internal Server Error',
-             url_for('static', filename= 'imgs/samschultheis.jpg'),
-             'Sam Schultheis profile picture',
-             current_time,
-             currrent_date,
-             retweets,
-             likes) }}
+    {{ mk_tweet([{
+            'id': None,
+            'tweet': '500 Internal Server Error',
+            'name': 'Sam Schultheis',
+            'handle': 'SamSchultheis',
+            'party': 'Democratic',
+            'retweets': rand_retweets,
+            'likes': rand_likes,
+            'time': current_time,
+            'date': current_date}]) }}
 {% endblock %}
