@@ -64,19 +64,26 @@
     <script src="{{ url_for('static', filename= 'js/script.js') }}"></script>
     <script src="https://kit.fontawesome.com/0fd958d790.js" crossorigin="anonymous"></script>
 </head>
-<body class="header-visible">
+{% if header_visable|lower == 'false' %}
+    {% set header_class = 'header-invisible' %}
+{% else %}
+    {% set header_class = 'header-visible' %}
+{% endif %}
+<body class="{{ header_class }}">
     {% block header %}
-        <header class="header-container">
-            <a class="logo" href="{{ url_for('index') }}"><img src="{{ url_for('static', filename= 'imgs/congressional-lunch-logo.svg') }}" alt="Congressional Lunch logo"></a>
-            <div id="main-nav" class="main-nav">
-                <a class="btn-nav" href="{{ url_for('about') }}">About</a>
-                <a class="btn-nav" href="{{ url_for('random_tweet') }}">Random Tweet</a>
-            </div>
-            <div class="disclaimer">
-                <p>Congressional Lunch is a parody social media website that attributes fake posts to real people in a fictitious manner. All posts within congressional-lunch.com are fake and do not represent the opinions of those that they are attributed to.</p>
-                <p>&copy; {{ copyright_year }} Sam Schultheis</p>
-            </div>
-        </header>
+        {% if header_visable|lower != 'false' %}
+            <header class="header-container">
+                <a class="logo" href="{{ url_for('index') }}"><img src="{{ url_for('static', filename= 'imgs/congressional-lunch-logo.svg') }}" alt="Congressional Lunch logo"></a>
+                <div id="main-nav" class="main-nav">
+                    <a class="btn-nav" href="{{ url_for('about') }}">About</a>
+                    <a class="btn-nav" href="{{ url_for('random_tweet') }}">Random Tweet</a>
+                </div>
+                <div class="disclaimer">
+                    <p>Congressional Lunch is a parody social media website that attributes fake posts to real people in a fictitious manner. All posts within congressional-lunch.com are fake and do not represent the opinions of those that they are attributed to.</p>
+                    <p>&copy; {{ copyright_year }} Sam Schultheis</p>
+                </div>
+            </header>
+        {% endif %}
     {% endblock %}
     <main id="main-content">
         {% block noscript %}

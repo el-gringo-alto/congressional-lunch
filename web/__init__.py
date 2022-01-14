@@ -21,7 +21,17 @@ def index():
     party = request.args.get('party')
     header = request.args.get('header')
     try:
-        return render_template('index.html')
+        return render_template('index.html', header_visable=header)
+    except IndexError:
+        abort(404)
+
+
+@app.route('/tile')
+def tile():
+    party = request.args.get('party')
+    header = request.args.get('header')
+    try:
+        return render_template('tile.html', header_visable=header)
     except IndexError:
         abort(404)
 

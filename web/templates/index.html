@@ -1,37 +1,41 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    {#% if header %#}
-        <section id="party-select" aria-label="Party filtering">
-            <label for="party">Party to view</label>
-            <select name="party" id="party">
-                {% if party|lower != 'democratic' and party|lower != 'republican' %}
-                    {% set is_selected = 'selected' %}
-                {% endif %}
-                <option value="" {{ is_selected }}>Both</option>
-                {% set is_selected = '' %}
-                {% if party|lower == 'democratic' %}
-                    {% set is_selected = 'selected' %}
-                {% endif %}
-                <option value="democratic" {{ is_selected }}>Democratic</option>
-                {% set is_selected = '' %}
-                {% if party|lower == 'republican' %}
-                    {% set is_selected = 'selected' %}
-                {% endif %}
-                <option value="republican" {{ is_selected }}>Republican</option>
-                {% set is_selected = '' %}
-            </select>
+    {% block party_select %}
+        {% if header_visable|lower != 'false' %}
+            <section id="party-select" aria-label="Party filtering">
+                <label for="party">Party to view</label>
+                <select name="party" id="party">
+                    {% if party|lower != 'democratic' and party|lower != 'republican' %}
+                        {% set is_selected = 'selected' %}
+                    {% endif %}
+                    <option value="" {{ is_selected }}>Both</option>
+                    {% set is_selected = '' %}
+                    {% if party|lower == 'democratic' %}
+                        {% set is_selected = 'selected' %}
+                    {% endif %}
+                    <option value="democratic" {{ is_selected }}>Democratic</option>
+                    {% set is_selected = '' %}
+                    {% if party|lower == 'republican' %}
+                        {% set is_selected = 'selected' %}
+                    {% endif %}
+                    <option value="republican" {{ is_selected }}>Republican</option>
+                    {% set is_selected = '' %}
+                </select>
 
-            <script>
-                var partySelectBox = document.getElementById('party');
+                <script>
+                    var partySelectBox = document.getElementById('party');
 
-                document.getElementById('party').addEventListener('change', () => {
-                    party = partySelectBox.options[partySelectBox.selectedIndex].value;
-                    getTweetStream();
-                })
+                    document.getElementById('party').addEventListener('change', () => {
+                        party = partySelectBox.options[partySelectBox.selectedIndex].value;
+                        getTweetStream();
+                    })
 
-            </script>
-        </section>
-    {#% endif %#}
-    <section id="stream" class="tweet-feed" aria-label="Tweet feed"></section>
+                </script>
+            </section>
+        {% endif %}
+    {% endblock %}
+    {% block stream %}
+        <section id="stream" class="tweet-feed" aria-label="Tweet feed"></section>
+    {% endblock %}
 {% endblock %}
