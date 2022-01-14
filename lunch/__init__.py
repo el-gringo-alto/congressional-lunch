@@ -184,10 +184,6 @@ def mk_tweet():
     cur_time = datetime.now().strftime('%I:%M %p')
     date = datetime.now().strftime('%b %d, %Y')
 
-    # Add the tweet to the SQL database
-    # with db_keys.open() as f:
-    #     config = json.load(f)
-
     db = mysql.connector.connect(**config['database'], raise_on_warnings=False)
     cur = db.cursor()
 

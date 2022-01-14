@@ -30,7 +30,7 @@ function buildTweet(tweet, link=true) {
     if (link) {
         linkHtml = `
             <div class="link-container">
-                <a href="/tweet.php?id=${tweet.id}" aria-label="Go to single tweet page with id ${tweet.id}">
+                <a href="/${tweet.id}" aria-label="Go to single tweet page with id ${tweet.id}">
                     <span class="fas fa-angle-right"></span>
                 </a>
             </div>`;
@@ -81,6 +81,6 @@ function getTweetStream() {
         var queryParty = ''
     }
 
-    xmlhttp.open('GET', `/includes/stream.php?${queryParty}`, true);
+    xmlhttp.open('GET', `/stream?${queryParty}`, true);
     xmlhttp.send();
 }
