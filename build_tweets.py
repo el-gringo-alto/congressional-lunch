@@ -1,4 +1,4 @@
-from lunch import get_tweets
+from lunch import scrape_data
 
 
-get_tweets()
+scrape_data()

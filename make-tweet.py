@@ -1,4 +1,4 @@
-from lunch import mk_tweet
+from lunch import gen_tweet
 
 
-mk_tweet()
+gen_tweet()

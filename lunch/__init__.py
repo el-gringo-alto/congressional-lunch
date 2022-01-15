@@ -12,9 +12,9 @@ from .utils import *
 
 
 
-def get_tweets():
+def scrape_data():
     """
-    Pull the tweets from each congressman in a party and save the markov chain to a file.
+    Pull the tweets from each congressman and save the markov chain to a file corresponding to their party.
     """
     # connect to the twitter api
     twitter_keys = config['twitter']
@@ -92,7 +92,7 @@ def get_tweets():
 
 
 
-def mk_tweet():
+def gen_tweet():
     """
     Create all the data for the tweet and upload it to the database.
     """
