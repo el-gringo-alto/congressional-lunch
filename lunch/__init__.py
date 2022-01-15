@@ -14,7 +14,8 @@ from .utils import *
 
 def scrape_data():
     """
-    Pull the tweets from each congressman and save the markov chain to a file corresponding to their party.
+    Pull the tweets from each congressman and save the markov chain to a file
+    corresponding to their party.
     """
     # connect to the twitter api
     twitter_keys = config['twitter']
@@ -24,12 +25,11 @@ def scrape_data():
 
     for party in ['Republican', 'Democratic']:
         # get all the twitter urls into a list
-        with congress_file.open() as f:
-            profiles = json.load(f)
+        with congress_file.open(encoding='utf-8') as file:
+            profiles = json.load(file)
         usernames = []
         for profile in profiles:
-            if (party == None or
-            profile['party'] == party or
+            if (profile['party'] == party or
             # libertarians go with republicans because
             # there's not enough of them for a whole dataset
             profile['party'] in third_parties['Republican'] and
@@ -51,9 +51,9 @@ def scrape_data():
         for username in usernames:
             try:
                 page = api.user_timeline(screen_name=username, tweet_mode='extended')
-            except tweepy.TweepyException as e:
-                print(f"Skipping @{username} - {e}")
-                logging.info(f"@{username} - {e}")
+            except tweepy.TweepyException as exc:
+                print(f"Skipping @{username} - {exc}")
+                logging.info(f"@{username} - {exc}")
                 continue
             print(f"Grabbing {len(page)} tweets from @{username}")
             for tweet in page:
@@ -88,7 +88,7 @@ def scrape_data():
         data_file = data_file_path(party, 'data')
         data_file.write_text(json.dumps(data))
 
-        print(f"{len(tweets_within_week) + len(tweets_outside_week)} tweets scraped from {len(twitter_urls)} {party} accounts")
+        print(f"{len(tweets_within_week) + len(tweets_outside_week)} tweets scraped from {len(usernames)} {party} accounts")
 
 
 
@@ -96,8 +96,8 @@ def gen_tweet():
     """
     Create all the data for the tweet and upload it to the database.
     """
-    with congress_file.open() as f:
-        congress = json.load(f)
+    with congress_file.open(encoding='utf-8') as file:
+        congress = json.load(file)
 
     # get a random congressman
     congressman = random.choice(congress)
@@ -123,7 +123,7 @@ def gen_tweet():
     # get retweets and likes based on an existing one
     # i should make this into a tuple at some point when scraping
     data_file = data_file_path(party, 'data')
-    with data_file.open() as file:
+    with data_file.open(encoding='utf-8') as file:
         data = json.load(file)
     data_idx = random.randint(0, len(data['retweets']))
     retweets = data['retweets'][data_idx]
@@ -149,8 +149,9 @@ def gen_tweet():
                 )
             """)
 
-            cur.execute(
-                'INSERT INTO tweets (tweet, name, handle, party, retweets, likes, time, date) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)',
+            cur.execute('''INSERT INTO tweets
+                    (tweet, name, handle, party, retweets, likes, time, date)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s)''',
                 (sentence, name, handle, party, retweets, likes, cur_time, cur_date))
             db.commit()
 

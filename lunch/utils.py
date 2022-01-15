@@ -1,3 +1,6 @@
+""" Contains utility functions and variables for the main functions of the
+    module.
+"""
 import configparser
 import json
 import logging
@@ -20,8 +23,9 @@ logging.basicConfig(filename=log_file,
                     level=logging.INFO)
 
 
-# since I only want to split this between democrats and republicans, third parties can with one of the two
-# independents go with democrats because most of them in congress caucus with the democrats
+# Since I only want to split this between democrats and republicans, third
+# parties can with one of the two independents go with democrats because most
+# of them in congress caucus with the democrats.
 third_parties = {
     'Republican': ['Libertarian', 'New Progressive'],
     'Democratic': ['Independent']
@@ -30,7 +34,8 @@ third_parties = {
 
 def data_file_path(party, data_type):
     """
-    Return a file path for either the file containing the Markov corpus or the likes and retweets data.
+    Return a file path for either the file containing the Markov corpus or the
+    likes and retweets data.
     """
     party_dir = data_dir / party.lower()
     if not party_dir.exists():
@@ -48,8 +53,8 @@ def cleanup_congress(*handles: str):
     """
     Remove usernames from the congress file.
     """
-    with congress_file.open() as f:
-        profiles = json.load(f)
+    with congress_file.open(encoding='utf-8') as file:
+        profiles = json.load(file)
 
     for handle in handles:
         removed = False
@@ -67,5 +72,5 @@ def cleanup_congress(*handles: str):
         else:
             print(f"Unable to find @{handle}")
 
-    with congress_file.open('w') as f:
-        json.dump(profiles, f, indent=4)
+    with congress_file.open('w', encoding='utf-8') as file:
+        json.dump(profiles, file, indent=4)
