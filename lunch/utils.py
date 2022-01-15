@@ -58,9 +58,6 @@ def cleanup_congress(*handles: str):
                 if handle.lower() == username.lower():
                     profile['twitter'].remove(username)
 
-                    with congress_file.open('w') as f:
-                        json.dump(profiles, f, indent=4)
-
                     print(f"Removed @{handle} from {profile['name']} ({profile['party']})")
 
                     removed = True
@@ -69,3 +66,6 @@ def cleanup_congress(*handles: str):
                 break
         else:
             print(f"Unable to find @{handle}")
+
+    with congress_file.open('w') as f:
+        json.dump(profiles, f, indent=4)
