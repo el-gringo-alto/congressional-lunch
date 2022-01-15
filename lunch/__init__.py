@@ -1,5 +1,4 @@
 from datetime import datetime
-import json
 import random
 import re
 import time
@@ -152,11 +151,11 @@ def mk_tweet():
 
             cur.execute(
                 'INSERT INTO tweets (tweet, name, handle, party, retweets, likes, time, date) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)',
-                (tweet, name, handle, party, retweets, likes, cur_time, cur_date))
+                (sentence, name, handle, party, retweets, likes, cur_time, cur_date))
             db.commit()
 
     print(f"""{'-' * 15}
-Tweet: {tweet}
+Tweet: {sentence}
 Name: {name}
 Handle: @{handle}
 Party: {party}

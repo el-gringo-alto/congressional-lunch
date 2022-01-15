@@ -1,4 +1,5 @@
 import configparser
+import json
 import logging
 import pathlib
 
@@ -41,3 +42,30 @@ def data_file_path(party, data_type):
         return party_dir / 'data.json'
     else:
         raise Exception(f"{data_type} is not a valid file. Please specify 'tweets' or 'data'.")
+
+
+def cleanup_congress(*handles: str):
+    """
+    Remove usernames from the congress file.
+    """
+    with congress_file.open() as f:
+        profiles = json.load(f)
+
+    for handle in handles:
+        removed = False
+        for profile in profiles:
+            for username in profile['twitter']:
+                if handle.lower() == username.lower():
+                    profile['twitter'].remove(username)
+
+                    with congress_file.open('w') as f:
+                        json.dump(profiles, f, indent=4)
+
+                    print(f"Removed @{handle} from {profile['name']} ({profile['party']})")
+
+                    removed = True
+                    break
+            if removed:
+                break
+        else:
+            print(f"Unable to find @{handle}")
