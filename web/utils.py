@@ -3,6 +3,7 @@ from datetime import datetime
 import random
 
 
+from flask import abort
 import mysql.connector
 
 
@@ -20,22 +21,25 @@ personal_content = [{
 
 
 
-def sql_query(query, vars=()):
-    # keys_file = pathlib.Path('keys.ini')
+def sql_query(query: str, vals=()) -> dict:
+    """
+    Input a SQL query and return a dictionary of results.
+    """
     config = configparser.ConfigParser()
     config.read('keys.ini')
 
-    db = mysql.connector.connect(**config['database'], raise_on_warnings=False)
-    cur = db.cursor(dictionary=True)
+    conn =  mysql.connector.connect(**config['database'], raise_on_warnings=False)
+    cur = conn.cursor(dictionary=True)
 
-    cur.execute(query, vars)
+    cur.execute(query, vals)
 
-    tweet = cur.fetchall()
-    db.commit()
+    resp = cur.fetchall()
+    conn.commit()
 
     cur.close()
-    db.close()
+    conn.close()
 
-    if tweet is None:
-        abort(404)
-    return tweet
+    if resp is None:
+        abort(500)
+
+    return resp
