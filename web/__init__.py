@@ -21,7 +21,7 @@ def index():
     party = request.args.get('party')
     header = request.args.get('header')
     try:
-        return render_template('index.html', header_visable=header)
+        return render_template('index.html.j2', header_visable=header)
     except IndexError:
         abort(404)
 
@@ -31,7 +31,7 @@ def tile():
     party = request.args.get('party')
     header = request.args.get('header')
     try:
-        return render_template('tile.html', header_visable=header)
+        return render_template('tile.html.j2', header_visable=header)
     except IndexError:
         abort(404)
 
@@ -55,14 +55,14 @@ def stream():
     try:
         return resp
     except IndexError:
-        abort(404)
+        abort(500)
 
 
 @app.route('/<int:tweet_id>')
 def single_tweet(tweet_id):
     tweet_content = sql_query('SELECT * FROM tweets WHERE id = %s', (tweet_id,))
     try:
-        return render_template('single.html', title='Single Tweet', tweet_content=tweet_content)
+        return render_template('single.html.j2', title='Single Tweet', tweet_content=tweet_content)
     except IndexError:
         abort(404)
 
@@ -71,7 +71,7 @@ def single_tweet(tweet_id):
 def random_tweet():
     tweet_content = sql_query('SELECT * FROM tweets ORDER BY RAND() LIMIT 1')
     try:
-        return render_template('single.html', title='Random Tweet', tweet_content=tweet_content)
+        return render_template('single.html.j2', title='Random Tweet', tweet_content=tweet_content)
     except IndexError:
         abort(404)
 
@@ -80,7 +80,7 @@ def random_tweet():
 def about():
     about_txt = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are fake and do not represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com" target="_blank">#PersonalWebsite</a> <a href="https://github.com/el-gringo-alto/congressional-lunch" target="_blank">#GithubRepo</a>'
     try:
-        return render_template('message.html', title='About', msg=about_txt)
+        return render_template('message.html.j2', title='About', msg=about_txt)
     except IndexError:
         abort(404)
 
@@ -92,7 +92,7 @@ def error404():
 @app.errorhandler(404)
 def page_not_found(error):
     error_msg = '404 Page Not Found'
-    return render_template('message.html', title=error_msg, msg=error_msg), 404
+    return render_template('message.html.j2', title=error_msg, msg=error_msg), 404
 
 
 @app.route('/error/500')
@@ -102,7 +102,7 @@ def error500():
 @app.errorhandler(500)
 def internal_error(error):
     error_msg = '500 Internal Server Error'
-    return render_template('message.html', title=error_msg, msg=error_msg), 500
+    return render_template('message.html.j2', title=error_msg, msg=error_msg), 500
 
 
 if __name__ == '__main__':
