@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // start the stream if it exists
     if (document.getElementById('stream') != null) {
         getTweetStream();
-        // run every 10 seconds
+        // run every 20 seconds
         setInterval(getTweetStream, 20000);
     }
 
