@@ -122,7 +122,7 @@ def stream():
     return Response(event_stream(), mimetype="text/event-stream")
 
 
-@app.route('/<int:tweet_id>')
+@app.route('/tweet/<int:tweet_id>')
 def single_tweet(tweet_id):
     '''
     Displays a single tweet specified by its id.
