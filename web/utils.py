@@ -2,7 +2,6 @@ import configparser
 from datetime import datetime
 import random
 
-
 from flask import abort
 import mysql.connector
 
@@ -32,18 +31,9 @@ def sql_query(query: str, vals=()) -> dict:
     return resp
 
 
-class APConfig:
+class Config:
     '''
     App configuration.
     '''
-    # JOBS = [
-    #     {
-    #         'id': "job1",
-    #         'func': "jobs:job1",
-    #         'args': (1, 2),
-    #         'trigger': "interval",
-    #         'seconds': 10,
-    #     }
-    # ]
     SCHEDULER_API_ENABLED = True
     SCHEDULER_TIMEZONE = 'America/New_York'

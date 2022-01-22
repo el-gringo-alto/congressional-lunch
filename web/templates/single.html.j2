@@ -1,8 +1,7 @@
 {% extends "base.html.j2" %}
 
 {% block content %}
-    {#{ tweet_content }#}
     <section class="single-tweet">
-    {{ mk_tweet(tweet_content) }}
-</section>
+        {{ mk_tweet(tweet_content[0]) }}
+    </section>
 {% endblock %}

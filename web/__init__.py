@@ -7,22 +7,19 @@ from .cron import gen_tweet, scrape_data
 from .utils import *
 
 
+
 # initialize flask
 app = Flask(__name__)
-app.config.from_object(APConfig())
+app.config.from_object(Config())
 
 
 # initialize scheduler
 scheduler = APScheduler()
-# if you don't wanna use a config, you can set options here:
-# scheduler.api_enabled = True
 scheduler.init_app(app)
-# scheduler.add_job(job2, 'cron', second='*')
 scheduler.start()
 
-
 # Generate a tweet every 5 minutes
-scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', minute='*/5')
+scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', minute='*')
 
 # Generate a tweet every 5 minutes
 scheduler.add_job(func=scrape_data, trigger='cron', id='do_scrape_data', hour='*/8')
@@ -59,10 +56,7 @@ def index():
         sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 50'
 
     tweets = sql_query(sql)
-    try:
-        return render_template('index.html.j2', header_visable=header, tweets=tweets)
-    except IndexError:
-        abort(404)
+    return render_template('index.html.j2', header_visable=header, tweets=tweets)
 
 
 @app.route('/tile')
@@ -84,10 +78,7 @@ def tile():
         sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 50'
 
     tweets = sql_query(sql)
-    try:
-        return render_template('tile.html.j2', header_visable=header, tweets=tweets)
-    except IndexError:
-        abort(404)
+    return render_template('tile.html.j2', header_visable=header, tweets=tweets)
 
 
 @app.route('/stream')
@@ -95,22 +86,29 @@ def stream():
     '''
     Server Side Event to push newly created tweets to the stream.
     '''
-
     party = request.args.get('party')
     if party and party.lower() == 'republican':
+        cur_tweet = sql_query('''SELECT id FROM tweets
+                                 WHERE party="Republican" OR party="Libertarian"
+                                 ORDER BY id DESC LIMIT 1''')
         sql = '''SELECT * FROM tweets
                  WHERE party="Republican" OR party="Libertarian"
                  ORDER BY id DESC LIMIT 1'''
     elif party and party.lower() == 'democratic':
+        cur_tweet = sql_query('''SELECT id FROM tweets
+                                 WHERE party="Democratic" OR party="Independent"
+                                 ORDER BY id DESC LIMIT 1''')
         sql = '''SELECT * FROM tweets
                  WHERE party="Democratic" OR party="Independent"
                  ORDER BY id DESC LIMIT 1'''
     else:
+        cur_tweet = sql_query('SELECT id FROM tweets ORDER BY id DESC LIMIT 1')
         sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 1'
 
-    cur_tweet = sql_query('SELECT id FROM tweets ORDER BY id DESC LIMIT 1')
-
-    def eventStream():
+    def event_stream():
+        '''
+        Get the latest tweet from the database and see if it needs to be updated on the client.
+        '''
         prev_tweet_id = cur_tweet[0]['id']
         while True:
             # Poll data from the database
@@ -120,7 +118,7 @@ def stream():
                 prev_tweet_id = tweet[0]['id']
                 yield f"data:{json.dumps(tweet[0])}\n\n"
 
-    return Response(eventStream(), mimetype="text/event-stream")
+    return Response(event_stream(), mimetype="text/event-stream")
 
 
 @app.route('/<int:tweet_id>')
@@ -129,10 +127,7 @@ def single_tweet(tweet_id):
     Displays a single tweet specified by its id.
     '''
     tweet_content = sql_query('SELECT * FROM tweets WHERE id = %s', (tweet_id,))
-    try:
-        return render_template('single.html.j2', title='Single Tweet', tweet_content=tweet_content)
-    except IndexError:
-        abort(404)
+    return render_template('single.html.j2', title='Single Tweet', tweet_content=tweet_content)
 
 
 @app.route('/random')
@@ -141,10 +136,7 @@ def random_tweet():
     Displays a single random tweet.
     '''
     tweet_content = sql_query('SELECT * FROM tweets ORDER BY RAND() LIMIT 1')
-    try:
-        return render_template('single.html.j2', title='Random Tweet', tweet_content=tweet_content)
-    except IndexError:
-        abort(404)
+    return render_template('single.html.j2', title='Random Tweet', tweet_content=tweet_content)
 
 
 @app.route('/about')
@@ -153,10 +145,7 @@ def about():
     Displays an about me page.
     '''
     about_txt = 'Tweets generated through machine learning using tweets from a congressman&apos;s own party. These tweets are fake and do not represent the views nor beliefs of the person they are credited to. <a href="http://samschultheis.com" target="_blank">#PersonalWebsite</a> <a href="https://github.com/el-gringo-alto/congressional-lunch" target="_blank">#GithubRepo</a>'
-    try:
-        return render_template('message.html.j2', title='About', msg=about_txt)
-    except IndexError:
-        abort(404)
+    return render_template('message.html.j2', title='About', msg=about_txt)
 
 
 @app.route('/error/404')

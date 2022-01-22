@@ -2,7 +2,7 @@
 
 {% block content %}
     <section class="single-tweet">
-        {{ mk_tweet([{
+        {{ mk_tweet({
                 'id': None,
                 'tweet': msg,
                 'name': 'Sam Schultheis',
@@ -11,6 +11,6 @@
                 'retweets': rand_retweets,
                 'likes': rand_likes,
                 'time': current_time,
-                'date': current_date}]) }}
+                'date': current_date}) }}
         </section>
 {% endblock %}

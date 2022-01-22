@@ -1,6 +1,7 @@
 {% extends 'base.html.j2' %}
 
 {% block content %}
+    {#
     {% block party_select %}
         {% if header_visable|lower != 'false' %}
             <section id="party-select" aria-label="Party filtering">
@@ -35,8 +36,13 @@
             </section>
         {% endif %}
     {% endblock %}
+    #}
     {% block stream %}
-        <script src="{{ url_for('static', filename= 'js/script.js') }}"></script>
-        <section id="stream" class="tweet-feed" aria-label="Tweet feed">{{ mk_tweet(tweets) }}</section>
+        <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+        <section id="stream" class="tweet-feed" aria-label="Tweet feed">
+            {% for tweet in tweets %}
+                {{ mk_tweet(tweet) }}
+            {% endfor %}
+        </section>
     {% endblock %}
 {% endblock %}
