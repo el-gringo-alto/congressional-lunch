@@ -1,5 +1,5 @@
 const parsedUrl = new URL(window.location.href);
-var party = parsedUrl.searchParams.get('party');
+const party = parsedUrl.searchParams.get('party');
 
 if (party != null) {
     var queryParty = `party=${party}`;
@@ -7,11 +7,15 @@ if (party != null) {
     var queryParty = '';
 }
 
-var source = new EventSource(`/stream?${queryParty}`);
+const source = new EventSource(`/stream?${queryParty}`);
 source.onmessage = function(event) {
-    newTweet = buildTweet(JSON.parse(event.data));
-    stream = document.getElementById('stream');
+    var newTweet = buildTweet(JSON.parse(event.data));
+    var stream = document.getElementById('stream');
     stream.innerHTML = newTweet + stream.innerHTML;
+};
+
+source.onerror = function(err) {
+  console.error("EventSource failed:", err);
 };
 
 
