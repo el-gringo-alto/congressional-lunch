@@ -87,6 +87,7 @@ def tile():
 def stream():
     '''
     Server Side Event to push newly created tweets to the stream.
+    TODO: Send html instead of json so it's rendered server side.
     '''
     party = request.args.get('party')
     if party and party.lower() == 'republican':
@@ -113,9 +114,7 @@ def stream():
         '''
         prev_tweet_id = cur_tweet[0]['id']
         while True:
-            # Poll data from the database
             tweet = sql_query(sql)
-            # and see if there's a new message
             if tweet[0]['id'] != prev_tweet_id:
                 prev_tweet_id = tweet[0]['id']
                 yield f"data:{json.dumps(tweet[0])}\n\n"

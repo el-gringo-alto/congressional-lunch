@@ -4,13 +4,13 @@ var party = parsedUrl.searchParams.get('party');
 if (party != null) {
     var queryParty = `party=${party}`;
 } else {
-    var queryParty = ''
+    var queryParty = '';
 }
 
 var source = new EventSource(`/stream?${queryParty}`);
 source.onmessage = function(event) {
-    newTweet = buildTweet(JSON.parse(event.data))
-    stream = document.getElementById('stream')
+    newTweet = buildTweet(JSON.parse(event.data));
+    stream = document.getElementById('stream');
     stream.innerHTML = newTweet + stream.innerHTML;
 };
 
