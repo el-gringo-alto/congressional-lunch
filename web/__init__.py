@@ -60,7 +60,7 @@ def index():
 
     tweets = sql_query(sql)
     try:
-        return render_template('index.html.j2', title='test', tweets=tweets)
+        return render_template('index.html.j2', header_visable=header, tweets=tweets)
     except IndexError:
         abort(404)
 
@@ -85,7 +85,7 @@ def tile():
 
     tweets = sql_query(sql)
     try:
-        return render_template('tile.html.j2', title='test', tweets=tweets)
+        return render_template('tile.html.j2', header_visable=header, tweets=tweets)
     except IndexError:
         abort(404)
 
