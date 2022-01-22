@@ -1,6 +1,4 @@
 import configparser
-from datetime import datetime
-import random
 
 from flask import abort
 import mysql.connector
