@@ -9,6 +9,11 @@
                 <span class="name" id="name">{{ tweet['name'] }}</span>
                 <span class="handle">@{{ tweet['handle'] }}</span>
             </div>
+            <div class="link-container">
+                <a href="/{{ tweet['id'] }}" aria-label="Go to single tweet page with id {{ tweet['id'] }}">
+                    <span class="fas fa-angle-right"></span>
+                </a>
+            </div>
         </header>
         <div class="text" id="description">
             <p>{{ tweet['tweet']|safe }}</p>
