@@ -21,7 +21,7 @@ scheduler.init_app(app)
 scheduler.start()
 
 # Generate a tweet every 5 minutes
-scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', minute='*')
+scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', minute='*/5')
 
 # Scrape Twitter for data every 8 hours
 scheduler.add_job(func=scrape_data, trigger='cron', id='do_scrape_data', hour='*/8')
