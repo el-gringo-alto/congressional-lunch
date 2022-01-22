@@ -1,5 +1,6 @@
 {% extends 'index.html.j2' %}
 
 {% block stream %}
-    <section id="stream" class="tweet-tiles" aria-label="Tweet feed in tiled format"></section>
+    <script src="{{ url_for('static', filename= 'js/script.js') }}"></script>
+    <section id="stream" class="tweet-tiles" aria-label="Tweet feed in tiled format">{{ mk_tweet(tweets) }}</section>
 {% endblock %}

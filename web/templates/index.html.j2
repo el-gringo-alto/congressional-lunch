@@ -36,6 +36,7 @@
         {% endif %}
     {% endblock %}
     {% block stream %}
-        <section id="stream" class="tweet-feed" aria-label="Tweet feed"></section>
+        <script src="{{ url_for('static', filename= 'js/script.js') }}"></script>
+        <section id="stream" class="tweet-feed" aria-label="Tweet feed">{{ mk_tweet(tweets) }}</section>
     {% endblock %}
 {% endblock %}

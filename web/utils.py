@@ -8,23 +8,10 @@ import mysql.connector
 
 
 
-personal_content = [{
-    'id': None,
-    'tweet': '',
-    'name': 'Sam Schultheis',
-    'handle': 'SamSchultheis',
-    'party': 'Democratic',
-    'retweets': random.randint(0, 999),
-    'likes': random.randint(0, 999),
-    'time': datetime.now().strftime('%I:%M %p'),
-    'date': datetime.now().strftime('%b %d, %Y')}]
-
-
-
 def sql_query(query: str, vals=()) -> dict:
-    """
+    '''
     Input a SQL query and return a dictionary of results.
-    """
+    '''
     config = configparser.ConfigParser()
     config.read('keys.ini')
 
@@ -43,3 +30,20 @@ def sql_query(query: str, vals=()) -> dict:
         abort(500)
 
     return resp
+
+
+class APConfig:
+    '''
+    App configuration.
+    '''
+    # JOBS = [
+    #     {
+    #         'id': "job1",
+    #         'func': "jobs:job1",
+    #         'args': (1, 2),
+    #         'trigger': "interval",
+    #         'seconds': 10,
+    #     }
+    # ]
+    SCHEDULER_API_ENABLED = True
+    SCHEDULER_TIMEZONE = 'America/New_York'

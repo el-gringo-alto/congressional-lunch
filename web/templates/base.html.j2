@@ -10,28 +10,26 @@
 
 {% macro mk_tweet(tweets) -%}
     {% for tweet in tweets %}
-        <section class="single-tweet">
-            <article class="tweet {{ tweet['party']|lower }}" aria-labelledby="name" aria-describedby="description">
-                <header class="tweet-header">
-                    <div class="profile-img">
-                        {% set img = 'imgs/thumbs/' + tweet['handle'] + '.jpg' %}
-                        <img src="{{ url_for('static', filename=img) }}" alt="{{ tweet['name'] }} profile picture" width="48">
-                    </div>
-                    <div class="tweet-info">
-                        <span class="name" id="name">{{ tweet['name'] }}</span>
-                        <span class="handle">@{{ tweet['handle'] }}</span>
-                    </div>
-                </header>
-                <div class="text" id="description">
-                    <p>{{ tweet['tweet']|safe }}</p>
+        <article class="tweet {{ tweet['party']|lower }}" aria-labelledby="name" aria-describedby="description">
+            <header class="tweet-header">
+                <div class="profile-img">
+                    {% set img = 'imgs/thumbs/' + tweet['handle'] + '.jpg' %}
+                    <img src="{{ url_for('static', filename=img) }}" alt="{{ tweet['name'] }} profile picture" width="48">
                 </div>
-                <time><span class="time">{{ tweet['time'] }}</span>{{ tweet['date'] }}</time>
-                <footer class="tweet-footer">
-                    <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span>{{ tweet['retweets'] }}</span>
-                    <span class="likes"><span class="far fa-heart" aria-label="Likes"></span>{{ tweet['likes'] }}</span>
-                </footer>
-            </article>
-        </section>
+                <div class="tweet-info">
+                    <span class="name" id="name">{{ tweet['name'] }}</span>
+                    <span class="handle">@{{ tweet['handle'] }}</span>
+                </div>
+            </header>
+            <div class="text" id="description">
+                <p>{{ tweet['tweet']|safe }}</p>
+            </div>
+            <time><span class="time">{{ tweet['time'] }}</span>{{ tweet['date'] }}</time>
+            <footer class="tweet-footer">
+                <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span>{{ tweet['retweets'] }}</span>
+                <span class="likes"><span class="far fa-heart" aria-label="Likes"></span>{{ tweet['likes'] }}</span>
+            </footer>
+        </article>
     {% endfor %}
 {%- endmacro %}
 
@@ -61,7 +59,6 @@
         </script>
     {% endif %}
     <link rel="stylesheet" href="{{ url_for('static', filename= 'css/master.css') }}">
-    <script src="{{ url_for('static', filename= 'js/script.js') }}"></script>
     <script src="https://kit.fontawesome.com/0fd958d790.js" crossorigin="anonymous"></script>
 </head>
 {% if header_visable|lower == 'false' %}
