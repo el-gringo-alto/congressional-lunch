@@ -1,3 +1,6 @@
+'''
+Utility functions and classes.
+'''
 import configparser
 
 from flask import abort
