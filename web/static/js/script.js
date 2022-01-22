@@ -21,7 +21,7 @@ source.onerror = function(err) {
 
 function buildTweet(tweet) {
     return tweetHtml = `
-        <article class="tweet ${tweet.party.toLowerCase()}" aria-labelledby="${tweet.id}">
+        <article class="tweet ${tweet.party.toLowerCase()}" aria-labelledby="${tweet.name} tweet with id ${tweet.id}" aria-describedby="description-${tweet.id}">
             <header class="tweet-header">
                 <div class="profile-img">
                     <img src="/static/imgs/thumbs/${tweet.handle}.jpg" alt="@${tweet.handle} twitter profile picture" width="48" loading="lazy">
@@ -36,7 +36,7 @@ function buildTweet(tweet) {
                     </a>
                 </div>
             </header>
-            <div class="text" id="${tweet.id}">
+            <div class="text" id="description-${tweet.id}">
                 <p>${tweet.tweet}</p>
             </div>
             <time><span class="time">${tweet.time}</span>${tweet.date}</time>
