@@ -1,5 +1,5 @@
 {% macro mk_tweet(tweet) -%}
-    <article class="tweet {{ tweet['party']|lower }}" aria-label="{{ tweet['name'] }} tweet with id {{ tweet['id'] }}" aria-describedby="description-{{ tweet['id'] }}" id="{{ tweet['id'] }}">
+    <article class="tweet {{ tweet['party']}}" aria-label="{{ tweet['name'] }} tweet with id {{ tweet['id'] }}" aria-describedby="description-{{ tweet['id'] }}" id="{{ tweet['id'] }}">
         <header class="tweet-header">
             <div class="profile-img">
                 {% set img = 'imgs/thumbs/' + tweet['handle'] + '.jpg' %}

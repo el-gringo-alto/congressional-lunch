@@ -130,10 +130,10 @@ a {
     max-width: 768px;
 }
 
-.tweet.democratic:hover {
+.tweet.Democratic:hover {
     border-color: #1da1f2;
 }
-.tweet.republican:hover {
+.tweet.Republican:hover {
     border-color: #B22234;
 }
 
@@ -213,11 +213,11 @@ a {
     color: #657786;
 }
 
-.tweet.democratic .link-container a:hover {
+.tweet.Democratic .link-container a:hover {
     color: #1da1f2;
 }
 
-.tweet.republican .link-container a:hover {
+.tweet.Republican .link-container a:hover {
     color: #B22234;
 }
 

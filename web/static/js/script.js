@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function buildTweet(tweet) {
     return tweetHtml = `
-        <article class="tweet ${tweet.party.toLowerCase()}" aria-label="${tweet.name} tweet with id ${tweet.id}" aria-describedby="description-${tweet.id}" id="${tweet.id}">
+        <article class="tweet ${tweet.party}" aria-label="${tweet.name} tweet with id ${tweet.id}" aria-describedby="description-${tweet.id}" id="${tweet.id}">
             <header class="tweet-header">
                 <div class="profile-img">
                     <img src="/static/imgs/thumbs/${tweet.handle}.jpg" alt="@${tweet.handle} twitter profile picture" width="48" loading="lazy">
