@@ -43,49 +43,57 @@
 {% else %}
     {% set header_class = 'header-visible' %}
 {% endif %}
-<body class="{{ header_class }}">
-    {% block header %}
-        {% if header_visable|lower != 'false' %}
-            <header class="header-container">
-                <a class="logo" href="{{ url_for('index') }}"><img src="{{ url_for('static', filename= 'imgs/congressional-lunch-logo.svg') }}" alt="Congressional Lunch logo"></a>
-                <div id="main-nav" class="main-nav">
-                    <a class="btn-nav" href="{{ url_for('about') }}">About</a>
-                    <a class="btn-nav" href="{{ url_for('random_tweet') }}">Random Tweet</a>
-                </div>
-                <div class="disclaimer">
-                    <p>Congressional Lunch is a parody social media website that attributes fake posts to real people in a fictitious manner. All posts within congressional-lunch.com are fake and do not represent the opinions of those that they are attributed to.</p>
-                    <p>&copy; {{ copyright_year }} Sam Schultheis</p>
-                </div>
-            </header>
-        {% endif %}
-    {% endblock %}
-    <main id="main-content">
-        {% block noscript %}
-            <noscript>
-                <section class="single-tweet">
-                    <article class="tweet" aria-labelledby="name" aria-describedby="description">
-                        <header class="tweet-header">
-                            <div class="profile-img">
-                                <img src="{{ url_for('static', filename= '/imgs/samschultheis.jpg') }}" alt="Personal image" width="48">
-                            </div>
-                            <div class="tweet-info">
-                                <span class="name" id="name">Sam Schultheis</span>
-                                <span class="handle" style="text-decoration: line-through;">@Sam_Schultheis</span>
-                            </div>
-                        </header>
-                        <div class="text" id="description">
-                            <p>Javascript must be enabled in order to properly view this site.</p>
-                        </div>
-                        <time><span class="time"><?php echo date('h:i A'); ?></span><?php echo date('M j, Y'); ?></time>
-                        <footer class="tweet-footer">
-                            <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span><?php echo rand(0, 999); ?></span>
-                            <span class="likes"><span class="far fa-heart" aria-label="Likes"></span><?php echo rand(0, 999); ?></span>
-                        </footer>
-                    </article>
-                </section>
-            </noscript>
+<body>
+    <nav aria-label="Skip to parts of the page" class="skip-link">
+        <a class="element-invisible element-focusable" href="#header">Skip to header</a>
+        <a class="element-invisible element-focusable" href="#main-content">Skip to main content</a>
+    </nav>
+    <div class="{{ header_class }}">
+        {% block header %}
+            {% if header_visable|lower != 'false' %}
+                <header class="header-container" id="header">
+                    <a class="logo" href="{{ url_for('index') }}">
+                        <h1><img src="{{ url_for('static', filename= 'imgs/congressional-lunch-logo.svg') }}" alt="Congressional Lunch logo"></h1>
+                    </a>
+                    <nav id="main-nav" class="main-nav" aria-label="Main navigation">
+                        <a class="btn-nav" href="{{ url_for('about') }}">About</a>
+                        <a class="btn-nav" href="{{ url_for('random_tweet') }}">Random Tweet</a>
+                    </nav>
+                    <div class="disclaimer">
+                        <p>Congressional Lunch is a parody social media website that attributes fake posts to real people in a fictitious manner. All posts within congressional-lunch.com are fake and do not represent the opinions of those that they are attributed to.</p>
+                        <p>&copy; {{ copyright_year }} Sam Schultheis</p>
+                    </div>
+                </header>
+            {% endif %}
         {% endblock %}
-        {% block content %}{% endblock %}
-    </main>
+        <main id="main-content">
+            {% block noscript %}
+                <noscript>
+                    <section class="single-tweet">
+                        <article class="tweet" aria-labelledby="name" aria-describedby="description">
+                            <header class="tweet-header">
+                                <div class="profile-img">
+                                    <img src="{{ url_for('static', filename= '/imgs/samschultheis.jpg') }}" alt="Personal image" width="48">
+                                </div>
+                                <div class="tweet-info">
+                                    <span class="name" id="name">Sam Schultheis</span>
+                                    <span class="handle" style="text-decoration: line-through;">@Sam_Schultheis</span>
+                                </div>
+                            </header>
+                            <div class="text" id="description">
+                                <p>Javascript must be enabled in order to properly view this site.</p>
+                            </div>
+                            <time><span class="time"><?php echo date('h:i A'); ?></span><?php echo date('M j, Y'); ?></time>
+                            <footer class="tweet-footer">
+                                <span class="retweets"><span class="fas fa-retweet" aria-label="Retweets"></span><?php echo rand(0, 999); ?></span>
+                                <span class="likes"><span class="far fa-heart" aria-label="Likes"></span><?php echo rand(0, 999); ?></span>
+                            </footer>
+                        </article>
+                    </section>
+                </noscript>
+            {% endblock %}
+            {% block content %}{% endblock %}
+        </main>
+    </div>
 </body>
 </html>
