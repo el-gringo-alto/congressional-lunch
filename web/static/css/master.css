@@ -44,6 +44,12 @@ a {
         min-height: 100vh;
         display: flex;
         flex-flow: column;
+
+        align-self: flex-start;
+        height: auto;
+        position: sticky;
+        top: 0;
+        overflow-y: scroll;
     }
 
     .header-visible main {
@@ -83,11 +89,6 @@ a {
     padding: 2em 1em;
 
     box-sizing: border-box;
-
-    align-self: flex-start;
-    height: auto;
-    position: sticky;
-    top: 0;
 }
 
 
