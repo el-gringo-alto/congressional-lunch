@@ -2,12 +2,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Only run this code on pages that display the feed
     let stream = document.getElementById('stream');
-    if (typeof stream !== 'undefined') {
-
+    if (stream) {
         // Figure out the query party so it can be used in urls
         const parsedUrl = new URL(window.location.href);
         const party = parsedUrl.searchParams.get('party');
-        let queryParty
+        let queryParty;
 
         if (party != null) {
             queryParty = `party=${party}`;
@@ -52,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     xmlhttp.send();
                 }
 
-                addStream(stream.lastElementChild.id)
+                addStream(stream.lastElementChild.id);
             }
         };
     }
