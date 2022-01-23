@@ -83,6 +83,11 @@ a {
     padding: 2em 1em;
 
     box-sizing: border-box;
+
+    align-self: flex-start;
+    height: auto;
+    position: sticky;
+    top: 0;
 }
 
 

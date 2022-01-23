@@ -1,39 +1,49 @@
 document.addEventListener('DOMContentLoaded', () => {
-    var stream = document.getElementById('stream');
 
+    // Only run this code on pages that display the feed
+    let stream = document.getElementById('stream');
     if (typeof stream !== 'undefined') {
+
+        // Figure out the query party so it can be used in urls
         const parsedUrl = new URL(window.location.href);
         const party = parsedUrl.searchParams.get('party');
+        let queryParty
 
         if (party != null) {
-            var queryParty = `party=${party}`;
+            queryParty = `party=${party}`;
         } else {
-            var queryParty = '';
+            queryParty = '';
         }
+
 
         // Server send event to get newly created tweet and adds it to the top of the feed
         const source = new EventSource(`/stream?${queryParty}`);
-        source.onmessage = function(event) {
-            var newTweet = buildTweet(JSON.parse(event.data));
+        source.onmessage = (event) => {
+            let newTweet = buildTweet(JSON.parse(event.data));
             stream.innerHTML = newTweet + stream.innerHTML;
         };
 
-        source.onerror = function(err) {
-          console.error("EventSource failed:", err);
+        source.onerror = (err) => {
+          console.error('EventSource failed:', err);
         };
 
+
         // Fetch more tweets and add the the bottom of the feed when scroll reaches bottom
-        window.onscroll = function(ev) {
+        window.onscroll = () => {
             if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
 
-                function addStream(lastId) {
-                    const xmlhttp = new XMLHttpRequest();
+                const addStream = (lastId) => {
+                    let xmlhttp = new XMLHttpRequest();
                     xmlhttp.onreadystatechange = function() {
                         if (this.readyState == 4 && this.status == 200) {
                             resp = JSON.parse(this.responseText)
+
                             for (tweet of resp) {
-                                let newTweet = buildTweet(tweet);
-                                stream.innerHTML += newTweet;
+                                // Build the tweets and add them to the bottom of the feed
+                                if (typeof document.getElementById(tweet.id) !== 'undefined') {
+                                    let newTweet = buildTweet(tweet);
+                                    stream.innerHTML += newTweet;
+                                }
                             }
                         }
                     };
@@ -45,17 +55,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 addStream(stream.lastElementChild.id)
             }
         };
-
-
-
     }
-
 });
 
 
 
-
-function buildTweet(tweet) {
+const buildTweet = (tweet) => {
     return tweetHtml = `
         <article class="tweet ${tweet.party}" aria-label="${tweet.name} tweet with id ${tweet.id}" aria-describedby="description-${tweet.id}" id="${tweet.id}">
             <header class="tweet-header">
