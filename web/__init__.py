@@ -22,6 +22,7 @@ scheduler.start()
 
 # Generate a tweet every 5 minutes
 scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', minute='*/5')
+# scheduler.add_job(func=gen_tweet, trigger='cron', id='do_gen_tweet', second='*/30')
 
 # Scrape Twitter for data every 8 hours
 scheduler.add_job(func=scrape_data, trigger='cron', id='do_scrape_data', hour='*/8')
@@ -42,20 +43,20 @@ def inject_variables():
 @app.route('/')
 def index():
     '''
-    Displays a stream of the last 50 created tweets.
+    Displays a stream of the last 10 created tweets.
     '''
     party = request.args.get('party')
     header = request.args.get('header')
     if party and party.lower() == 'republican':
         sql = '''SELECT * FROM tweets
-                 WHERE party="Republican" OR party="Libertarian"
-                 ORDER BY id DESC LIMIT 50'''
+                 WHERE (party="Republican" OR party="Libertarian")
+                 ORDER BY id DESC LIMIT 10'''
     elif party and party.lower() == 'democratic':
         sql = '''SELECT * FROM tweets
-                 WHERE party="Democratic" OR party="Independent"
-                 ORDER BY id DESC LIMIT 50'''
+                 WHERE (party="Democratic" OR party="Independent")
+                 ORDER BY id DESC LIMIT 10'''
     else:
-        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 50'
+        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 10'
 
     tweets = sql_query(sql)
     return render_template('index.html.j2', header_visable=header, tweets=tweets)
@@ -70,14 +71,14 @@ def tile():
     header = request.args.get('header')
     if party and party.lower() == 'republican':
         sql = '''SELECT * FROM tweets
-                 WHERE party="Republican" OR party="Libertarian"
-                 ORDER BY id DESC LIMIT 50'''
+                 WHERE (party="Republican" OR party="Libertarian")
+                 ORDER BY id DESC LIMIT 10'''
     elif party and party.lower() == 'democratic':
         sql = '''SELECT * FROM tweets
-                 WHERE party="Democratic" OR party="Independent"
-                 ORDER BY id DESC LIMIT 50'''
+                 WHERE (party="Democratic" OR party="Independent")
+                 ORDER BY id DESC LIMIT 10'''
     else:
-        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 50'
+        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 10'
 
     tweets = sql_query(sql)
     return render_template('tile.html.j2', header_visable=header, tweets=tweets)
@@ -92,14 +93,14 @@ def stream():
     party = request.args.get('party')
     if party and party.lower() == 'republican':
         cur_tweet = sql_query('''SELECT id FROM tweets
-                                 WHERE party="Republican" OR party="Libertarian"
+                                 WHERE (party="Republican" OR party="Libertarian")
                                  ORDER BY id DESC LIMIT 1''')
         sql = '''SELECT * FROM tweets
                  WHERE party="Republican" OR party="Libertarian"
                  ORDER BY id DESC LIMIT 1'''
     elif party and party.lower() == 'democratic':
         cur_tweet = sql_query('''SELECT id FROM tweets
-                                 WHERE party="Democratic" OR party="Independent"
+                                 WHERE (party="Democratic" OR party="Independent")
                                  ORDER BY id DESC LIMIT 1''')
         sql = '''SELECT * FROM tweets
                  WHERE party="Democratic" OR party="Independent"
@@ -120,6 +121,37 @@ def stream():
                 yield f"data:{json.dumps(tweet[0])}\n\n"
 
     return Response(event_stream(), mimetype="text/event-stream")
+
+
+@app.route('/stream-cont')
+def stream_cont():
+    party = request.args.get('party')
+    last_id = request.args.get('id')
+    if not last_id:
+        abort(500)
+    if party and party.lower() == 'republican':
+        tweets = sql_query('''SELECT *
+                              FROM tweets
+                              WHERE (party="Republican" OR party="Libertarian")
+                              AND (id < %s)
+                              ORDER BY id DESC LIMIT 10''', (last_id,))
+    elif party and party.lower() == 'democratic':
+        tweets = sql_query('''SELECT *
+                              FROM tweets
+                              WHERE (party="Democratic" OR party="Independent")
+                              AND (id < %s)
+                              ORDER BY id DESC LIMIT 10''', (last_id,))
+    else:
+        tweets = sql_query('''SELECT *
+                              FROM tweets
+                              WHERE ( id < %s )
+                              ORDER BY id
+                              DESC LIMIT 10''', (last_id,))
+    return app.response_class(
+        response=json.dumps(tweets),
+        status=200,
+        mimetype='application/json'
+    )
 
 
 @app.route('/tweet/<int:tweet_id>')
