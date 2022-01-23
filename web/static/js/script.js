@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     var stream = document.getElementById('stream');
-    var lastId;
 
     if (typeof stream !== 'undefined') {
         const parsedUrl = new URL(window.location.href);
@@ -26,7 +25,6 @@ document.addEventListener('DOMContentLoaded', () => {
         // Fetch more tweets and add the the bottom of the feed when scroll reaches bottom
         window.onscroll = function(ev) {
             if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-                lastId = stream.lastElementChild.id;
 
                 function addStream(lastId) {
                     const xmlhttp = new XMLHttpRequest();
@@ -44,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     xmlhttp.send();
                 }
 
-                addStream(lastId)
+                addStream(stream.lastElementChild.id)
             }
         };
 
