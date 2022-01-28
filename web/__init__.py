@@ -71,13 +71,13 @@ def tile():
     if party and party.lower() == 'republican':
         sql = '''SELECT * FROM tweets
                  WHERE (party="Republican" OR party="Libertarian")
-                 ORDER BY id DESC LIMIT 10'''
+                 ORDER BY id DESC LIMIT 30'''
     elif party and party.lower() == 'democratic':
         sql = '''SELECT * FROM tweets
                  WHERE (party="Democratic" OR party="Independent")
-                 ORDER BY id DESC LIMIT 10'''
+                 ORDER BY id DESC LIMIT 30'''
     else:
-        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 10'
+        sql = 'SELECT * FROM tweets ORDER BY id DESC LIMIT 30'
 
     tweets = sql_query(sql)
     return render_template('tile.html.j2', header_visable=header, tweets=tweets)
